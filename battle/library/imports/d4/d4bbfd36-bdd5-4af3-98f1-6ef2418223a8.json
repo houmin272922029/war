@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_yanzhengma_01",
+    "texture": "c3679ec6-f211-42ee-84ec-c13b2b2d8c28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

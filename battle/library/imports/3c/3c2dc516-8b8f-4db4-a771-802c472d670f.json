@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jineng_zhaohuan",
+    "texture": "9ba5e20a-b3e3-4c78-a05b-4c2525ce99d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

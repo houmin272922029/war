@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_viptequan_shuzi_02",
+    "texture": "0a797020-9150-449b-a8a2-686d951ec68c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

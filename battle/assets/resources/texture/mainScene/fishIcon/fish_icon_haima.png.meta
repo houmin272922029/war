@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "01b86d2e-caec-4802-ac6f-134fa6c7cae2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "fish_icon_haima": {
+      "ver": "1.0.3",
+      "uuid": "ec3e60a8-3197-4f25-ba98-8c9a9278feb2",
+      "rawTextureUuid": "01b86d2e-caec-4802-ac6f-134fa6c7cae2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 59,
+      "rawWidth": 32,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cifu_yeshencifu_01",
+    "texture": "a130d837-cc57-4892-9890-7bcd7032bb39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

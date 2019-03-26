@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "44a593cd-f5bb-4884-8ec4-f43eab60a4f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_yulight": {
+      "ver": "1.0.3",
+      "uuid": "cd279ea9-1cdf-443b-b367-e5e778c589d6",
+      "rawTextureUuid": "44a593cd-f5bb-4884-8ec4-f43eab60a4f6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 811,
+      "height": 181,
+      "rawWidth": 811,
+      "rawHeight": 181,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

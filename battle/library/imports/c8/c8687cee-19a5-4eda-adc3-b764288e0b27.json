@@ -1,0 +1,7025 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_bigbosscome",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "EOj0nG514YnsX4OQxoVaY4dShtc",
+      "spine": "3.6.53",
+      "width": 1005.15,
+      "height": 466.04,
+      "images": "./png/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": -145.38
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "y": 145.38
+      },
+      {
+        "name": "dalongxia2",
+        "parent": "bone2",
+        "rotation": 29.67,
+        "x": 391.19,
+        "scaleX": 0.75,
+        "scaleY": 0.75
+      },
+      {
+        "name": "gui",
+        "parent": "bone2",
+        "x": 407.47
+      },
+      {
+        "name": "zbosslaixi",
+        "parent": "root",
+        "y": 145.38
+      },
+      {
+        "name": "zbosslaixi2",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi3",
+        "parent": "zbosslaixi",
+        "x": -58,
+        "y": -67.57
+      },
+      {
+        "name": "zbosslaixi4",
+        "parent": "zbosslaixi",
+        "x": 9.36,
+        "y": -0.78
+      },
+      {
+        "name": "zbosslaixi5",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi6",
+        "parent": "zbosslaixi",
+        "scaleX": 3.3,
+        "scaleY": 3.3
+      },
+      {
+        "name": "zbosslaixi7",
+        "parent": "zbosslaixi",
+        "scaleX": 3.3,
+        "scaleY": 3.3
+      },
+      {
+        "name": "zbosslaixi8",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi9",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi10",
+        "parent": "zbosslaixi",
+        "scaleX": 3.3,
+        "scaleY": 3.3
+      },
+      {
+        "name": "zbosslaixi11",
+        "parent": "zbosslaixi",
+        "x": -77.69,
+        "y": -158.4
+      },
+      {
+        "name": "zbosslaixi12",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi13",
+        "parent": "zbosslaixi",
+        "scaleX": 3.3,
+        "scaleY": 3.3
+      },
+      {
+        "name": "zbosslaixi14",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi15",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi17",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi18",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi19",
+        "parent": "zbosslaixi",
+        "rotation": 173.83,
+        "x": 89.86,
+        "y": -95.84,
+        "scaleX": 2.676,
+        "scaleY": 2.676
+      },
+      {
+        "name": "zbosslaixi20",
+        "parent": "zbosslaixi"
+      },
+      {
+        "name": "zbosslaixi21",
+        "parent": "zbosslaixi",
+        "rotation": 173.83,
+        "x": 89.86,
+        "y": -95.84,
+        "scaleX": 2.676,
+        "scaleY": 2.676
+      },
+      {
+        "name": "zbosslaixi22",
+        "parent": "zbosslaixi",
+        "rotation": 173.83,
+        "x": 89.86,
+        "y": -95.84,
+        "scaleX": 2.676,
+        "scaleY": 2.676
+      },
+      {
+        "name": "zbosslaixi23",
+        "parent": "zbosslaixi",
+        "rotation": 173.83,
+        "x": 89.86,
+        "y": -95.84,
+        "scaleX": 2.676,
+        "scaleY": 2.676
+      }
+    ],
+    "slots": [
+      {
+        "name": "boss来袭/light0",
+        "bone": "zbosslaixi5",
+        "attachment": "boss来袭/light0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/light",
+        "bone": "zbosslaixi12",
+        "attachment": "boss来袭/light"
+      },
+      {
+        "name": "boss来袭/light/lightda_1",
+        "bone": "zbosslaixi15",
+        "attachment": "boss来袭/light/lightda_0"
+      },
+      {
+        "name": "boss来袭/light/lightda_2",
+        "bone": "zbosslaixi17",
+        "attachment": "boss来袭/light/lightda_0"
+      },
+      {
+        "name": "boss来袭/lidian_5",
+        "bone": "zbosslaixi22",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_6",
+        "bone": "zbosslaixi23",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/pan",
+        "bone": "zbosslaixi2",
+        "attachment": "boss来袭/pan"
+      },
+      {
+        "name": "boss来袭/dianquan",
+        "bone": "zbosslaixi4",
+        "attachment": "boss来袭/dianquan"
+      },
+      {
+        "name": "boss来袭/huan02",
+        "bone": "zbosslaixi9",
+        "attachment": "boss来袭/huan02",
+        "blend": "additive"
+      },
+      {
+        "name": "zbosslaixi2",
+        "bone": "zbosslaixi2",
+        "attachment": "boss来袭/pan_jin"
+      },
+      {
+        "name": "meihuishengbi",
+        "bone": "dalongxia2",
+        "attachment": "meihuishengbi"
+      },
+      {
+        "name": "boss来袭/800倍",
+        "bone": "zbosslaixi3",
+        "attachment": "boss来袭/800倍"
+      },
+      {
+        "name": "boss来袭/800倍2",
+        "bone": "zbosslaixi11",
+        "attachment": "boss来袭/longgui850"
+      },
+      {
+        "name": "boss来袭/light01",
+        "bone": "zbosslaixi6",
+        "attachment": "boss来袭/light01",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/huan01",
+        "bone": "zbosslaixi7",
+        "attachment": "boss来袭/huan01",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/huan03",
+        "bone": "zbosslaixi8",
+        "attachment": "boss来袭/huan03",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/light4",
+        "bone": "zbosslaixi10",
+        "attachment": "boss来袭/light4",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/light10_00177",
+        "bone": "zbosslaixi13",
+        "attachment": "boss来袭/light10_00177",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_0",
+        "bone": "zbosslaixi14",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_1",
+        "bone": "zbosslaixi18",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_3",
+        "bone": "zbosslaixi20",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_2",
+        "bone": "zbosslaixi19",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "boss来袭/lidian_4",
+        "bone": "zbosslaixi21",
+        "attachment": "boss来袭/lidian_0",
+        "blend": "additive"
+      },
+      {
+        "name": "龙龟-最高10番",
+        "bone": "gui",
+        "attachment": "龙龟-最高10番"
+      }
+    ],
+    "skins": {
+      "default": {
+        "boss来袭/800倍": {
+          "boss来袭/550": {
+            "x": -20.17,
+            "y": -92.28,
+            "width": 532,
+            "height": 190
+          },
+          "boss来袭/800倍": {
+            "x": -12.7,
+            "y": -92.48,
+            "width": 458,
+            "height": 189
+          },
+          "boss来袭/du800brei": {
+            "y": -92.85,
+            "width": 457,
+            "height": 189
+          },
+          "boss来袭/longgui850": {
+            "width": 533,
+            "height": 187
+          }
+        },
+        "boss来袭/800倍2": {
+          "boss来袭/longgui850": {
+            "width": 533,
+            "height": 187
+          }
+        },
+        "boss来袭/dianquan": {
+          "boss来袭/dianquan": {
+            "width": 398,
+            "height": 398
+          }
+        },
+        "boss来袭/huan01": {
+          "boss来袭/huan01": {
+            "width": 50,
+            "height": 50
+          }
+        },
+        "boss来袭/huan02": {
+          "boss来袭/huan02": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "boss来袭/huan03": {
+          "boss来袭/huan03": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "boss来袭/lidian_0": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_1": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_2": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_3": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_4": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_5": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/lidian_6": {
+          "boss来袭/lidian_0": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_2": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_4": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_6": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_7": {
+            "width": 167,
+            "height": 84
+          },
+          "boss来袭/lidian_10": {
+            "width": 167,
+            "height": 84
+          }
+        },
+        "boss来袭/light": {
+          "boss来袭/light": {
+            "width": 21,
+            "height": 21
+          }
+        },
+        "boss来袭/light/lightda_1": {
+          "boss来袭/light/lightda_0": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_1": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_2": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_3": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_4": {
+            "width": 501,
+            "height": 307
+          },
+          "boss来袭/light/lightda_5": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_6": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_7": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_8": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_9": {
+            "width": 251,
+            "height": 154
+          }
+        },
+        "boss来袭/light/lightda_2": {
+          "boss来袭/light/lightda_0": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_1": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_2": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_3": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_4": {
+            "width": 501,
+            "height": 307
+          },
+          "boss来袭/light/lightda_5": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_6": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_7": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_8": {
+            "width": 251,
+            "height": 154
+          },
+          "boss来袭/light/lightda_9": {
+            "width": 251,
+            "height": 154
+          }
+        },
+        "boss来袭/light0": {
+          "boss来袭/light0": {
+            "width": 218,
+            "height": 218
+          }
+        },
+        "boss来袭/light01": {
+          "boss来袭/light01": {
+            "width": 77,
+            "height": 77
+          }
+        },
+        "boss来袭/light10_00177": {
+          "boss来袭/light10_00177": {
+            "width": 98,
+            "height": 56
+          }
+        },
+        "boss来袭/light4": {
+          "boss来袭/light4": {
+            "width": 38,
+            "height": 38
+          }
+        },
+        "boss来袭/pan": {
+          "boss来袭/pan": {
+            "width": 423,
+            "height": 423
+          }
+        },
+        "meihuishengbi": {
+          "meihuishengbi": {
+            "width": 710,
+            "height": 207
+          }
+        },
+        "zbosslaixi2": {
+          "boss来袭/pan_jin": {
+            "x": 10.48,
+            "y": -88.48,
+            "width": 476,
+            "height": 129
+          }
+        },
+        "龙龟-最高10番": {
+          "龙龟-最高10番": {
+            "width": 488,
+            "height": 308
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "boss来袭/800倍": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "color": [
+              {
+                "time": 2.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/dianquan"
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3,
+                "color": "feff00ff"
+              },
+              {
+                "time": 1.7667,
+                "color": "feff0000"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan02"
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan03"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              },
+              {
+                "time": 0.8667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 0.9333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.0333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.1,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.1333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 0.4,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 0.4667,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 0.6,
+                "name": null
+              },
+              {
+                "time": 0.9,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 0.9333,
+                "name": null
+              },
+              {
+                "time": 0.9667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.0333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.1,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 0.2333,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 0.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              },
+              {
+                "time": 0.9,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 0.9333,
+                "name": null
+              },
+              {
+                "time": 0.9667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.0333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.1,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light0"
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light"
+              },
+              {
+                "time": 3.0667,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "8ff1ffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "0087ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light01"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "boss来袭/light/lightda_0"
+              },
+              {
+                "time": 0.2333,
+                "name": "boss来袭/light/lightda_1"
+              },
+              {
+                "time": 0.2667,
+                "name": "boss来袭/light/lightda_2"
+              },
+              {
+                "time": 0.3,
+                "name": "boss来袭/light/lightda_3"
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light/lightda_4"
+              },
+              {
+                "time": 0.3667,
+                "name": "boss来袭/light/lightda_5"
+              },
+              {
+                "time": 0.4,
+                "name": "boss来袭/light/lightda_6"
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light/lightda_7"
+              },
+              {
+                "time": 0.4667,
+                "name": "boss来袭/light/lightda_8"
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/light/lightda_9"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/light/lightda_0"
+              },
+              {
+                "time": 0.6,
+                "name": "boss来袭/light/lightda_1"
+              },
+              {
+                "time": 0.6333,
+                "name": "boss来袭/light/lightda_2"
+              },
+              {
+                "time": 0.6667,
+                "name": "boss来袭/light/lightda_3"
+              },
+              {
+                "time": 0.7,
+                "name": "boss来袭/light/lightda_4"
+              },
+              {
+                "time": 0.7333,
+                "name": "boss来袭/light/lightda_5"
+              },
+              {
+                "time": 0.7667,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": "boss来袭/light/lightda_7"
+              },
+              {
+                "time": 0.8333,
+                "name": "boss来袭/light/lightda_8"
+              },
+              {
+                "time": 0.8667,
+                "name": "boss来袭/light/lightda_9"
+              },
+              {
+                "time": 0.9,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2,
+                "name": "boss来袭/light/lightda_0"
+              },
+              {
+                "time": 0.2333,
+                "name": "boss来袭/light/lightda_1"
+              },
+              {
+                "time": 0.2667,
+                "name": "boss来袭/light/lightda_2"
+              },
+              {
+                "time": 0.3,
+                "name": "boss来袭/light/lightda_3"
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light/lightda_4"
+              },
+              {
+                "time": 0.3667,
+                "name": "boss来袭/light/lightda_5"
+              },
+              {
+                "time": 0.4,
+                "name": "boss来袭/light/lightda_6"
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light/lightda_7"
+              },
+              {
+                "time": 0.4667,
+                "name": "boss来袭/light/lightda_8"
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/light/lightda_9"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/light/lightda_0"
+              },
+              {
+                "time": 0.6,
+                "name": "boss来袭/light/lightda_1"
+              },
+              {
+                "time": 0.6333,
+                "name": "boss来袭/light/lightda_2"
+              },
+              {
+                "time": 0.6667,
+                "name": "boss来袭/light/lightda_3"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              },
+              {
+                "time": 0.7333,
+                "name": "boss来袭/light/lightda_5"
+              },
+              {
+                "time": 0.7667,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": "boss来袭/light/lightda_7"
+              },
+              {
+                "time": 0.8333,
+                "name": "boss来袭/light/lightda_8"
+              },
+              {
+                "time": 0.8667,
+                "name": "boss来袭/light/lightda_9"
+              },
+              {
+                "time": 0.9,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 3.1667,
+                "name": "boss来袭/light10_00177"
+              },
+              {
+                "time": 3.4,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "color": [
+              {
+                "time": 3.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.2667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4667,
+                "name": "boss来袭/pan"
+              },
+              {
+                "time": 3.2667,
+                "name": null
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4667,
+                "name": "boss来袭/pan_jin"
+              },
+              {
+                "time": 3.2667,
+                "name": null
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zbosslaixi2": {
+            "translate": [
+              {
+                "time": 3,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.4667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6333,
+                "x": 1.5,
+                "y": 1.5
+              },
+              {
+                "time": 0.7667,
+                "x": 1.6,
+                "y": 1.6
+              },
+              {
+                "time": 0.8333,
+                "x": 0.47,
+                "y": 0.47
+              },
+              {
+                "time": 0.8667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2,
+                "x": 0.1,
+                "y": 0.1
+              }
+            ]
+          },
+          "zbosslaixi5": {
+            "rotate": [
+              {
+                "time": 0.7333,
+                "angle": 80
+              },
+              {
+                "time": 1.9,
+                "angle": 0
+              },
+              {
+                "time": 3,
+                "angle": -89
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4333,
+                "x": 8,
+                "y": 8,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.7333,
+                "x": 3,
+                "y": 3
+              },
+              {
+                "time": 1,
+                "x": 3.342,
+                "y": 3.242
+              }
+            ]
+          },
+          "zbosslaixi6": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 10,
+                "y": 10
+              }
+            ]
+          },
+          "zbosslaixi8": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7,
+                "x": 8,
+                "y": 8
+              }
+            ]
+          },
+          "zbosslaixi9": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 2.6,
+                "y": 2.6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.7667,
+                "x": 6,
+                "y": 6
+              }
+            ]
+          },
+          "zbosslaixi4": {
+            "rotate": [
+              {
+                "time": 1.4,
+                "angle": 0
+              },
+              {
+                "time": 2.5,
+                "angle": -30.73
+              },
+              {
+                "time": 3.3333,
+                "angle": -49.93
+              }
+            ],
+            "translate": [
+              {
+                "time": 1.4,
+                "x": -7.08,
+                "y": 0
+              }
+            ]
+          },
+          "zbosslaixi13": {
+            "scale": [
+              {
+                "time": 3.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2667,
+                "x": 2.999,
+                "y": 0.136
+              },
+              {
+                "time": 3.4,
+                "x": 0.537,
+                "y": 0.072
+              }
+            ]
+          },
+          "zbosslaixi15": {
+            "translate": [
+              {
+                "time": 0.2,
+                "x": -400.54,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.2,
+                "x": 3.819,
+                "y": 3.271
+              }
+            ]
+          },
+          "zbosslaixi17": {
+            "translate": [
+              {
+                "time": 0.2,
+                "x": 453.44,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.2,
+                "x": -4.52,
+                "y": 2.86
+              }
+            ]
+          },
+          "zbosslaixi14": {
+            "scale": [
+              {
+                "time": 0.8,
+                "x": 4.39,
+                "y": 4.39
+              }
+            ]
+          },
+          "zbosslaixi12": {
+            "translate": [
+              {
+                "time": 0.4333,
+                "x": -15.17,
+                "y": 51.02
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 21.834,
+                "y": 21.384
+              }
+            ]
+          },
+          "zbosslaixi22": {
+            "rotate": [
+              {
+                "time": 0.2667,
+                "angle": -176.49,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8667,
+                "angle": -176.49
+              },
+              {
+                "time": 0.9,
+                "angle": -171.69
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.2667,
+                "x": -289.53,
+                "y": 95.88,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8667,
+                "x": -289.53,
+                "y": 95.88
+              },
+              {
+                "time": 0.9,
+                "x": -566.88,
+                "y": 119.85
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.2667,
+                "x": 1.924,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9,
+                "x": 1.924,
+                "y": 1
+              }
+            ]
+          },
+          "zbosslaixi23": {
+            "rotate": [
+              {
+                "time": 0.2,
+                "angle": -174.09,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9,
+                "angle": -174.09
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.2,
+                "x": 343.91,
+                "y": 78.76,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9,
+                "x": 343.91,
+                "y": 78.76
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.2,
+                "x": -2.12,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9,
+                "x": -2.12,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "animation_gui": {
+        "slots": {
+          "boss来袭/800倍": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              },
+              {
+                "time": 1.6,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/longgui850"
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/huan01"
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan03"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              },
+              {
+                "time": 2.8667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.9333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 3,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 3.0333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 3.1,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 3.1333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "8ff1ffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "0087ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light01"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light4"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 3.1667,
+                "name": "boss来袭/light10_00177"
+              },
+              {
+                "time": 3.4,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "meihuishengbi"
+              },
+              {
+                "time": 1.1667,
+                "name": "meihuishengbi"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.1667,
+                "name": "龙龟-最高10番"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zbosslaixi3": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "zbosslaixi6": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 10,
+                "y": 10
+              }
+            ]
+          },
+          "zbosslaixi7": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 6.667,
+                "y": 6.667,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 24.242,
+                "y": 24.242
+              }
+            ]
+          },
+          "zbosslaixi8": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7,
+                "x": 8,
+                "y": 8
+              }
+            ]
+          },
+          "zbosslaixi10": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 19.234,
+                "y": 17.39
+              }
+            ]
+          },
+          "zbosslaixi13": {
+            "scale": [
+              {
+                "time": 3.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2667,
+                "x": 2.999,
+                "y": 0.136
+              },
+              {
+                "time": 3.4,
+                "x": 0.537,
+                "y": 0.072
+              }
+            ]
+          },
+          "zbosslaixi18": {
+            "rotate": [
+              {
+                "time": 1,
+                "angle": -153.35
+              }
+            ],
+            "translate": [
+              {
+                "time": 1,
+                "x": -26.51,
+                "y": 161.78
+              }
+            ],
+            "scale": [
+              {
+                "time": 1,
+                "x": 2.69,
+                "y": 2.69
+              }
+            ]
+          },
+          "zbosslaixi20": {
+            "rotate": [
+              {
+                "time": 1.2,
+                "angle": -163.09
+              }
+            ],
+            "translate": [
+              {
+                "time": 1.2,
+                "x": 17.5,
+                "y": 122.66
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2,
+                "x": -2.767,
+                "y": -2.494
+              }
+            ]
+          },
+          "zbosslaixi21": {
+            "translate": [
+              {
+                "time": 1.2,
+                "x": -138.88,
+                "y": -34.23
+              }
+            ]
+          },
+          "zbosslaixi11": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "gui": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -8.4
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 523.59,
+                "y": 89.54,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "x": 523.59,
+                "y": 89.54
+              },
+              {
+                "time": 1.3333,
+                "x": -251.56,
+                "y": 33.83
+              },
+              {
+                "time": 1.4,
+                "x": -211.78,
+                "y": 35.33
+              },
+              {
+                "time": 1.4667,
+                "x": -230.87,
+                "y": 36.84
+              },
+              {
+                "time": 1.6333,
+                "x": -212.38,
+                "y": 40.59,
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "x": -212.38,
+                "y": 40.59
+              },
+              {
+                "time": 3.1667,
+                "x": 721.44,
+                "y": 82.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 1.2667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 1.3667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.9333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "x": 1.05,
+                "y": 1.05
+              }
+            ]
+          }
+        }
+      },
+      "animation_jing": {
+        "slots": {
+          "boss来袭/800倍": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/du800brei"
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/huan01"
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan03"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              },
+              {
+                "time": 2.8667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.9333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 3,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 3.0333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 3.1,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 3.1333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "8ff1ffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "0087ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light01"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light4"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 3.1667,
+                "name": "boss来袭/light10_00177"
+              },
+              {
+                "time": 3.4,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zbosslaixi3": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "zbosslaixi6": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 10,
+                "y": 10
+              }
+            ]
+          },
+          "zbosslaixi7": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 6.667,
+                "y": 6.667,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 24.242,
+                "y": 24.242
+              }
+            ]
+          },
+          "zbosslaixi8": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7,
+                "x": 8,
+                "y": 8
+              }
+            ]
+          },
+          "zbosslaixi10": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 19.234,
+                "y": 17.39
+              }
+            ]
+          },
+          "zbosslaixi13": {
+            "scale": [
+              {
+                "time": 3.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2667,
+                "x": 2.999,
+                "y": 0.136
+              },
+              {
+                "time": 3.4,
+                "x": 0.537,
+                "y": 0.072
+              }
+            ]
+          },
+          "zbosslaixi18": {
+            "rotate": [
+              {
+                "time": 1,
+                "angle": -153.35
+              }
+            ],
+            "translate": [
+              {
+                "time": 1,
+                "x": -26.51,
+                "y": 161.78
+              }
+            ],
+            "scale": [
+              {
+                "time": 1,
+                "x": 2.69,
+                "y": 2.69
+              }
+            ]
+          },
+          "zbosslaixi20": {
+            "rotate": [
+              {
+                "time": 1.2,
+                "angle": -163.09
+              }
+            ],
+            "translate": [
+              {
+                "time": 1.2,
+                "x": 17.5,
+                "y": 122.66
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2,
+                "x": -2.767,
+                "y": -2.494
+              }
+            ]
+          },
+          "zbosslaixi21": {
+            "translate": [
+              {
+                "time": 1.2,
+                "x": -138.88,
+                "y": -34.23
+              }
+            ]
+          },
+          "zbosslaixi11": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          }
+        }
+      },
+      "animation_meihuobo": {
+        "slots": {
+          "boss来袭/800倍": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "meihuishengbi"
+              },
+              {
+                "time": 1.4333,
+                "name": "meihuishengbi"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "dalongxia2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -29.67,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.4333,
+                "angle": -29.67
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 517.12,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": -430.16,
+                "y": 0
+              },
+              {
+                "time": 0.2333,
+                "x": -391.19,
+                "y": 0
+              },
+              {
+                "time": 0.3,
+                "x": -399.9,
+                "y": 0
+              },
+              {
+                "time": 0.3667,
+                "x": -391.19,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": -392,
+                "y": 0
+              },
+              {
+                "time": 0.5,
+                "x": -391.19,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "x": -391.19,
+                "y": 0
+              },
+              {
+                "time": 1.2667,
+                "x": 306.13,
+                "y": 0
+              },
+              {
+                "time": 1.4333,
+                "x": -391.19,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.2,
+                "y": 0.285
+              },
+              {
+                "time": 0.1667,
+                "x": 1.2,
+                "y": 1.2,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.2667,
+                "x": 1.2,
+                "y": 0
+              }
+            ]
+          },
+          "bone2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 184.52
+              }
+            ]
+          }
+        }
+      },
+      "animation_xia": {
+        "slots": {
+          "boss来袭/800倍": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/550"
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/huan01"
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan03"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              },
+              {
+                "time": 2.8667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.9333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 3,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 3.0333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 3.1,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 3.1333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "8ff1ffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "0087ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light01"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light4"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 3.1667,
+                "name": "boss来袭/light10_00177"
+              },
+              {
+                "time": 3.4,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zbosslaixi3": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "zbosslaixi6": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 10,
+                "y": 10
+              }
+            ]
+          },
+          "zbosslaixi7": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 6.667,
+                "y": 6.667,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 24.242,
+                "y": 24.242
+              }
+            ]
+          },
+          "zbosslaixi8": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7,
+                "x": 8,
+                "y": 8
+              }
+            ]
+          },
+          "zbosslaixi10": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 19.234,
+                "y": 17.39
+              }
+            ]
+          },
+          "zbosslaixi13": {
+            "scale": [
+              {
+                "time": 3.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2667,
+                "x": 2.999,
+                "y": 0.136
+              },
+              {
+                "time": 3.4,
+                "x": 0.537,
+                "y": 0.072
+              }
+            ]
+          },
+          "zbosslaixi18": {
+            "rotate": [
+              {
+                "time": 1,
+                "angle": -153.35
+              }
+            ],
+            "translate": [
+              {
+                "time": 1,
+                "x": -26.51,
+                "y": 161.78
+              }
+            ],
+            "scale": [
+              {
+                "time": 1,
+                "x": 2.69,
+                "y": 2.69
+              }
+            ]
+          },
+          "zbosslaixi20": {
+            "rotate": [
+              {
+                "time": 1.2,
+                "angle": -163.09
+              }
+            ],
+            "translate": [
+              {
+                "time": 1.2,
+                "x": 17.5,
+                "y": 122.66
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2,
+                "x": -2.767,
+                "y": -2.494
+              }
+            ]
+          },
+          "zbosslaixi21": {
+            "translate": [
+              {
+                "time": 1.2,
+                "x": -138.88,
+                "y": -34.23
+              }
+            ]
+          },
+          "zbosslaixi11": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          }
+        }
+      },
+      "animation_yu": {
+        "slots": {
+          "boss来袭/800倍": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "boss来袭/800倍"
+              }
+            ]
+          },
+          "boss来袭/800倍2": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/dianquan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/huan01"
+              }
+            ]
+          },
+          "boss来袭/huan02": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/huan03": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "boss来袭/huan03"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.1333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.3,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.3333,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.7667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.8667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.9333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.9667,
+                "name": null
+              },
+              {
+                "time": 2.3333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.3667,
+                "name": null
+              },
+              {
+                "time": 2.4,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.4667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.5333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.6667,
+                "name": null
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              },
+              {
+                "time": 2.8667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.9333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 3,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 3.0333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 3.1,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 3.1333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_4": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.2333,
+                "name": null
+              },
+              {
+                "time": 1.2667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.3333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 1.4,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 1.4333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 1.5,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.8333,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 1.8667,
+                "name": null
+              },
+              {
+                "time": 1.9,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 1.9667,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.0333,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.0667,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.1333,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.1667,
+                "name": null
+              },
+              {
+                "time": 2.5,
+                "name": "boss来袭/lidian_0"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 2.5667,
+                "name": "boss来袭/lidian_2"
+              },
+              {
+                "time": 2.6333,
+                "name": "boss来袭/lidian_4"
+              },
+              {
+                "time": 2.7,
+                "name": "boss来袭/lidian_6"
+              },
+              {
+                "time": 2.7333,
+                "name": "boss来袭/lidian_7"
+              },
+              {
+                "time": 2.8,
+                "name": "boss来袭/lidian_10"
+              },
+              {
+                "time": 2.8333,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/lidian_6": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light01": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "8ff1ffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "0087ff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "boss来袭/light01"
+              }
+            ]
+          },
+          "boss来袭/light4": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "boss来袭/light4"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light/lightda_2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/light10_00177": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 3.1667,
+                "name": "boss来袭/light10_00177"
+              },
+              {
+                "time": 3.4,
+                "name": null
+              }
+            ]
+          },
+          "boss来袭/pan": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "meihuishengbi": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 1.1667,
+                "name": "meihuishengbi"
+              }
+            ]
+          },
+          "zbosslaixi2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              }
+            ]
+          },
+          "龙龟-最高10番": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "zbosslaixi3": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "zbosslaixi6": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 10,
+                "y": 10
+              }
+            ]
+          },
+          "zbosslaixi7": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 6.667,
+                "y": 6.667,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "x": 24.242,
+                "y": 24.242
+              }
+            ]
+          },
+          "zbosslaixi8": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7,
+                "x": 8,
+                "y": 8
+              }
+            ]
+          },
+          "zbosslaixi10": {
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 19.234,
+                "y": 17.39
+              }
+            ]
+          },
+          "zbosslaixi13": {
+            "scale": [
+              {
+                "time": 3.1667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3.2667,
+                "x": 2.999,
+                "y": 0.136
+              },
+              {
+                "time": 3.4,
+                "x": 0.537,
+                "y": 0.072
+              }
+            ]
+          },
+          "zbosslaixi18": {
+            "rotate": [
+              {
+                "time": 1,
+                "angle": -153.35
+              }
+            ],
+            "translate": [
+              {
+                "time": 1,
+                "x": -26.51,
+                "y": 161.78
+              }
+            ],
+            "scale": [
+              {
+                "time": 1,
+                "x": 2.69,
+                "y": 2.69
+              }
+            ]
+          },
+          "zbosslaixi20": {
+            "rotate": [
+              {
+                "time": 1.2,
+                "angle": -163.09
+              }
+            ],
+            "translate": [
+              {
+                "time": 1.2,
+                "x": 17.5,
+                "y": 122.66
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.2,
+                "x": -2.767,
+                "y": -2.494
+              }
+            ]
+          },
+          "zbosslaixi21": {
+            "translate": [
+              {
+                "time": 1.2,
+                "x": -138.88,
+                "y": -34.23
+              }
+            ]
+          },
+          "zbosslaixi11": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 79.27,
+                "y": -87
+              },
+              {
+                "time": 0.6667,
+                "x": 80.15,
+                "y": 144
+              },
+              {
+                "time": 0.7667,
+                "x": 80.15,
+                "y": 158
+              },
+              {
+                "time": 0.8333,
+                "x": 80.15,
+                "y": 12.58
+              },
+              {
+                "time": 0.9333,
+                "x": 80.15,
+                "y": 31
+              },
+              {
+                "time": 1.0333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.1333,
+                "x": 80.15,
+                "y": 22
+              },
+              {
+                "time": 1.2333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.3333,
+                "x": 80.15,
+                "y": 18.07
+              },
+              {
+                "time": 1.4333,
+                "x": 80.15,
+                "y": 12.8
+              },
+              {
+                "time": 1.5333,
+                "x": 80.15,
+                "y": 16.09
+              },
+              {
+                "time": 1.6333,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 1.7333,
+                "x": 80.15,
+                "y": 14.73
+              },
+              {
+                "time": 1.8333,
+                "x": 80.15,
+                "y": 14.18,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 80.15,
+                "y": 14.18
+              },
+              {
+                "time": 3,
+                "x": 925.77,
+                "y": 2.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.6667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 0.7667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 0.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.9333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.0333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.2333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 3,
+                "x": 0.255,
+                "y": 0.255
+              }
+            ]
+          },
+          "dalongxia2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -8.4
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 523.59,
+                "y": 89.54,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "x": 523.59,
+                "y": 89.54
+              },
+              {
+                "time": 1.3333,
+                "x": -251.56,
+                "y": 33.83
+              },
+              {
+                "time": 1.4,
+                "x": -211.78,
+                "y": 35.33
+              },
+              {
+                "time": 1.4667,
+                "x": -230.87,
+                "y": 36.84
+              },
+              {
+                "time": 1.6333,
+                "x": -212.38,
+                "y": 40.59,
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "x": -212.38,
+                "y": 40.59
+              },
+              {
+                "time": 3.1667,
+                "x": 721.44,
+                "y": 82.34
+              }
+            ],
+            "scale": [
+              {
+                "time": 1.1667,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 1.2667,
+                "x": 2.45,
+                "y": 1.25
+              },
+              {
+                "time": 1.3667,
+                "x": 1.51,
+                "y": 1.65
+              },
+              {
+                "time": 1.4333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5333,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.7333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.8333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.9333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": "stepped"
+              },
+              {
+                "time": 3,
+                "x": 1.05,
+                "y": 1.05
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_bigbosscome.png\r\nsize: 2017,441\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nboss来袭/550\r\n  rotate: true\r\n  xy: 129, 83\r\n  size: 356, 127\r\n  orig: 356, 127\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/800倍\r\n  rotate: true\r\n  xy: 674, 132\r\n  size: 307, 127\r\n  orig: 307, 127\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/dianquan\r\n  rotate: false\r\n  xy: 1088, 172\r\n  size: 267, 267\r\n  orig: 267, 267\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/du800brei\r\n  rotate: false\r\n  xy: 761, 3\r\n  size: 306, 127\r\n  orig: 306, 127\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/huan01\r\n  rotate: false\r\n  xy: 1763, 210\r\n  size: 34, 34\r\n  orig: 34, 34\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/huan02\r\n  rotate: false\r\n  xy: 1357, 179\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/huan03\r\n  rotate: false\r\n  xy: 1357, 267\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_0\r\n  rotate: false\r\n  xy: 42, 24\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_10\r\n  rotate: true\r\n  xy: 1705, 186\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_2\r\n  rotate: false\r\n  xy: 156, 25\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_4\r\n  rotate: true\r\n  xy: 1531, 186\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_6\r\n  rotate: true\r\n  xy: 1589, 186\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/lidian_7\r\n  rotate: true\r\n  xy: 1647, 186\r\n  size: 112, 56\r\n  orig: 112, 56\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light\r\n  rotate: false\r\n  xy: 42, 8\r\n  size: 14, 14\r\n  orig: 14, 14\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_0\r\n  rotate: false\r\n  xy: 591, 7\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_1\r\n  rotate: true\r\n  xy: 1217, 2\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_2\r\n  rotate: true\r\n  xy: 1322, 2\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_3\r\n  rotate: true\r\n  xy: 1427, 9\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_4\r\n  rotate: true\r\n  xy: 258, 103\r\n  size: 336, 206\r\n  orig: 336, 206\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_5\r\n  rotate: true\r\n  xy: 1532, 16\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_6\r\n  rotate: true\r\n  xy: 1637, 16\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_7\r\n  rotate: true\r\n  xy: 1742, 16\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_8\r\n  rotate: false\r\n  xy: 1847, 195\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light/lightda_9\r\n  rotate: false\r\n  xy: 1847, 90\r\n  size: 168, 103\r\n  orig: 168, 103\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light0\r\n  rotate: false\r\n  xy: 1069, 8\r\n  size: 146, 146\r\n  orig: 146, 146\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light01\r\n  rotate: false\r\n  xy: 1763, 246\r\n  size: 52, 52\r\n  orig: 52, 52\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light10_00177\r\n  rotate: true\r\n  xy: 2, 14\r\n  size: 66, 38\r\n  orig: 66, 38\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/light4\r\n  rotate: false\r\n  xy: 1817, 273\r\n  size: 25, 25\r\n  orig: 25, 25\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/longgui850\r\n  rotate: true\r\n  xy: 2, 82\r\n  size: 357, 125\r\n  orig: 357, 125\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/pan\r\n  rotate: false\r\n  xy: 803, 156\r\n  size: 283, 283\r\n  orig: 283, 283\r\n  offset: 0, 0\r\n  index: -1\r\nboss来袭/pan_jin\r\n  rotate: false\r\n  xy: 270, 15\r\n  size: 319, 86\r\n  orig: 319, 86\r\n  offset: 0, 0\r\n  index: -1\r\nmeihuishengbi\r\n  rotate: false\r\n  xy: 1531, 300\r\n  size: 476, 139\r\n  orig: 476, 139\r\n  offset: 0, 0\r\n  index: -1\r\n龙龟-最高10番\r\n  rotate: true\r\n  xy: 466, 112\r\n  size: 327, 206\r\n  orig: 327, 206\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "b2ecc079-6ce3-4265-a694-8977a637c6f0"
+    }
+  ],
+  "textureNames": [
+    "anim_bigbosscome.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duihuan_xiugai_01",
+    "texture": "667d8337-8544-4f4f-a753-925df5f9b632",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_hongzhajipaotai",
+    "texture": "9aaeb318-dadc-4718-98b9-55ed08dff19f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      333,
+      780
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      339,
+      784
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

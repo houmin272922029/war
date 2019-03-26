@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shengji_dianji_01",
+    "texture": "bcd3ac26-6279-4620-af85-67aa7fda3cef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

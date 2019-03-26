@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_rollback_01",
+    "texture": "24fa5156-33a7-418b-a2c0-5ecbdbb766cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      283,
+      284
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      283,
+      284
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

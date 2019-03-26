@@ -1,0 +1,641 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_miaozhun",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "M0hQHNAXCpBM3H3EApoVjqjxKqg",
+      "spine": "3.6.53",
+      "width": 186,
+      "height": 145,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root"
+      },
+      {
+        "name": "bone7",
+        "parent": "root"
+      },
+      {
+        "name": "bone8",
+        "parent": "root"
+      },
+      {
+        "name": "bone9",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/qiehuan/123",
+        "bone": "bone2",
+        "attachment": "png/qiehuan/123"
+      },
+      {
+        "name": "png/qiehuan/shoudong",
+        "bone": "bone3",
+        "attachment": "png/qiehuan/shoudong"
+      },
+      {
+        "name": "png/qiehuan/bbl_00000",
+        "bone": "bone5",
+        "attachment": "png/qiehuan/bbl_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/qiehuan/1",
+        "bone": "bone6",
+        "attachment": "png/qiehuan/1"
+      },
+      {
+        "name": "png/qiehuan/3",
+        "bone": "bone8",
+        "attachment": "png/qiehuan/3"
+      },
+      {
+        "name": "png/qiehuan/2",
+        "bone": "bone9",
+        "attachment": "png/qiehuan/2"
+      },
+      {
+        "name": "png/qiehuan/zhineng",
+        "bone": "bone7",
+        "attachment": "png/qiehuan/zhineng"
+      },
+      {
+        "name": "png/qiehuan/yi",
+        "bone": "bone4",
+        "attachment": "png/qiehuan/yi",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/qiehuan/1": {
+          "png/qiehuan/1": {
+            "width": 102,
+            "height": 102
+          }
+        },
+        "png/qiehuan/123": {
+          "png/qiehuan/123": {
+            "width": 139,
+            "height": 145
+          }
+        },
+        "png/qiehuan/2": {
+          "png/qiehuan/2": {
+            "width": 60,
+            "height": 60
+          }
+        },
+        "png/qiehuan/3": {
+          "png/qiehuan/3": {
+            "width": 73,
+            "height": 72
+          }
+        },
+        "png/qiehuan/bbl_00000": {
+          "png/qiehuan/bbl_00000": {
+            "width": 50,
+            "height": 50
+          }
+        },
+        "png/qiehuan/shoudong": {
+          "png/qiehuan/shoudong": {
+            "width": 186,
+            "height": 59
+          }
+        },
+        "png/qiehuan/yi": {
+          "png/qiehuan/yi": {
+            "width": 170,
+            "height": 138
+          }
+        },
+        "png/qiehuan/zhineng": {
+          "png/qiehuan/zhineng": {
+            "width": 186,
+            "height": 59
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/qiehuan/1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/qiehuan/2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/qiehuan/3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/qiehuan/123": {
+            "color": [
+              {
+                "time": 0.4,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/qiehuan/bbl_00000": {
+            "color": [
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1333,
+                "name": "png/qiehuan/bbl_00000"
+              }
+            ]
+          },
+          "png/qiehuan/yi": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "png/qiehuan/yi"
+              },
+              {
+                "time": 0.2333,
+                "name": null
+              }
+            ]
+          },
+          "png/qiehuan/zhineng": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.2,
+                "y": 0.2
+              },
+              {
+                "time": 0.0667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2,
+                "x": 1.307,
+                "y": 1.307
+              },
+              {
+                "time": 0.3,
+                "x": 0.903,
+                "y": 0.901
+              },
+              {
+                "time": 0.3667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0.1333,
+                "angle": 0
+              },
+              {
+                "time": 0.6,
+                "angle": -78
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.1333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.6,
+                "x": -5.12,
+                "y": 2.56
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.25,
+                "y": 0.25
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6,
+                "x": 1.27,
+                "y": 1.27
+              }
+            ]
+          },
+          "bone4": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 4.973,
+                "y": 4.023
+              },
+              {
+                "time": 0.2,
+                "x": 1.84,
+                "y": 0.17
+              }
+            ]
+          },
+          "bone5": {
+            "translate": [
+              {
+                "time": 0.1333,
+                "x": 3.56,
+                "y": -4.74
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1333,
+                "x": 16.17,
+                "y": 7.356
+              }
+            ]
+          }
+        }
+      },
+      "animation2": {
+        "slots": {
+          "png/qiehuan/1": {
+            "color": [
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/qiehuan/1"
+              }
+            ]
+          },
+          "png/qiehuan/2": {
+            "color": [
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/qiehuan/2"
+              }
+            ]
+          },
+          "png/qiehuan/3": {
+            "color": [
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/qiehuan/3"
+              }
+            ]
+          },
+          "png/qiehuan/123": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/qiehuan/bbl_00000": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3667,
+                "name": "png/qiehuan/bbl_00000"
+              }
+            ]
+          },
+          "png/qiehuan/shoudong": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/qiehuan/shoudong"
+              }
+            ]
+          },
+          "png/qiehuan/yi": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "png/qiehuan/yi"
+              },
+              {
+                "time": 0.4667,
+                "name": null
+              }
+            ]
+          },
+          "png/qiehuan/zhineng": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2667,
+                "name": "png/qiehuan/zhineng"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone5": {
+            "translate": [
+              {
+                "time": 0.3667,
+                "x": 3.56,
+                "y": -4.74
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.3667,
+                "x": 16.17,
+                "y": 7.356
+              }
+            ]
+          },
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5,
+                "angle": 135.91
+              },
+              {
+                "time": 1.6333,
+                "angle": -122.43
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.894,
+                "y": 1.894
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone7": {
+            "scale": [
+              {
+                "time": 0.2667,
+                "x": 0.2,
+                "y": 0.2
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4667,
+                "x": 1.307,
+                "y": 1.307
+              },
+              {
+                "time": 0.5667,
+                "x": 0.903,
+                "y": 0.901
+              },
+              {
+                "time": 0.6333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone8": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3333,
+                "angle": -51.6
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 2.128,
+                "y": 2.127
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone9": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -160
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.509,
+                "y": 1.509
+              },
+              {
+                "time": 0.5,
+                "x": 0.941,
+                "y": 0.941
+              },
+              {
+                "time": 0.7333,
+                "x": 1.133,
+                "y": 1.133
+              },
+              {
+                "time": 1.0667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3,
+                "x": 1.133,
+                "y": 1.133
+              },
+              {
+                "time": 1.6333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "scale": [
+              {
+                "time": 0.3333,
+                "x": 4.973,
+                "y": 4.023
+              },
+              {
+                "time": 0.4333,
+                "x": 1.84,
+                "y": 0.17
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_miaozhun.png\r\nsize: 332,267\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/qiehuan/1\r\n  rotate: false\r\n  xy: 155, 43\r\n  size: 102, 102\r\n  orig: 102, 102\r\n  offset: 0, 0\r\n  index: -1\r\npng/qiehuan/123\r\n  rotate: false\r\n  xy: 0, 122\r\n  size: 139, 145\r\n  orig: 139, 145\r\n  offset: 0, 0\r\n  index: -1\r\npng/qiehuan/2\r\n  rotate: false\r\n  xy: 259, 11\r\n  size: 60, 60\r\n  orig: 60, 60\r\n  offset: 0, 0\r\n  index: -1\r\npng/qiehuan/3\r\n  rotate: false\r\n  xy: 259, 73\r\n  size: 73, 72\r\n  orig: 73, 72\r\n  offset: 0, 0\r\n  index: -1\r\npng/qiehuan/bbl_00000\r\n  rotate: false\r\n  xy: 155, 1\r\n  size: 36, 40\r\n  orig: 50, 50\r\n  offset: 8, 5\r\n  index: -1\r\npng/qiehuan/shoudong\r\n  rotate: false\r\n  xy: 141, 208\r\n  size: 186, 59\r\n  orig: 186, 59\r\n  offset: 0, 0\r\n  index: -1\r\npng/qiehuan/yi\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 153, 120\r\n  orig: 170, 138\r\n  offset: 17, 10\r\n  index: -1\r\npng/qiehuan/zhineng\r\n  rotate: false\r\n  xy: 141, 147\r\n  size: 186, 59\r\n  orig: 186, 59\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "2175b6b2-c03f-45f9-a265-12e44fcaedfa"
+    }
+  ],
+  "textureNames": [
+    "anim_miaozhun.png"
+  ],
+  "scale": 1
+}

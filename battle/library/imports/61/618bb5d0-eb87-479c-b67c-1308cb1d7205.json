@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_hubidi_05",
+    "texture": "c6cd9ede-4953-4a04-bce3-3e231e0ce781",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      304,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      304,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

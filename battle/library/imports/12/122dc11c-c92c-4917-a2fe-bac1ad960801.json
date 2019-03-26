@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_daojuzengsong_haoyou_01",
+    "texture": "f2ad1f64-45e1-45ad-8592-e92eeabf9573",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

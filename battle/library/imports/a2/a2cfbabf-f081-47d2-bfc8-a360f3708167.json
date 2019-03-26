@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_shangcheng",
+    "texture": "acfd9366-d3ea-450d-ae9b-077b0e04d49d",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1022,
+      494
+    ],
+    "offset": [
+      -1,
+      8
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

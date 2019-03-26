@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jiesuan_wujiangpin_02",
+    "texture": "e6b1ba09-9de9-4857-86ce-66b96265c79f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

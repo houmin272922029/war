@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_miaoshu_02",
+    "texture": "ad9a8d5b-edcb-415a-ba2a-d9ca852f112f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

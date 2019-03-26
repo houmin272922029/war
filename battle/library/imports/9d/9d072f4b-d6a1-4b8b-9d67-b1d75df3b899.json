@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jifenzhengduo_bisaijieshu_01",
+    "texture": "14b85e80-230f-4e7a-b76e-da0296d4c651",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

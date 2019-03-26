@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_huafei_qianting_01",
+    "texture": "4d6bb8ef-7bb9-4f0f-bd8d-cb545a12a174",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_bianfuyu",
+    "texture": "d426e0ad-f0c8-4daf-b723-8799b6522ba8",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      67,
+      63
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      68,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

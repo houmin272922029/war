@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingji_weishangban_01",
+    "texture": "ce6e8ea2-59ff-4045-bb7a-01ad73fe0eed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_wanjiaid_01",
+    "texture": "9af7c1b4-3a10-4032-a88f-8c3cef4843e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

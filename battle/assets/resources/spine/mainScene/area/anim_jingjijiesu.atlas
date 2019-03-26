@@ -1,0 +1,27 @@
+
+anim_jingjijiesu.png
+size: 1295,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg
+  rotate: false
+  xy: 665, 7
+  size: 324, 124
+  orig: 324, 124
+  offset: 0, 0
+  index: -1
+tiaozhanzi
+  rotate: false
+  xy: 991, 50
+  size: 304, 81
+  orig: 304, 81
+  offset: 0, 0
+  index: -1
+tzjsdi
+  rotate: false
+  xy: 0, 0
+  size: 663, 131
+  orig: 663, 131
+  offset: 0, 0
+  index: -1

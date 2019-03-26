@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shovelshadow",
+    "texture": "bbd20e96-af8b-4032-bf9f-c9df10288e8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      167
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      167
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

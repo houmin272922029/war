@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_laba",
+    "texture": "2807868c-59c9-4227-b554-814a7d55a33f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1460,
+      776
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1460,
+      777
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zhujiemian_xinxilan_01",
+    "texture": "0938f751-c612-4b33-ad3c-e97c827edae9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

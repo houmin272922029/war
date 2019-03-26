@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_haiweikaitong_01",
+    "texture": "6900d5a3-9697-40f4-987c-a09ba6de120e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

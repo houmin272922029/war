@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3cc2c064-3c6a-4480-9df9-45fba73b08ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shop_maijinbi_01": {
+      "ver": "1.0.3",
+      "uuid": "87f765e8-0f7b-425e-aa5f-d7b8c35efe7e",
+      "rawTextureUuid": "3cc2c064-3c6a-4480-9df9-45fba73b08ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 34,
+      "rawWidth": 105,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

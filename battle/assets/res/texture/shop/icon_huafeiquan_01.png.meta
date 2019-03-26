@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c67685a1-8071-407e-ac29-99ee02d6db33",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_huafeiquan_01": {
+      "ver": "1.0.3",
+      "uuid": "ca4c8c53-73af-4cbc-9e0f-d70969b34d63",
+      "rawTextureUuid": "c67685a1-8071-407e-ac29-99ee02d6db33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 78,
+      "rawWidth": 80,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

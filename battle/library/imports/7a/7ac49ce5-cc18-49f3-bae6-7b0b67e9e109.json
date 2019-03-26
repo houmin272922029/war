@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_goumaizuanshi_01",
+    "texture": "5b4ae5fe-b092-4d3e-9bf1-8fd424b50721",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

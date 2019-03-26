@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d34aee73-5e9d-4ea0-9a4e-34c6843c0e27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_light_01": {
+      "ver": "1.0.3",
+      "uuid": "f5ace525-b11a-481f-888f-eaedb28fef90",
+      "rawTextureUuid": "d34aee73-5e9d-4ea0-9a4e-34c6843c0e27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 173,
+      "height": 186,
+      "rawWidth": 173,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

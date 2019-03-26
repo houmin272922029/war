@@ -1,0 +1,272 @@
+
+anim_kuangbao.png
+size: 1220,1094
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/dikuang_00000
+  rotate: false
+  xy: 2, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00001
+  rotate: false
+  xy: 176, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00003
+  rotate: false
+  xy: 350, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00005
+  rotate: false
+  xy: 524, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00007
+  rotate: false
+  xy: 698, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00009
+  rotate: false
+  xy: 872, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00010
+  rotate: false
+  xy: 1046, 920
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00012
+  rotate: false
+  xy: 2, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/dikuang_00014
+  rotate: false
+  xy: 176, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00000
+  rotate: false
+  xy: 524, 382
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00002
+  rotate: false
+  xy: 727, 382
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00003
+  rotate: false
+  xy: 930, 382
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00004
+  rotate: false
+  xy: 2, 208
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00005
+  rotate: false
+  xy: 205, 208
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00006
+  rotate: false
+  xy: 408, 192
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00007
+  rotate: false
+  xy: 611, 192
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00008
+  rotate: false
+  xy: 814, 192
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00009
+  rotate: false
+  xy: 1017, 192
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00010
+  rotate: false
+  xy: 2, 18
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00011
+  rotate: false
+  xy: 205, 18
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00012
+  rotate: false
+  xy: 408, 2
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00014
+  rotate: false
+  xy: 611, 2
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/gaojikuang_00015
+  rotate: false
+  xy: 814, 2
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+png/zjkuang_00000
+  rotate: false
+  xy: 350, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00002
+  rotate: false
+  xy: 524, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00003
+  rotate: false
+  xy: 698, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00004
+  rotate: false
+  xy: 872, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00005
+  rotate: false
+  xy: 1046, 746
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00006
+  rotate: false
+  xy: 2, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00008
+  rotate: false
+  xy: 176, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00009
+  rotate: false
+  xy: 350, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00010
+  rotate: false
+  xy: 524, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00011
+  rotate: false
+  xy: 698, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00012
+  rotate: false
+  xy: 872, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00014
+  rotate: false
+  xy: 1046, 572
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00015
+  rotate: false
+  xy: 2, 398
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00016
+  rotate: false
+  xy: 176, 398
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/zjkuang_00017
+  rotate: false
+  xy: 350, 398
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1

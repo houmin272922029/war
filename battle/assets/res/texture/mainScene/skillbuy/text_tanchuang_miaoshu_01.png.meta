@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eb4c19d1-895d-4174-9ae5-7128514ab47b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_tanchuang_miaoshu_01": {
+      "ver": "1.0.3",
+      "uuid": "ac22628c-4117-4009-94f2-8a7c1564175f",
+      "rawTextureUuid": "eb4c19d1-895d-4174-9ae5-7128514ab47b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 393,
+      "height": 26,
+      "rawWidth": 393,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

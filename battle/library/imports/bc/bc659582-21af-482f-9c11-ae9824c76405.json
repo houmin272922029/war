@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_bigbosscome",
+    "texture": "b2ecc079-6ce3-4265-a694-8977a637c6f0",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      2005,
+      436
+    ],
+    "offset": [
+      -4,
+      -0.5
+    ],
+    "originalSize": [
+      2017,
+      441
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

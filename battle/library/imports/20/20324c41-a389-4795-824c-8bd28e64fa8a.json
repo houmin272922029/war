@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_3nianka_01",
+    "texture": "23af4973-20ee-45b4-882e-d6cd05eefa5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

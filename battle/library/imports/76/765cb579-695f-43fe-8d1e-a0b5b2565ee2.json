@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinhetun",
+    "texture": "30f7fffa-aca0-421f-9f8b-111e785d0a88",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      67,
+      63
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      68,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

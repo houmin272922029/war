@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_yueka_01",
+    "texture": "784cf48f-151f-49e8-a502-3964069315f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

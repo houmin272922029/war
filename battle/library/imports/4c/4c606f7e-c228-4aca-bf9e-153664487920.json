@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_choujiang_anniu_kaishichoujiang_01",
+    "texture": "8497b304-e917-4000-b042-222b3b84130c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

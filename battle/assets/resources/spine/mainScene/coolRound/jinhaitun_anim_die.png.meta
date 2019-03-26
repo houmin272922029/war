@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0c8dd0ee-1783-4e5e-b175-bdceb01f12c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinhaitun_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "a6fa015e-8a8d-437b-8d00-4ab9a077d17d",
+      "rawTextureUuid": "0c8dd0ee-1783-4e5e-b175-bdceb01f12c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 438,
+      "height": 167,
+      "rawWidth": 443,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

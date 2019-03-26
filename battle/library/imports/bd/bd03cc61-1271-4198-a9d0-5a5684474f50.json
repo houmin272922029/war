@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_shayu",
+    "texture": "73fe68a1-3326-41d4-a744-74caf7931328",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      72,
+      34
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      73,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

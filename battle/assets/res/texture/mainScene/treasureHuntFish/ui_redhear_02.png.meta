@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1889e047-7c2a-403e-87f5-0ce94108d0e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_redhear_02": {
+      "ver": "1.0.3",
+      "uuid": "8db45f5d-a24d-4936-8cfb-f1047dbe8670",
+      "rawTextureUuid": "1889e047-7c2a-403e-87f5-0ce94108d0e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 31,
+      "height": 53,
+      "rawWidth": 31,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

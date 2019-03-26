@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_jinruyuchang_01",
+    "texture": "0904cfc2-b0d2-493c-8594-6a43bd43c9a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

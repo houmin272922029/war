@@ -1,0 +1,667 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_liuguang",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "mwSFyK6LfOb0pz5q41R2k5qN5MU",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "liuguang",
+        "parent": "root"
+      },
+      {
+        "name": "liuguang3",
+        "parent": "liuguang"
+      },
+      {
+        "name": "liuguang6",
+        "parent": "liuguang"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/liuguang_00000",
+        "bone": "liuguang3",
+        "attachment": "png/liuguang_00013",
+        "blend": "additive"
+      },
+      {
+        "name": "png/liuguang_0",
+        "bone": "liuguang6",
+        "attachment": "png/liuguang_00013",
+        "blend": "additive"
+      },
+      {
+        "name": "tuibiao/tuibiao_00000",
+        "bone": "bone2",
+        "attachment": "tuibiao/tuibiao_00015",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/liuguang_0": {
+          "png/liuguang_00000": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00001": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00002": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00003": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00004": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00005": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00006": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00007": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00008": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00009": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00010": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00011": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00012": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00013": {
+            "width": 320,
+            "height": 200
+          }
+        },
+        "png/liuguang_00000": {
+          "png/liuguang_00000": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00001": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00002": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00003": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00004": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00005": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00006": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00007": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00008": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00009": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00010": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00011": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00012": {
+            "width": 320,
+            "height": 200
+          },
+          "png/liuguang_00013": {
+            "width": 320,
+            "height": 200
+          }
+        },
+        "tuibiao/tuibiao_00000": {
+          "tuibiao/tuibiao_00000": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00001": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00002": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00003": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00004": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00005": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00006": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00007": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00008": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00009": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00010": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00011": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00012": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00013": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00014": {
+            "width": 96,
+            "height": 142
+          },
+          "tuibiao/tuibiao_00015": {
+            "width": 96,
+            "height": 142
+          }
+        }
+      }
+    },
+    "animations": {
+      "liuguang_xunhuan": {
+        "slots": {
+          "png/liuguang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/liuguang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/liuguang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang_00013"
+              }
+            ]
+          },
+          "png/liuguang_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/liuguang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/liuguang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang_00013"
+              }
+            ]
+          },
+          "tuibiao/tuibiao_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "liuguang3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -2.38
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "liuguang6": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 2.38
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": -1,
+                "y": -1
+              }
+            ]
+          }
+        }
+      },
+      "liuguang_xunhuan2": {
+        "slots": {
+          "png/liuguang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/liuguang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/liuguang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang_00013"
+              }
+            ]
+          },
+          "png/liuguang_0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/liuguang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/liuguang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang_00013"
+              }
+            ]
+          },
+          "tuibiao/tuibiao_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "tuibiao/tuibiao_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "tuibiao/tuibiao_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "tuibiao/tuibiao_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "tuibiao/tuibiao_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "tuibiao/tuibiao_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "tuibiao/tuibiao_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "tuibiao/tuibiao_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "tuibiao/tuibiao_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "tuibiao/tuibiao_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "tuibiao/tuibiao_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "tuibiao/tuibiao_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "tuibiao/tuibiao_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "tuibiao/tuibiao_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "tuibiao/tuibiao_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "tuibiao/tuibiao_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "tuibiao/tuibiao_00015"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "liuguang3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.362,
+                "y": 0.91
+              }
+            ]
+          },
+          "liuguang6": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 2.38
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": -0.36,
+                "y": -0.908
+              }
+            ]
+          },
+          "bone2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.43,
+                "y": 1.43
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_liuguang.png\r\nsize: 1910,274\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/liuguang_00000\r\n  rotate: false\r\n  xy: 2, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00001\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00002\r\n  rotate: false\r\n  xy: 218, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00003\r\n  rotate: false\r\n  xy: 218, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00004\r\n  rotate: false\r\n  xy: 434, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00005\r\n  rotate: false\r\n  xy: 434, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00006\r\n  rotate: false\r\n  xy: 650, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00007\r\n  rotate: false\r\n  xy: 650, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00008\r\n  rotate: false\r\n  xy: 866, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00009\r\n  rotate: false\r\n  xy: 866, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00010\r\n  rotate: false\r\n  xy: 1082, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00011\r\n  rotate: false\r\n  xy: 1082, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00012\r\n  rotate: false\r\n  xy: 1298, 138\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00013\r\n  rotate: false\r\n  xy: 1298, 2\r\n  size: 214, 134\r\n  orig: 214, 134\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00000\r\n  rotate: false\r\n  xy: 1514, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00001\r\n  rotate: false\r\n  xy: 1514, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00002\r\n  rotate: false\r\n  xy: 1580, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00003\r\n  rotate: false\r\n  xy: 1580, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00004\r\n  rotate: true\r\n  xy: 1514, 14\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00005\r\n  rotate: false\r\n  xy: 1646, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00006\r\n  rotate: false\r\n  xy: 1646, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00007\r\n  rotate: true\r\n  xy: 1611, 14\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00008\r\n  rotate: false\r\n  xy: 1712, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00009\r\n  rotate: false\r\n  xy: 1712, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00010\r\n  rotate: false\r\n  xy: 1778, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00011\r\n  rotate: false\r\n  xy: 1778, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00012\r\n  rotate: true\r\n  xy: 1708, 14\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00013\r\n  rotate: false\r\n  xy: 1844, 177\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00014\r\n  rotate: false\r\n  xy: 1844, 80\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\ntuibiao/tuibiao_00015\r\n  rotate: true\r\n  xy: 1805, 14\r\n  size: 64, 95\r\n  orig: 64, 95\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "0ae0a1ab-f3ed-4e0e-a886-687762818820"
+    }
+  ],
+  "textureNames": [
+    "anim_liuguang.png"
+  ],
+  "scale": 1
+}

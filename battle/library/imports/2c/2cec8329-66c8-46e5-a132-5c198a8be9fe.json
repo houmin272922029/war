@@ -1,0 +1,228 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_zhuguizuka",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "KV9yUd4HOu3rokqpqeAX7w/rhW0",
+      "spine": "3.6.53",
+      "width": 100,
+      "height": 100,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/liuguang_00000",
+        "bone": "bone3",
+        "attachment": "png/liuguang_00000",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/liuguang_00000": {
+          "png/liuguang_00000": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00001": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00003": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00004": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00005": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00006": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00007": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00009": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00010": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00011": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00012": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00013": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00014": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00015": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00017": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00018": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00019": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00020": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00021": {
+            "width": 100,
+            "height": 100
+          },
+          "png/liuguang_00022": {
+            "width": 100,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/liuguang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang_00001"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang_00007"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/liuguang_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/liuguang_00015"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/liuguang_00017"
+              },
+              {
+                "time": 0.6,
+                "name": "png/liuguang_00019"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/liuguang_00020"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/liuguang_00022"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -6.15,
+                "y": -4.26
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.43,
+                "y": 1.43
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_zhuguizuka.png\r\nsize: 692,140\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/liuguang_00000\r\n  rotate: false\r\n  xy: 2, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00001\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00003\r\n  rotate: false\r\n  xy: 71, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00004\r\n  rotate: false\r\n  xy: 71, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00005\r\n  rotate: false\r\n  xy: 140, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00006\r\n  rotate: false\r\n  xy: 140, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00007\r\n  rotate: false\r\n  xy: 209, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00009\r\n  rotate: false\r\n  xy: 209, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00010\r\n  rotate: false\r\n  xy: 278, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00011\r\n  rotate: false\r\n  xy: 278, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00012\r\n  rotate: false\r\n  xy: 347, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00013\r\n  rotate: false\r\n  xy: 347, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00014\r\n  rotate: false\r\n  xy: 416, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00015\r\n  rotate: false\r\n  xy: 416, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00017\r\n  rotate: false\r\n  xy: 485, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00018\r\n  rotate: false\r\n  xy: 485, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00019\r\n  rotate: false\r\n  xy: 554, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00020\r\n  rotate: false\r\n  xy: 554, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00021\r\n  rotate: false\r\n  xy: 623, 71\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\npng/liuguang_00022\r\n  rotate: false\r\n  xy: 623, 2\r\n  size: 67, 67\r\n  orig: 67, 67\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "795343f4-2a6d-43fe-a251-21d24835024e"
+    }
+  ],
+  "textureNames": [
+    "anim_zhuguizuka.png"
+  ],
+  "scale": 1
+}

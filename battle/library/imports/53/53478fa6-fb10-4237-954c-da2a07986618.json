@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jiesuan_huangse_01",
+    "texture": "08d3b8e3-3f35-48b4-90b1-da800462b425",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      77
+    ],
+    "capInsets": [
+      100,
+      0,
+      30,
+      0
+    ]
+  }
+}

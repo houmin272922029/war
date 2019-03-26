@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cifu_miaoshu_02",
+    "texture": "5dff5f12-6d68-4a08-9965-1cadfee39071",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

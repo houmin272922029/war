@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_qiantinglaixi",
+    "texture": "53ffdf60-b3cc-48b1-a07d-155a6d340461",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1678,
+      646
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1682,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

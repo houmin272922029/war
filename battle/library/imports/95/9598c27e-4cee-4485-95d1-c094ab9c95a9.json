@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_scoredi",
+    "texture": "3103b134-8e20-4cb5-b31b-15fe70831571",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

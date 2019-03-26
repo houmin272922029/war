@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duihuan_xingming_01",
+    "texture": "ebb602c6-ba2c-4714-8adc-c209ef25d5cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

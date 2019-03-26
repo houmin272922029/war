@@ -1,0 +1,34 @@
+
+anim_zhadan.png
+size: 178,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+轰炸机/png/daodan
+  rotate: true
+  xy: 74, 8
+  size: 136, 102
+  orig: 136, 102
+  offset: 0, 0
+  index: -1
+轰炸机/png/huangsrdaodan
+  rotate: false
+  xy: 2, 234
+  size: 149, 74
+  orig: 149, 74
+  offset: 0, 0
+  index: -1
+轰炸机/png/lvsedaodan
+  rotate: true
+  xy: 2, 2
+  size: 142, 70
+  orig: 142, 70
+  offset: 0, 0
+  index: -1
+轰炸机/png/zisedaodan
+  rotate: false
+  xy: 2, 146
+  size: 147, 86
+  orig: 147, 86
+  offset: 0, 0
+  index: -1

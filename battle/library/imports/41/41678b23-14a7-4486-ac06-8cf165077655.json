@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tanchuang_duigou_01",
+    "texture": "1423ba56-9c75-4cb8-a874-74517b62bfdc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

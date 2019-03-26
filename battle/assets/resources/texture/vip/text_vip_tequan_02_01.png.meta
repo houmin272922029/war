@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a22210ff-93ce-4082-98e7-61226d86cfba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_vip_tequan_02_01": {
+      "ver": "1.0.3",
+      "uuid": "f700517d-5ad6-4cc8-ae98-9258086dfd97",
+      "rawTextureUuid": "a22210ff-93ce-4082-98e7-61226d86cfba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 22,
+      "height": 22,
+      "rawWidth": 22,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

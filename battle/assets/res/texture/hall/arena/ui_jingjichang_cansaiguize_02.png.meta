@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "98d6cfb0-fa14-46c0-b1a7-f5a6fcc47304",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_jingjichang_cansaiguize_02": {
+      "ver": "1.0.3",
+      "uuid": "d94dbd16-52d7-402d-8c83-96e60ed4878c",
+      "rawTextureUuid": "98d6cfb0-fa14-46c0-b1a7-f5a6fcc47304",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 122,
+      "height": 33,
+      "rawWidth": 122,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

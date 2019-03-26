@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tujian_huangjinyu_01",
+    "texture": "845fee61-28f9-40e9-bf99-a26eb30a4699",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1008,
+      397
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1008,
+      397
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

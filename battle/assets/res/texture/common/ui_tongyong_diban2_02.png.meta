@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "32e530dc-5720-4227-8938-d959eb555cc2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_tongyong_diban2_02": {
+      "ver": "1.0.3",
+      "uuid": "269174e9-43ef-43a3-9831-7610daf30970",
+      "rawTextureUuid": "32e530dc-5720-4227-8938-d959eb555cc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 103,
+      "rawWidth": 102,
+      "rawHeight": 103,
+      "borderTop": 38,
+      "borderBottom": 39,
+      "borderLeft": 35,
+      "borderRight": 37,
+      "subMetas": {}
+    }
+  }
+}

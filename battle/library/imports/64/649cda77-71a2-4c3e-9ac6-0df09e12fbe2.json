@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingji_jifen_03",
+    "texture": "7473bf04-6e7b-4b51-be7b-e119a689d275",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

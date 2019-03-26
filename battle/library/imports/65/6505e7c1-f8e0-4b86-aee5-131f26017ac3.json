@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_goumai_01",
+    "texture": "3b4be20b-964b-466c-aad8-3e07c04dfbfc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

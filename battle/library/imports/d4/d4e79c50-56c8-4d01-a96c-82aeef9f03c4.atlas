@@ -1,0 +1,13 @@
+
+anim_longgui.png
+size: 342,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/allgui
+  rotate: false
+  xy: 2, 2
+  size: 338, 317
+  orig: 338, 317
+  offset: 0, 0
+  index: -1

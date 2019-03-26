@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4b13eb6b-a341-4872-9984-db61d84e3892",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_yueka_tian_01": {
+      "ver": "1.0.3",
+      "uuid": "57d8f2ae-a027-4236-b229-3871837911b3",
+      "rawTextureUuid": "4b13eb6b-a341-4872-9984-db61d84e3892",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 65,
+      "height": 47,
+      "rawWidth": 65,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

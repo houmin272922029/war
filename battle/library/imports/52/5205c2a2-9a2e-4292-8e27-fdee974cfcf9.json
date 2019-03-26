@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_suo_01",
+    "texture": "11261357-4aec-4ab1-bbc1-ad891e7ab0f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

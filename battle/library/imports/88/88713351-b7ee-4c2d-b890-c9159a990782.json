@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shengyushijian_01",
+    "texture": "28b8720f-fd50-441e-aa66-1f492cd30f50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "82f1bc11-d811-448e-abcd-df9ff1d2caf9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_gerenxinxi_shezhimima_01": {
+      "ver": "1.0.3",
+      "uuid": "a08e72b8-ce80-4b5f-b063-7c24c8d2c3fa",
+      "rawTextureUuid": "82f1bc11-d811-448e-abcd-df9ff1d2caf9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 97,
+      "height": 27,
+      "rawWidth": 97,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

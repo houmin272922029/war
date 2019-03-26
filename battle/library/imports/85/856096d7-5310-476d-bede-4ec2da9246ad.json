@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_duanxian_heidi_01",
+    "texture": "903fafa5-0109-4967-8f01-4cb9a14b22b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      32
+    ],
+    "capInsets": [
+      42,
+      11,
+      37,
+      9
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_liudong",
+    "texture": "51c6df52-864e-4e0c-984f-dc29268ec7b0",
+    "atlas": "",
+    "rect": [
+      14,
+      4,
+      866,
+      130
+    ],
+    "offset": [
+      1,
+      2
+    ],
+    "originalSize": [
+      892,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1b797a88-39a2-4125-bb2e-20a9d74a547c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "fish_icon_haigui": {
+      "ver": "1.0.3",
+      "uuid": "98aff7a1-b962-401d-9c7d-0fb98f65a18b",
+      "rawTextureUuid": "1b797a88-39a2-4125-bb2e-20a9d74a547c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 58,
+      "height": 59,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

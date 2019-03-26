@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shrimp_tishi_02",
+    "texture": "2933e46e-3d8e-43d5-acb1-4053225a309b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      611,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      611,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

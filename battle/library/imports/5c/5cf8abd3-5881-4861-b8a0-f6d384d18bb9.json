@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tanchuang_tishi_01",
+    "texture": "95a85041-5721-4523-8aa6-a79aa19bde10",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

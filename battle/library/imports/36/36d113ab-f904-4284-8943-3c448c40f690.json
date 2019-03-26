@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_caidai_01",
+    "texture": "14137e50-78d0-4ed0-821f-20757ad0445f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      922,
+      284
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      922,
+      284
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

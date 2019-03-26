@@ -1,0 +1,76 @@
+
+anim_die_front_4.png
+size: 252,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_goldcoin_01
+  rotate: false
+  xy: 2, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_02
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_03
+  rotate: false
+  xy: 52, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_04
+  rotate: false
+  xy: 52, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_05
+  rotate: false
+  xy: 102, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_06
+  rotate: false
+  xy: 102, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_07
+  rotate: false
+  xy: 152, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_08
+  rotate: false
+  xy: 152, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_09
+  rotate: false
+  xy: 202, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_10
+  rotate: false
+  xy: 202, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

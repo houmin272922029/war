@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "67c3e79f-8469-42ce-a710-7eb74cf90bac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shrimp_mianban_03": {
+      "ver": "1.0.3",
+      "uuid": "8e2e5d6f-b7ad-49c0-8cdc-5e59f75fb2a5",
+      "rawTextureUuid": "67c3e79f-8469-42ce-a710-7eb74cf90bac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 225,
+      "height": 272,
+      "rawWidth": 225,
+      "rawHeight": 272,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,153 @@
+
+anim_icequanping.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snow_1
+  rotate: false
+  xy: 550, 375
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Snow_2
+  rotate: true
+  xy: 969, 379
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+colour_1
+  rotate: true
+  xy: 185, 185
+  size: 321, 181
+  orig: 321, 181
+  offset: 0, 0
+  index: -1
+crack_1
+  rotate: true
+  xy: 550, 199
+  size: 125, 180
+  orig: 125, 180
+  offset: 0, 0
+  index: -1
+crack_1_1
+  rotate: true
+  xy: 732, 199
+  size: 125, 180
+  orig: 125, 180
+  offset: 0, 0
+  index: -1
+crack_2
+  rotate: false
+  xy: 647, 41
+  size: 147, 156
+  orig: 147, 156
+  offset: 0, 0
+  index: -1
+crack_2 _1
+  rotate: false
+  xy: 796, 41
+  size: 147, 156
+  orig: 147, 156
+  offset: 0, 0
+  index: -1
+frost_1
+  rotate: false
+  xy: 325, 3
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+frost_1_1
+  rotate: true
+  xy: 368, 186
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+frost_2
+  rotate: false
+  xy: 647, 326
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+frost_3
+  rotate: true
+  xy: 2, 185
+  size: 321, 181
+  orig: 321, 181
+  offset: 0, 0
+  index: -1
+frost_4
+  rotate: false
+  xy: 2, 2
+  size: 321, 181
+  orig: 321, 181
+  offset: 0, 0
+  index: -1
+ice_1
+  rotate: false
+  xy: 550, 413
+  size: 64, 29
+  orig: 64, 32
+  offset: 0, 3
+  index: -1
+ice_2
+  rotate: false
+  xy: 550, 444
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+ice_3
+  rotate: true
+  xy: 969, 439
+  size: 67, 42
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+ice_4
+  rotate: true
+  xy: 969, 317
+  size: 60, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+ice_5
+  rotate: false
+  xy: 587, 331
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ice_6
+  rotate: false
+  xy: 616, 394
+  size: 25, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+ice_7
+  rotate: true
+  xy: 1008, 366
+  size: 11, 14
+  orig: 12, 14
+  offset: 1, 0
+  index: -1
+ice_8
+  rotate: false
+  xy: 550, 340
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+particle
+  rotate: true
+  xy: 596, 353
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1

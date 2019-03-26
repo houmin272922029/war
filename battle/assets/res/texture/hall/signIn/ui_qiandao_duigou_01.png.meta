@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f7b1928d-b634-4da2-8792-6f135a97cc5d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_qiandao_duigou_01": {
+      "ver": "1.0.3",
+      "uuid": "0c2c9df0-b600-4390-9adb-6687b79e0899",
+      "rawTextureUuid": "f7b1928d-b634-4da2-8792-6f135a97cc5d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 60,
+      "rawWidth": 68,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

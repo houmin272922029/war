@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gerenxinxi_kuang_04",
+    "texture": "74940a12-485f-4dd7-89ce-25bc8e959a82",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      335,
+      230
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      335,
+      230
+    ],
+    "capInsets": [
+      150,
+      100,
+      60,
+      100
+    ]
+  }
+}

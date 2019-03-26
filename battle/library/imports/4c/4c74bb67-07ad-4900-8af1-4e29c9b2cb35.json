@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_lijidenglu_02",
+    "texture": "bac87207-8f79-4d64-8868-651e0a6c8601",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_titel_shrimp",
+    "texture": "63c2bcc0-8f38-4fa0-9f93-48c33030249f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      573,
+      196
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      574,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_qiehuan_02",
+    "texture": "debfb449-6b9a-48af-b9b2-a4679bd9b9b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

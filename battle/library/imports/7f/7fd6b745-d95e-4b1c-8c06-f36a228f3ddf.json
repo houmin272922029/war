@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_anniu",
+    "texture": "6ce77526-f848-4f36-8b7f-cc5566e13002",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2003,
+      256
+    ],
+    "offset": [
+      -22.5,
+      0
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

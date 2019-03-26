@@ -1,0 +1,48 @@
+
+anim_zidong.png
+size: 652,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/add_00000
+  rotate: false
+  xy: 468, 45
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+png/ggg
+  rotate: false
+  xy: 2, 2
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+png/guang_00000
+  rotate: false
+  xy: 269, 37
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+png/huan03
+  rotate: false
+  xy: 139, 9
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+png/icon_jineng_zidong_002
+  rotate: false
+  xy: 371, 41
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+png/lizi_00000
+  rotate: false
+  xy: 560, 45
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1

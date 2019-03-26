@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "726e4921-d792-4a45-b78f-9afa4c7bdf58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_huafei_yuan_01": {
+      "ver": "1.0.3",
+      "uuid": "73504dc6-f795-4303-bd10-4edce5727857",
+      "rawTextureUuid": "726e4921-d792-4a45-b78f-9afa4c7bdf58",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 55,
+      "height": 52,
+      "rawWidth": 55,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

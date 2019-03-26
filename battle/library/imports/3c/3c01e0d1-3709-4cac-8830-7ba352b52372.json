@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tankuang_queding_01",
+    "texture": "4437f327-5bdc-491f-9f5e-e24fc6575651",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

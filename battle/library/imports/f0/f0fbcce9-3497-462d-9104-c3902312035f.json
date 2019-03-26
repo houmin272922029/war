@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_boss_shuzidi",
+    "texture": "49f4a42d-7bd9-4405-bd15-22fe9b84ad41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      398,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      398,
+      112
+    ],
+    "capInsets": [
+      166,
+      0,
+      148,
+      0
+    ]
+  }
+}

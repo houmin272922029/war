@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_qiandao_shuangbei_01",
+    "texture": "584f6929-3aee-46e3-b9f1-e93e00b947a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

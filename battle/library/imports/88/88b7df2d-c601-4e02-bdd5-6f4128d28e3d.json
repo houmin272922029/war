@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_huodezs",
+    "texture": "9c890163-8288-4ca3-835d-13ca31e4a97b",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      1176,
+      204
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1181,
+      205
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

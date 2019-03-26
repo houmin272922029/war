@@ -1,0 +1,229 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_liudong",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "+NhLKkZeJY7HVO1BvKp+7LkORGQ",
+      "spine": "3.6.53",
+      "width": 101,
+      "height": 130,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/liuguang/liuguang_00000",
+        "bone": "bone",
+        "attachment": "png/liuguang/liuguang_00019",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/liuguang/liuguang_00000": {
+          "png/liuguang/liuguang_00000": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00001": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00002": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00003": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00004": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00005": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00006": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00007": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00008": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00009": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00010": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00011": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00012": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00013": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00014": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00015": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00016": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00017": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00018": {
+            "width": 101,
+            "height": 130
+          },
+          "png/liuguang/liuguang_00019": {
+            "width": 101,
+            "height": 130
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/liuguang/liuguang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/liuguang/liuguang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/liuguang/liuguang_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/liuguang/liuguang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/liuguang/liuguang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/liuguang/liuguang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/liuguang/liuguang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/liuguang/liuguang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/liuguang/liuguang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/liuguang/liuguang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/liuguang/liuguang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/liuguang/liuguang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/liuguang/liuguang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/liuguang/liuguang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/liuguang/liuguang_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/liuguang/liuguang_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/liuguang/liuguang_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/liuguang/liuguang_00016"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/liuguang/liuguang_00017"
+              },
+              {
+                "time": 0.6,
+                "name": "png/liuguang/liuguang_00018"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/liuguang/liuguang_00019"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.42,
+                "y": 1.42
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nanim_liudong.png\nsize: 892,142\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\npng/liuguang/liuguang_00000\n  rotate: true\n  xy: 91, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00001\n  rotate: true\n  xy: 180, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00002\n  rotate: true\n  xy: 269, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00003\n  rotate: true\n  xy: 358, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00004\n  rotate: true\n  xy: 447, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00005\n  rotate: true\n  xy: 536, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00006\n  rotate: true\n  xy: 625, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00007\n  rotate: true\n  xy: 714, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00008\n  rotate: true\n  xy: 803, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00009\n  rotate: true\n  xy: 2, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00010\n  rotate: true\n  xy: 91, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00011\n  rotate: true\n  xy: 180, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00012\n  rotate: true\n  xy: 269, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00013\n  rotate: true\n  xy: 358, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00014\n  rotate: true\n  xy: 447, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00015\n  rotate: true\n  xy: 536, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00016\n  rotate: true\n  xy: 625, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00017\n  rotate: true\n  xy: 714, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00018\n  rotate: true\n  xy: 803, 2\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\npng/liuguang/liuguang_00019\n  rotate: true\n  xy: 2, 72\n  size: 68, 87\n  orig: 68, 87\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "51c6df52-864e-4e0c-984f-dc29268ec7b0"
+    }
+  ],
+  "textureNames": [
+    "anim_liudong.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_light_01",
+    "texture": "d34aee73-5e9d-4ea0-9a4e-34c6843c0e27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jiesuan_diban_01",
+    "texture": "1807d70d-3265-4553-8614-4478a7e864f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      36
+    ],
+    "capInsets": [
+      15,
+      0,
+      15,
+      0
+    ]
+  }
+}

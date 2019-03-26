@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3b4be20b-964b-466c-aad8-3e07c04dfbfc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_beibao_goumai_01": {
+      "ver": "1.0.3",
+      "uuid": "6505e7c1-f8e0-4b86-aee5-131f26017ac3",
+      "rawTextureUuid": "3b4be20b-964b-466c-aad8-3e07c04dfbfc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 41,
+      "rawWidth": 98,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

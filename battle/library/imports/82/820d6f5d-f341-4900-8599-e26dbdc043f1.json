@@ -1,0 +1,268 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_shuzi",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "VJki+N3N3L9LtkienGYrK8AzHGg",
+      "spine": "3.6.53",
+      "width": 1256,
+      "height": 736,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "scaleY": 1.2
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "light01",
+        "bone": "bone2",
+        "attachment": "light01",
+        "blend": "additive"
+      },
+      {
+        "name": "light1",
+        "bone": "bone5",
+        "attachment": "light01",
+        "blend": "additive"
+      },
+      {
+        "name": "light2",
+        "bone": "bone6",
+        "attachment": "light01",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "light01": {
+          "light01": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "light1": {
+          "light01": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "light2": {
+          "light01": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "light01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff3e"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff3e"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.4667,
+                "name": null
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff3e"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3,
+                "name": "light01"
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 4,
+                "y": 4
+              },
+              {
+                "time": 0.1667,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.8,
+                "x": 1.5,
+                "y": 1.5
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 12.01
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.1667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": 5.24,
+                "y": -26.18
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 4,
+                "y": 4
+              },
+              {
+                "time": 0.1667,
+                "x": 2,
+                "y": 0.429,
+                "curve": [
+                  0.25,
+                  0,
+                  0.999,
+                  0.88
+                ]
+              },
+              {
+                "time": 0.4333,
+                "x": 1.009,
+                "y": 0.217
+              }
+            ]
+          },
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 12.01
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.3,
+                "x": 0,
+                "y": -6.9
+              },
+              {
+                "time": 0.5333,
+                "x": -7.44,
+                "y": 28.58
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 4,
+                "y": 4
+              },
+              {
+                "time": 0.3,
+                "x": 2,
+                "y": 0.429,
+                "curve": [
+                  0.25,
+                  0,
+                  0.999,
+                  0.88
+                ]
+              },
+              {
+                "time": 0.5333,
+                "x": 0.599,
+                "y": 0.128
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_shuzi.png\r\nsize: 128,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nlight01\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "13054264-e3f7-4aed-b710-d853abc4a0ef"
+    }
+  ],
+  "textureNames": [
+    "anim_shuzi.png"
+  ],
+  "scale": 1
+}

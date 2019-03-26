@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zidan_01",
+    "texture": "22466220-5d18-4caa-b36b-cdeebc17b3df",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      40,
+      85
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      44,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+
+anim_zhuanshi.png
+size: 787,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/bbl_00000
+  rotate: false
+  xy: 747, 55
+  size: 36, 40
+  orig: 50, 50
+  offset: 8, 5
+  index: -1
+png/xiaoxingxing_00000
+  rotate: false
+  xy: 702, 97
+  size: 85, 67
+  orig: 150, 100
+  offset: 33, 15
+  index: -1
+png/xiaoxingxing_00001
+  rotate: false
+  xy: 583, 9
+  size: 103, 71
+  orig: 150, 100
+  offset: 24, 13
+  index: -1
+png/xiaoxingxing_00002
+  rotate: false
+  xy: 0, 1
+  size: 121, 74
+  orig: 150, 100
+  offset: 15, 12
+  index: -1
+png/xiaoxingxing_00003
+  rotate: false
+  xy: 420, 82
+  size: 139, 82
+  orig: 150, 100
+  offset: 6, 9
+  index: -1
+png/xiaoxingxing_00004
+  rotate: false
+  xy: 210, 79
+  size: 142, 85
+  orig: 150, 100
+  offset: 4, 8
+  index: -1
+png/xiaoxingxing_00005
+  rotate: false
+  xy: 0, 77
+  size: 144, 87
+  orig: 150, 100
+  offset: 3, 7
+  index: -1
+png/xiaoxingxing_00006
+  rotate: false
+  xy: 561, 82
+  size: 139, 82
+  orig: 150, 100
+  offset: 6, 10
+  index: -1
+png/xiaoxingxing_00007
+  rotate: false
+  xy: 688, 12
+  size: 57, 68
+  orig: 150, 100
+  offset: 48, 13
+  index: -1
+png/xiaoxingxing_00008
+  rotate: false
+  xy: 390, 7
+  size: 60, 72
+  orig: 150, 100
+  offset: 47, 11
+  index: -1
+png/xiaoxingxing_00009
+  rotate: false
+  xy: 193, 2
+  size: 62, 74
+  orig: 150, 100
+  offset: 46, 10
+  index: -1
+png/xiaoxingxing_00010
+  rotate: false
+  xy: 257, 0
+  size: 65, 77
+  orig: 150, 100
+  offset: 45, 9
+  index: -1
+png/xiaoxingxing_00011
+  rotate: false
+  xy: 452, 0
+  size: 66, 80
+  orig: 150, 100
+  offset: 45, 7
+  index: -1
+png/xiaoxingxing_00012
+  rotate: false
+  xy: 123, 1
+  size: 68, 74
+  orig: 150, 100
+  offset: 44, 14
+  index: -1
+png/xiaoxingxing_00013
+  rotate: false
+  xy: 324, 0
+  size: 64, 77
+  orig: 150, 100
+  offset: 43, 13
+  index: -1
+png/xiaoxingxing_00014
+  rotate: false
+  xy: 520, 0
+  size: 61, 80
+  orig: 150, 100
+  offset: 47, 11
+  index: -1
+png/xiaoxingxing_00015
+  rotate: false
+  xy: 354, 81
+  size: 64, 83
+  orig: 150, 100
+  offset: 46, 10
+  index: -1
+png/xiaoxingxing_00016
+  rotate: false
+  xy: 146, 78
+  size: 62, 86
+  orig: 150, 100
+  offset: 49, 8
+  index: -1

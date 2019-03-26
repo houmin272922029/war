@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "352eeb86-e5e0-41cd-9368-b7521bcbb877",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yuchang_zuanshilight_01": {
+      "ver": "1.0.3",
+      "uuid": "5062a5c0-d293-4211-a441-9f354dcca91b",
+      "rawTextureUuid": "352eeb86-e5e0-41cd-9368-b7521bcbb877",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 127,
+      "height": 129,
+      "rawWidth": 127,
+      "rawHeight": 129,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

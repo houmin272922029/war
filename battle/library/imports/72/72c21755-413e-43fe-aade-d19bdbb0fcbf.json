@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tanchuang_miaoshu_02",
+    "texture": "41b807b2-2029-48e1-a3de-368804c96948",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      411,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      411,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

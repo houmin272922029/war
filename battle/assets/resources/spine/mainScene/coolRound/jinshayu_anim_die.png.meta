@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0ec5d644-cb2f-45b2-a12d-b5a98ebb3186",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinshayu_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "4d4c7120-389d-475d-a6a1-ae34f666bca9",
+      "rawTextureUuid": "0ec5d644-cb2f-45b2-a12d-b5a98ebb3186",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 452,
+      "height": 122,
+      "rawWidth": 456,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

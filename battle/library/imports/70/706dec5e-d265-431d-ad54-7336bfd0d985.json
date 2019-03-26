@@ -1,0 +1,235 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_yueshencifu3",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "og361K000OKgU6HFANiCFx17NMw",
+      "spine": "3.6.53",
+      "width": 200,
+      "height": 200,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "lg/lg_00000",
+        "bone": "bone",
+        "attachment": "lg/lg_00021"
+      }
+    ],
+    "skins": {
+      "default": {
+        "lg/lg_00000": {
+          "lg/lg_00000": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00001": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00002": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00003": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00004": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00005": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00006": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00007": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00008": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00009": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00010": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00011": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00012": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00013": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00014": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00015": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00016": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00017": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00018": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00019": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00020": {
+            "width": 100,
+            "height": 100
+          },
+          "lg/lg_00021": {
+            "width": 100,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "jiangli": {
+        "slots": {
+          "lg/lg_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "lg/lg_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "lg/lg_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "lg/lg_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "lg/lg_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "lg/lg_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "lg/lg_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "lg/lg_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "lg/lg_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "lg/lg_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "lg/lg_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "lg/lg_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "lg/lg_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "lg/lg_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "lg/lg_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "lg/lg_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "lg/lg_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "lg/lg_00016"
+              },
+              {
+                "time": 0.5667,
+                "name": "lg/lg_00017"
+              },
+              {
+                "time": 0.6,
+                "name": "lg/lg_00018"
+              },
+              {
+                "time": 0.6333,
+                "name": "lg/lg_00019"
+              },
+              {
+                "time": 0.6667,
+                "name": "lg/lg_00020"
+              },
+              {
+                "time": 0.7,
+                "name": "lg/lg_00021"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_yueshencifu3.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nlg/lg_00000\r\n  rotate: false\r\n  xy: 84, 0\r\n  size: 65, 82\r\n  orig: 100, 100\r\n  offset: 6, 12\r\n  index: -1\r\nlg/lg_00001\r\n  rotate: true\r\n  xy: 689, 173\r\n  size: 75, 81\r\n  orig: 100, 100\r\n  offset: 6, 13\r\n  index: -1\r\nlg/lg_00002\r\n  rotate: false\r\n  xy: 0, 8\r\n  size: 84, 80\r\n  orig: 100, 100\r\n  offset: 6, 14\r\n  index: -1\r\nlg/lg_00003\r\n  rotate: false\r\n  xy: 0, 169\r\n  size: 88, 79\r\n  orig: 100, 100\r\n  offset: 6, 15\r\n  index: -1\r\nlg/lg_00004\r\n  rotate: false\r\n  xy: 520, 178\r\n  size: 87, 70\r\n  orig: 100, 100\r\n  offset: 7, 24\r\n  index: -1\r\nlg/lg_00005\r\n  rotate: true\r\n  xy: 149, 1\r\n  size: 84, 60\r\n  orig: 100, 100\r\n  offset: 10, 34\r\n  index: -1\r\nlg/lg_00006\r\n  rotate: false\r\n  xy: 607, 178\r\n  size: 82, 70\r\n  orig: 100, 100\r\n  offset: 12, 24\r\n  index: -1\r\nlg/lg_00007\r\n  rotate: true\r\n  xy: 851, 172\r\n  size: 76, 80\r\n  orig: 100, 100\r\n  offset: 18, 14\r\n  index: -1\r\nlg/lg_00008\r\n  rotate: true\r\n  xy: 347, 176\r\n  size: 72, 86\r\n  orig: 100, 100\r\n  offset: 22, 7\r\n  index: -1\r\nlg/lg_00009\r\n  rotate: false\r\n  xy: 84, 82\r\n  size: 61, 87\r\n  orig: 100, 100\r\n  offset: 33, 6\r\n  index: -1\r\nlg/lg_00010\r\n  rotate: false\r\n  xy: 145, 85\r\n  size: 59, 85\r\n  orig: 100, 100\r\n  offset: 35, 6\r\n  index: -1\r\nlg/lg_00011\r\n  rotate: false\r\n  xy: 269, 22\r\n  size: 65, 82\r\n  orig: 100, 100\r\n  offset: 28, 6\r\n  index: -1\r\nlg/lg_00012\r\n  rotate: true\r\n  xy: 770, 172\r\n  size: 76, 81\r\n  orig: 100, 100\r\n  offset: 17, 6\r\n  index: -1\r\nlg/lg_00013\r\n  rotate: false\r\n  xy: 0, 88\r\n  size: 84, 81\r\n  orig: 100, 100\r\n  offset: 9, 6\r\n  index: -1\r\nlg/lg_00014\r\n  rotate: false\r\n  xy: 174, 173\r\n  size: 87, 75\r\n  orig: 100, 100\r\n  offset: 6, 6\r\n  index: -1\r\nlg/lg_00015\r\n  rotate: false\r\n  xy: 433, 177\r\n  size: 87, 71\r\n  orig: 100, 100\r\n  offset: 5, 6\r\n  index: -1\r\nlg/lg_00016\r\n  rotate: true\r\n  xy: 209, 5\r\n  size: 84, 60\r\n  orig: 100, 100\r\n  offset: 5, 7\r\n  index: -1\r\nlg/lg_00017\r\n  rotate: false\r\n  xy: 263, 104\r\n  size: 81, 70\r\n  orig: 100, 100\r\n  offset: 5, 7\r\n  index: -1\r\nlg/lg_00018\r\n  rotate: true\r\n  xy: 931, 170\r\n  size: 78, 80\r\n  orig: 100, 100\r\n  offset: 5, 7\r\n  index: -1\r\nlg/lg_00019\r\n  rotate: true\r\n  xy: 88, 170\r\n  size: 78, 86\r\n  orig: 100, 100\r\n  offset: 5, 7\r\n  index: -1\r\nlg/lg_00020\r\n  rotate: true\r\n  xy: 261, 174\r\n  size: 74, 86\r\n  orig: 100, 100\r\n  offset: 5, 8\r\n  index: -1\r\nlg/lg_00021\r\n  rotate: false\r\n  xy: 204, 89\r\n  size: 59, 84\r\n  orig: 100, 100\r\n  offset: 5, 10\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "2f0d2bcc-8521-4617-81d7-ef2777ac081c"
+    }
+  ],
+  "textureNames": [
+    "anim_yueshencifu3.png"
+  ],
+  "scale": 1
+}

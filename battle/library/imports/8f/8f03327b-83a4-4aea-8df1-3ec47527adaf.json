@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_superWeapon",
+    "texture": "43fe8843-46aa-4836-ba50-abdb1a8248ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

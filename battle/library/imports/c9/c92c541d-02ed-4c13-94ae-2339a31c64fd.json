@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cw_dengji_03",
+    "texture": "3439e3bd-c9a3-4116-8dd8-c6b746b9ae00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

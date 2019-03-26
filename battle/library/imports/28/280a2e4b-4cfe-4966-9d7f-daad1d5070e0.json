@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_07",
+    "texture": "60989930-a780-484e-8dc8-4a4b42874758",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

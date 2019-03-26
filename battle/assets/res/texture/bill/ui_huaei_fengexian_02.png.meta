@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "59879731-a210-48d2-ac19-fdc87adf0edd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huaei_fengexian_02": {
+      "ver": "1.0.3",
+      "uuid": "5e148773-ebf2-452b-b8de-f39b7fd00f32",
+      "rawTextureUuid": "59879731-a210-48d2-ac19-fdc87adf0edd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 13,
+      "rawWidth": 140,
+      "rawHeight": 13,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 44,
+      "borderRight": 41,
+      "subMetas": {}
+    }
+  }
+}

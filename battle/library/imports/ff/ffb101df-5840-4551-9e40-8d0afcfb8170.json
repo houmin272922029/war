@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_yushencifu_01",
+    "texture": "099c5f6f-b5a9-4f65-8651-2e5793df0aed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

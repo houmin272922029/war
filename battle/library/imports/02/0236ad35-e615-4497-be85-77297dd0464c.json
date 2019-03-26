@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_yueka_money_01",
+    "texture": "ca3c05c7-3f84-48e0-af41-f16b6a0eb7a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

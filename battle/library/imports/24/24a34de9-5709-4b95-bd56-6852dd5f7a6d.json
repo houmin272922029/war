@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shuzi_lastreward",
+    "texture": "429550a1-70e3-4f24-affb-5d18b3f99373",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

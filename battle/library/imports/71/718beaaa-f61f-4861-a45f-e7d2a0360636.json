@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_led_01",
+    "texture": "2e430932-ea4e-47c4-bb1c-38b3a0ba73dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

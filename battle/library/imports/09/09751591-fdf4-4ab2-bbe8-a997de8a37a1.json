@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhaohuan1",
+    "texture": "ac09b02a-8a95-4785-9d6e-51d46c86cf0a",
+    "atlas": "",
+    "rect": [
+      8,
+      9,
+      1432,
+      842
+    ],
+    "offset": [
+      3,
+      -3.5
+    ],
+    "originalSize": [
+      1442,
+      853
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

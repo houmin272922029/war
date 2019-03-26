@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0529f607-45c1-4188-b27c-7deba556086e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_yuchang_huanpao_01": {
+      "ver": "1.0.3",
+      "uuid": "a01606dd-8bac-45da-8982-e0666ee5b652",
+      "rawTextureUuid": "0529f607-45c1-4188-b27c-7deba556086e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 49,
+      "height": 27,
+      "rawWidth": 49,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

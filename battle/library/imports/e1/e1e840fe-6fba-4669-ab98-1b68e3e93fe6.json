@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_beibao_daojukuang_01",
+    "texture": "79a4185f-5769-463c-af23-0169108d9aec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

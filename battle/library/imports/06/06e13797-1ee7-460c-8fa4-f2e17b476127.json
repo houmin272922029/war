@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_shrimpcard_01",
+    "texture": "c4ac8411-56fb-40fe-8108-4f2c7a3bff80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

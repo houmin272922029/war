@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinshayu",
+    "texture": "e897882e-dfab-4878-8e84-f5ae096e7c98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

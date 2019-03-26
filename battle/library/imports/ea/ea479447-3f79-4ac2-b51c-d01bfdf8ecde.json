@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xinshoufenxiang_caidai_01",
+    "texture": "f941ae74-c6c1-4427-92b3-9d69cb073be2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

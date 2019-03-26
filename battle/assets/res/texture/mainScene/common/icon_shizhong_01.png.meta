@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3a681614-4443-4ef9-95b6-bf0a5ca3f655",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_shizhong_01": {
+      "ver": "1.0.3",
+      "uuid": "1129eb39-f378-40c8-b707-5f0738af22ea",
+      "rawTextureUuid": "3a681614-4443-4ef9-95b6-bf0a5ca3f655",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 31,
+      "height": 32,
+      "rawWidth": 31,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

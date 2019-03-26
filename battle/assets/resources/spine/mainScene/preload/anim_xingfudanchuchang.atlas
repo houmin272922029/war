@@ -1,0 +1,195 @@
+
+anim_xingfudanchuchang.png
+size: 580,767
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beihei_00000
+  rotate: false
+  xy: 444, 469
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+images/caidai1
+  rotate: false
+  xy: 503, 246
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+images/caidai2
+  rotate: false
+  xy: 450, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+images/caidai3
+  rotate: true
+  xy: 503, 299
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+images/caidai4
+  rotate: false
+  xy: 486, 2
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+images/ci
+  rotate: false
+  xy: 200, 588
+  size: 203, 177
+  orig: 203, 177
+  offset: 0, 0
+  index: -1
+images/danyu_00000
+  rotate: true
+  xy: 141, 387
+  size: 182, 127
+  orig: 182, 127
+  offset: 0, 0
+  index: -1
+images/he/heaa_00000
+  rotate: true
+  xy: 2, 32
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00002
+  rotate: true
+  xy: 141, 297
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00004
+  rotate: true
+  xy: 277, 324
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00006
+  rotate: true
+  xy: 138, 59
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00008
+  rotate: true
+  xy: 444, 379
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00012
+  rotate: true
+  xy: 277, 234
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00014
+  rotate: false
+  xy: 274, 98
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00016
+  rotate: false
+  xy: 413, 243
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00018
+  rotate: false
+  xy: 364, 98
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/he/heaa_00020
+  rotate: false
+  xy: 454, 107
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+images/huan01
+  rotate: false
+  xy: 454, 38
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+images/huan02
+  rotate: false
+  xy: 274, 10
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/huan03
+  rotate: false
+  xy: 405, 593
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+images/light0
+  rotate: false
+  xy: 126, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+images/light01
+  rotate: false
+  xy: 270, 414
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+images/light4
+  rotate: false
+  xy: 362, 10
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/lightsan
+  rotate: true
+  xy: 2, 320
+  size: 249, 137
+  orig: 249, 137
+  offset: 0, 0
+  index: -1
+images/liu
+  rotate: true
+  xy: 2, 9
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+images/lizi
+  rotate: false
+  xy: 2, 571
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+images/qipao_00000
+  rotate: true
+  xy: 2, 122
+  size: 196, 122
+  orig: 196, 122
+  offset: 0, 0
+  index: -1

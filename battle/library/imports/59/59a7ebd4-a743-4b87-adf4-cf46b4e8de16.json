@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_redhear_01",
+    "texture": "e40f776e-aaa3-4528-963e-3b67db900f09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_huafeiquankuang_01",
+    "texture": "14dab33d-98d5-4215-b564-11a34e812d77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      41
+    ],
+    "capInsets": [
+      17,
+      0,
+      18,
+      0
+    ]
+  }
+}

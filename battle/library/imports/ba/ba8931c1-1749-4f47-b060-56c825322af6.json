@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tongyong_di_01",
+    "texture": "7e5e644a-808b-4d33-8745-812a9d55d45c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      703,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      703,
+      101
+    ],
+    "capInsets": [
+      345,
+      0,
+      345,
+      0
+    ]
+  }
+}

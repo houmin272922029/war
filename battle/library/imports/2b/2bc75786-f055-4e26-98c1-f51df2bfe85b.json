@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xingyunjifen_lashou_01",
+    "texture": "203c3094-3444-4fb4-8f7f-27ce84560496",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

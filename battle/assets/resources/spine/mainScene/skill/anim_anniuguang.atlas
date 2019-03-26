@@ -1,0 +1,41 @@
+
+anim_anniuguang.png
+size: 731,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/tirtu/denf_0
+  rotate: false
+  xy: 648, 72
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+png/tirtu/kuo_34
+  rotate: false
+  xy: 0, 13
+  size: 231, 185
+  orig: 256, 185
+  offset: 0, 0
+  index: -1
+png/tirtu/san_53
+  rotate: false
+  xy: 233, 23
+  size: 211, 175
+  orig: 235, 187
+  offset: 14, 5
+  index: -1
+png/tirtu/sg_0
+  rotate: false
+  xy: 446, 0
+  size: 200, 198
+  orig: 200, 200
+  offset: 0, 2
+  index: -1
+png/tirtu/shan_00000
+  rotate: false
+  xy: 648, 115
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1

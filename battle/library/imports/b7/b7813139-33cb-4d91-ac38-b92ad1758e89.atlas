@@ -1,0 +1,160 @@
+
+anim_VIP1.png
+size: 390,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 464
+  size: 295, 360
+  orig: 295, 360
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2, 349
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 129, 349
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 256, 349
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 222
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 95
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+guangxiao01
+  rotate: false
+  xy: 103, 13
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao02
+  rotate: false
+  xy: 204, 267
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao03
+  rotate: true
+  xy: 117, 248
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao04
+  rotate: false
+  xy: 2, 13
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+paotou
+  rotate: false
+  xy: 117, 106
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+paotou01
+  rotate: true
+  xy: 305, 248
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+paotou02
+  rotate: false
+  xy: 199, 185
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youpaotong01
+  rotate: false
+  xy: 364, 732
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+youpaotong02
+  rotate: true
+  xy: 117, 147
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youpaotong03
+  rotate: false
+  xy: 199, 103
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youyuanpan
+  rotate: true
+  xy: 364, 679
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: true
+  xy: 300, 148
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+zuopaotong01
+  rotate: false
+  xy: 364, 703
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+zuopaotong02
+  rotate: true
+  xy: 204, 2
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+zuopaotong03
+  rotate: true
+  xy: 286, 2
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+zuoyuanpan
+  rotate: true
+  xy: 364, 656
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

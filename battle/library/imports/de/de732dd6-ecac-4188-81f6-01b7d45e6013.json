@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zengsong_01",
+    "texture": "b630220e-b270-4275-bf60-b4f7a24d6a6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

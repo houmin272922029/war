@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_kaisaidaojishi_01",
+    "texture": "8d185aa4-db6f-40cd-9571-8e25369d8722",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

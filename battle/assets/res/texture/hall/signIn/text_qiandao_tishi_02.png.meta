@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ad469724-d04c-4080-8140-d9dd101c45e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_qiandao_tishi_02": {
+      "ver": "1.0.3",
+      "uuid": "4e50601f-015c-4bca-83b7-fbe872a4b230",
+      "rawTextureUuid": "ad469724-d04c-4080-8140-d9dd101c45e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 113,
+      "height": 29,
+      "rawWidth": 113,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

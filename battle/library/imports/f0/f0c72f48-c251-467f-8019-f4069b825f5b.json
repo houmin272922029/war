@@ -1,0 +1,240 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_jiesuokuang",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "7i2blQLD0j96DDGwETBqONdgB/k",
+      "spine": "3.6.53",
+      "width": 85,
+      "height": 85,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/jiesuokuang_00050",
+        "bone": "bone",
+        "blend": "additive"
+      },
+      {
+        "name": "png/shan_00000",
+        "bone": "bone2",
+        "attachment": "png/shan_00000"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/jiesuokuang_00050": {
+          "png/jiesuokuang_00055": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00056": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00057": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00058": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00059": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00060": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00061": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00062": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00063": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00064": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00065": {
+            "width": 512,
+            "height": 299
+          },
+          "png/jiesuokuang_00066": {
+            "width": 512,
+            "height": 299
+          }
+        },
+        "png/shan_00000": {
+          "png/shan_00000": {
+            "width": 85,
+            "height": 85
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/jiesuokuang_00050": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff24"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/jiesuokuang_00057"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/jiesuokuang_00055"
+              },
+              {
+                "time": 0.2,
+                "name": "png/jiesuokuang_00056"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/jiesuokuang_00057"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/jiesuokuang_00058"
+              },
+              {
+                "time": 0.3,
+                "name": "png/jiesuokuang_00059"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/jiesuokuang_00060"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/jiesuokuang_00061"
+              },
+              {
+                "time": 0.4,
+                "name": "png/jiesuokuang_00062"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/jiesuokuang_00063"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/jiesuokuang_00064"
+              },
+              {
+                "time": 0.5,
+                "name": "png/jiesuokuang_00065"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/jiesuokuang_00066"
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              }
+            ]
+          },
+          "png/shan_00000": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "png/shan_00000"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.179,
+                "y": 0.287
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone2": {
+            "translate": [
+              {
+                "time": 0.1667,
+                "x": -13.86,
+                "y": -0.92
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 8.94,
+                "y": 4.37
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_jiesuokuang.png\r\nsize: 1441,608\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/jiesuokuang_00055\r\n  rotate: false\r\n  xy: 2, 406\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00056\r\n  rotate: false\r\n  xy: 2, 204\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00057\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00058\r\n  rotate: false\r\n  xy: 347, 406\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00059\r\n  rotate: false\r\n  xy: 347, 204\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00060\r\n  rotate: false\r\n  xy: 347, 2\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00061\r\n  rotate: false\r\n  xy: 692, 406\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00062\r\n  rotate: false\r\n  xy: 692, 204\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00063\r\n  rotate: false\r\n  xy: 692, 2\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00064\r\n  rotate: false\r\n  xy: 1037, 406\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00065\r\n  rotate: false\r\n  xy: 1037, 204\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuokuang_00066\r\n  rotate: false\r\n  xy: 1037, 2\r\n  size: 343, 200\r\n  orig: 343, 200\r\n  offset: 0, 0\r\n  index: -1\r\npng/shan_00000\r\n  rotate: false\r\n  xy: 1382, 549\r\n  size: 57, 57\r\n  orig: 57, 57\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "2e8c7e35-2cf6-4b24-ace7-8ae04b3343c9"
+    }
+  ],
+  "textureNames": [
+    "anim_jiesuokuang.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "65a3e312-5781-4cb7-87d6-2e25e8b080c4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shop_shangcheng_01": {
+      "ver": "1.0.3",
+      "uuid": "74512419-0dd0-4834-b068-e25e2804ae0e",
+      "rawTextureUuid": "65a3e312-5781-4cb7-87d6-2e25e8b080c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 79,
+      "rawWidth": 145,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

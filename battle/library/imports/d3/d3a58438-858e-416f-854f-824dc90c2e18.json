@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shouping_chongzhimima_01",
+    "texture": "bddde3b5-1dca-4f70-bb96-79e72b0f193e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

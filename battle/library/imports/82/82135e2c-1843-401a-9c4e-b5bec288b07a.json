@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wechatEnter",
+    "texture": "b64e5996-95d9-4d78-b5f1-d8078437409f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      289,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      289,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

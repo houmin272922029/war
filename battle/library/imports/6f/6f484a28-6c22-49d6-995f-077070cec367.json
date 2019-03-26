@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yueka_tubiaodi_01",
+    "texture": "8e2ab17a-349e-4f15-b35c-7b94af90721e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

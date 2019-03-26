@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_cw_beijing_01",
+    "texture": "bab4a62d-ef66-4b03-8738-5367de0eff40",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      504,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      504,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

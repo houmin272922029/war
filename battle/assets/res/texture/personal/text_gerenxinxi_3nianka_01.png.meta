@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "23af4973-20ee-45b4-882e-d6cd05eefa5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_gerenxinxi_3nianka_01": {
+      "ver": "1.0.3",
+      "uuid": "20324c41-a389-4795-824c-8bd28e64fa8a",
+      "rawTextureUuid": "23af4973-20ee-45b4-882e-d6cd05eefa5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 27,
+      "rawWidth": 74,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

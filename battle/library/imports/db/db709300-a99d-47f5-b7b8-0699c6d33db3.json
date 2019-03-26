@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingjichang_wodejifen_01",
+    "texture": "ec1bf83a-53df-46a0-a5ce-2c0556ffb9c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

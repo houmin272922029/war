@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_youxiang_lingqu_01",
+    "texture": "aaa76992-d286-4bbe-90e4-f51b749d4b52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

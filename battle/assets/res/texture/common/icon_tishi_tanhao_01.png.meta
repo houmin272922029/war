@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4b6395b4-5227-43ab-b6a4-c10ace66f54a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_tishi_tanhao_01": {
+      "ver": "1.0.3",
+      "uuid": "14e401c6-c4ba-442c-8531-d834d67d3836",
+      "rawTextureUuid": "4b6395b4-5227-43ab-b6a4-c10ace66f54a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 22,
+      "height": 42,
+      "rawWidth": 23,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

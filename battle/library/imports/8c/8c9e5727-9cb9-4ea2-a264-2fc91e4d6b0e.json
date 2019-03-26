@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_loading_shuzi_01",
+    "texture": "704f7abf-0a94-4111-a6e0-decaa93dcaa3",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      169,
+      20
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      170,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

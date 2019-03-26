@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_cansaiguize_01",
+    "texture": "cb3f8ff3-1d59-4f66-8e5f-4f43a38c8820",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

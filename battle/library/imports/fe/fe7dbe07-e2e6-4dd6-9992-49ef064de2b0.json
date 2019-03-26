@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_anniuguang",
+    "texture": "f9d876c0-676c-419d-a6d8-54a214ea7eab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      729,
+      198
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      731,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "841b310b-a5d8-4d99-ae9b-bce0dd772d22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shop_maizuanshi_02": {
+      "ver": "1.0.3",
+      "uuid": "bbbfdaa7-0c1c-451e-98de-3bd2f824636f",
+      "rawTextureUuid": "841b310b-a5d8-4d99-ae9b-bce0dd772d22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 108,
+      "height": 39,
+      "rawWidth": 108,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

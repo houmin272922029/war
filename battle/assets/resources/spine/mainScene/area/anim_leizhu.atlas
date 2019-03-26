@@ -1,0 +1,216 @@
+
+anim_leizhu.png
+size: 284,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/add_0
+  rotate: false
+  xy: 162, 0
+  size: 49, 43
+  orig: 53, 47
+  offset: 2, 2
+  index: -1
+png/saoguangda_1
+  rotate: false
+  xy: 141, 0
+  size: 8, 37
+  orig: 85, 83
+  offset: 2, 29
+  index: -1
+png/saoguangda_10
+  rotate: false
+  xy: 43, 117
+  size: 39, 75
+  orig: 85, 83
+  offset: 41, 3
+  index: -1
+png/saoguangda_11
+  rotate: false
+  xy: 248, 69
+  size: 35, 71
+  orig: 85, 83
+  offset: 48, 4
+  index: -1
+png/saoguangda_12
+  rotate: false
+  xy: 252, 142
+  size: 26, 62
+  orig: 85, 83
+  offset: 57, 7
+  index: -1
+png/saoguangda_13
+  rotate: false
+  xy: 120, 13
+  size: 19, 54
+  orig: 85, 83
+  offset: 65, 12
+  index: -1
+png/saoguangda_14
+  rotate: false
+  xy: 151, 2
+  size: 9, 35
+  orig: 85, 83
+  offset: 74, 20
+  index: -1
+png/saoguangda_2
+  rotate: false
+  xy: 141, 39
+  size: 18, 52
+  orig: 85, 83
+  offset: 2, 18
+  index: -1
+png/saoguangda_3
+  rotate: false
+  xy: 252, 206
+  size: 26, 63
+  orig: 85, 83
+  offset: 2, 13
+  index: -1
+png/saoguangda_4
+  rotate: false
+  xy: 84, 3
+  size: 34, 70
+  orig: 85, 83
+  offset: 2, 9
+  index: -1
+png/saoguangda_5
+  rotate: false
+  xy: 43, 194
+  size: 39, 75
+  orig: 85, 83
+  offset: 5, 4
+  index: -1
+png/saoguangda_6
+  rotate: false
+  xy: 0, 193
+  size: 41, 76
+  orig: 85, 83
+  offset: 11, 3
+  index: -1
+png/saoguangda_7
+  rotate: false
+  xy: 0, 115
+  size: 41, 76
+  orig: 85, 83
+  offset: 18, 3
+  index: -1
+png/saoguangda_8
+  rotate: false
+  xy: 0, 37
+  size: 40, 76
+  orig: 85, 83
+  offset: 26, 3
+  index: -1
+png/saoguangda_9
+  rotate: false
+  xy: 42, 37
+  size: 40, 76
+  orig: 85, 83
+  offset: 33, 3
+  index: -1
+png/sgx_0
+  rotate: false
+  xy: 84, 93
+  size: 78, 13
+  orig: 85, 69
+  offset: 3, 5
+  index: -1
+png/sgx_1
+  rotate: false
+  xy: 84, 108
+  size: 79, 18
+  orig: 85, 69
+  offset: 2, 5
+  index: -1
+png/sgx_10
+  rotate: false
+  xy: 84, 128
+  size: 80, 36
+  orig: 85, 69
+  offset: 2, 29
+  index: -1
+png/sgx_11
+  rotate: false
+  xy: 166, 104
+  size: 79, 31
+  orig: 85, 69
+  offset: 3, 34
+  index: -1
+png/sgx_12
+  rotate: false
+  xy: 164, 75
+  size: 77, 27
+  orig: 85, 69
+  offset: 4, 39
+  index: -1
+png/sgx_13
+  rotate: false
+  xy: 161, 45
+  size: 73, 22
+  orig: 85, 69
+  offset: 6, 44
+  index: -1
+png/sgx_14
+  rotate: false
+  xy: 213, 25
+  size: 71, 18
+  orig: 85, 69
+  offset: 7, 48
+  index: -1
+png/sgx_2
+  rotate: false
+  xy: 166, 137
+  size: 80, 23
+  orig: 85, 69
+  offset: 2, 5
+  index: -1
+png/sgx_3
+  rotate: false
+  xy: 84, 166
+  size: 81, 27
+  orig: 85, 69
+  offset: 1, 5
+  index: -1
+png/sgx_4
+  rotate: false
+  xy: 168, 162
+  size: 82, 32
+  orig: 85, 69
+  offset: 1, 5
+  index: -1
+png/sgx_5
+  rotate: false
+  xy: 0, 0
+  size: 82, 35
+  orig: 85, 69
+  offset: 1, 7
+  index: -1
+png/sgx_6
+  rotate: false
+  xy: 84, 233
+  size: 82, 36
+  orig: 85, 69
+  offset: 1, 10
+  index: -1
+png/sgx_7
+  rotate: false
+  xy: 168, 233
+  size: 82, 36
+  orig: 85, 69
+  offset: 1, 15
+  index: -1
+png/sgx_8
+  rotate: false
+  xy: 84, 195
+  size: 82, 36
+  orig: 85, 69
+  offset: 1, 20
+  index: -1
+png/sgx_9
+  rotate: false
+  xy: 168, 196
+  size: 82, 35
+  orig: 85, 69
+  offset: 1, 25
+  index: -1

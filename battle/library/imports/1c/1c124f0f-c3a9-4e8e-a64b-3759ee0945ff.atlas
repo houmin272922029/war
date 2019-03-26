@@ -1,0 +1,153 @@
+
+anim_zhushangdian.png
+size: 1905,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 1848, 45
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+xingzhuan_00000
+  rotate: true
+  xy: 1796, 32
+  size: 63, 50
+  orig: 71, 56
+  offset: 5, 4
+  index: -1
+zizi_00000
+  rotate: false
+  xy: 900, 14
+  size: 103, 81
+  orig: 128, 128
+  offset: 13, 27
+  index: -1
+zizi_00001
+  rotate: true
+  xy: 1622, 4
+  size: 91, 85
+  orig: 128, 128
+  offset: 13, 25
+  index: -1
+zizi_00002
+  rotate: true
+  xy: 1449, 4
+  size: 91, 86
+  orig: 128, 128
+  offset: 13, 24
+  index: -1
+zizi_00003
+  rotate: true
+  xy: 1709, 5
+  size: 90, 85
+  orig: 128, 128
+  offset: 13, 25
+  index: -1
+zizi_00004
+  rotate: true
+  xy: 1274, 2
+  size: 93, 86
+  orig: 128, 128
+  offset: 14, 24
+  index: -1
+zizi_00005
+  rotate: false
+  xy: 507, 10
+  size: 101, 85
+  orig: 128, 128
+  offset: 14, 25
+  index: -1
+zizi_00006
+  rotate: false
+  xy: 206, 8
+  size: 101, 87
+  orig: 128, 128
+  offset: 14, 23
+  index: -1
+zizi_00007
+  rotate: false
+  xy: 800, 9
+  size: 98, 86
+  orig: 128, 128
+  offset: 15, 24
+  index: -1
+zizi_00008
+  rotate: true
+  xy: 1537, 1
+  size: 94, 83
+  orig: 128, 128
+  offset: 15, 27
+  index: -1
+zizi_00009
+  rotate: true
+  xy: 1362, 1
+  size: 94, 85
+  orig: 128, 128
+  offset: 16, 25
+  index: -1
+zizi_00010
+  rotate: true
+  xy: 1095, 1
+  size: 94, 87
+  orig: 128, 128
+  offset: 17, 23
+  index: -1
+zizi_00011
+  rotate: true
+  xy: 1005, 1
+  size: 94, 88
+  orig: 128, 128
+  offset: 17, 22
+  index: -1
+zizi_00012
+  rotate: false
+  xy: 309, 6
+  size: 97, 89
+  orig: 128, 128
+  offset: 15, 21
+  index: -1
+zizi_00013
+  rotate: false
+  xy: 408, 6
+  size: 97, 89
+  orig: 128, 128
+  offset: 15, 21
+  index: -1
+zizi_00014
+  rotate: false
+  xy: 610, 7
+  size: 97, 88
+  orig: 128, 128
+  offset: 15, 22
+  index: -1
+zizi_00015
+  rotate: true
+  xy: 709, 0
+  size: 95, 89
+  orig: 128, 128
+  offset: 16, 24
+  index: -1
+zizi_00016
+  rotate: true
+  xy: 1184, 3
+  size: 92, 88
+  orig: 128, 128
+  offset: 18, 26
+  index: -1
+zizi_00017
+  rotate: false
+  xy: 102, 5
+  size: 102, 90
+  orig: 128, 128
+  offset: 7, 28
+  index: -1
+zizi_00018
+  rotate: false
+  xy: 0, 0
+  size: 100, 95
+  orig: 128, 128
+  offset: 6, 28
+  index: -1

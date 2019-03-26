@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_weishangbang_01",
+    "texture": "3862f5be-199d-4aec-bb8f-ea27ff3fc80e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

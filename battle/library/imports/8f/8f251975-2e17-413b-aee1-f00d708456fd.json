@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_jiahaoyou_01",
+    "texture": "8efe0da5-ffe9-4636-a2fa-2d774179315a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

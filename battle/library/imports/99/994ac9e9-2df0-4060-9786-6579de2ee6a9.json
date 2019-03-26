@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cw_chushou_01",
+    "texture": "7a71c458-75b8-41b9-a47f-05e0f9e74af3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a366c58b-3006-4ba2-b9f4-ce15a7389ee7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_jingjichang_lijikaishi_01": {
+      "ver": "1.0.3",
+      "uuid": "687549de-22c1-4ead-9262-03f50ce33f7b",
+      "rawTextureUuid": "a366c58b-3006-4ba2-b9f4-ce15a7389ee7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 36,
+      "rawWidth": 142,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

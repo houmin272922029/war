@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_diaoyu",
+    "texture": "6c5fab73-c97c-4e9f-98f5-186f9ec03ad9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

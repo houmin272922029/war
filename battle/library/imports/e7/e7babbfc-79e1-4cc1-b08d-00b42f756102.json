@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_goumaixuxiaohao_01",
+    "texture": "0ece6d0a-b0b6-4731-811c-f23277508784",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

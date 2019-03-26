@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jingui",
+    "texture": "c094bb8e-1b1d-424d-a49f-874331aa55c9",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      61,
+      60
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      62,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_setting_yinxiao_01",
+    "texture": "904d6237-2b55-46f0-9121-d98e4689acd0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_bunker_01",
+    "texture": "e28fcb66-4679-41b7-b266-68266cb81c26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      105
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      141,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

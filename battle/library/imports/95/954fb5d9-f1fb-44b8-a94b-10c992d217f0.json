@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_shengyu_01",
+    "texture": "3ce4acd6-6ba9-4f8b-a46a-4ea9187e59dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      149,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

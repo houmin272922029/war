@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zhujiemian_diban_01",
+    "texture": "52f49cd4-a165-42b2-9aa2-77b654f1ca0b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      357,
+      492
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      357,
+      492
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

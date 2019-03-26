@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jiesuan_xiachang_01",
+    "texture": "f5b7cd44-b723-48f2-9612-ae45cac014ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

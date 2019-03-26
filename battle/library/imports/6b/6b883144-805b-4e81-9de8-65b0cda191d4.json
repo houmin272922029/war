@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_keshengzhi_01",
+    "texture": "2cdb61bc-e36c-4f55-82fa-d81c05bd8de9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

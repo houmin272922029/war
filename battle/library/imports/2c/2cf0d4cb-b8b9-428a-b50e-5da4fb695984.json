@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tanchuang_quxiao_01",
+    "texture": "168a6348-ebe4-4c44-9767-db015f770d75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

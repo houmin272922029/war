@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6cc9f93f-bfea-4ce3-963d-872b8e932690",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_cifu_kuang_02": {
+      "ver": "1.0.3",
+      "uuid": "3702b23c-9ab6-44cf-8b57-a51e4cbb3ff1",
+      "rawTextureUuid": "6cc9f93f-bfea-4ce3-963d-872b8e932690",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 128,
+      "rawWidth": 144,
+      "rawHeight": 128,
+      "borderTop": 45,
+      "borderBottom": 35,
+      "borderLeft": 41,
+      "borderRight": 35,
+      "subMetas": {}
+    }
+  }
+}

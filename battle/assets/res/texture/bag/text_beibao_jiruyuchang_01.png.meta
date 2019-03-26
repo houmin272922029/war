@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "92f68970-842b-4160-b258-d83427e9b2c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_beibao_jiruyuchang_01": {
+      "ver": "1.0.3",
+      "uuid": "d6c69b1f-0e34-40cb-b1aa-f8608eb8585c",
+      "rawTextureUuid": "92f68970-842b-4160-b258-d83427e9b2c8",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 122,
+      "height": 31,
+      "rawWidth": 122,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

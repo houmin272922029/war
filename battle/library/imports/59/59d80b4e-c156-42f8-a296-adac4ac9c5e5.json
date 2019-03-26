@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_leizhupaiming_jingjirenwu_01",
+    "texture": "7c2cc1d5-6cd9-4b66-b262-4f27b39305ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

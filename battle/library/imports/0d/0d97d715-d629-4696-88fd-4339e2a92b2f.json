@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huanpao_pao_04",
+    "texture": "0f5bac96-e522-4765-b097-cc3f3810109d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      138,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

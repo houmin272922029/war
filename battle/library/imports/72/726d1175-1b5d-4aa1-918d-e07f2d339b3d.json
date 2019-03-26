@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojuzengsong_fengexian_01",
+    "texture": "6259b272-ce66-4bb8-b96f-ecef44300c2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

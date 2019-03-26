@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhuce_jianbian_01",
+    "texture": "e19d0492-d827-40eb-ba0c-335ac7a78a6a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      445,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      445,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

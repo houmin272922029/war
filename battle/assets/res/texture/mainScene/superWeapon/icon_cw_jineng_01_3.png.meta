@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ff3620ff-5de3-406a-b05a-aea2e8e9027b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_cw_jineng_01_3": {
+      "ver": "1.0.3",
+      "uuid": "03a3e5fe-6bdb-41e1-bee7-630fc4890386",
+      "rawTextureUuid": "ff3620ff-5de3-406a-b05a-aea2e8e9027b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -4,
+      "trimX": 0,
+      "trimY": 8,
+      "width": 90,
+      "height": 93,
+      "rawWidth": 94,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

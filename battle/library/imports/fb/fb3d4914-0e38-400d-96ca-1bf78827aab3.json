@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_zhuanhuan_01",
+    "texture": "fbc3e0a3-11da-4b39-aa44-9cc600b3a41d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

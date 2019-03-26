@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_liaotian_01",
+    "texture": "edc4b8de-d179-4187-9f7d-420e13390d21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

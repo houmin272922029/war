@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_cd",
+    "texture": "af8c7434-5df3-4d78-90d8-592c978fed1d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      382,
+      494
+    ],
+    "offset": [
+      -63,
+      7
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

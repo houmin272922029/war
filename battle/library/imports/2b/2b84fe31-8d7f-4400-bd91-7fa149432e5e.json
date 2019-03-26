@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_qiantingruqin_diban_01",
+    "texture": "7cb58f7b-ccee-4a61-a6b2-8a5f875e475a",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      290,
+      177
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      292,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

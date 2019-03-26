@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_shangcheng_01",
+    "texture": "7579dd73-ec34-4e77-9b70-bc4f76c28baa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

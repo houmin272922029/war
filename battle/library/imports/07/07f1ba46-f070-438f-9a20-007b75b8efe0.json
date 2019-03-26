@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_youxiang_libao_01",
+    "texture": "3f7a7795-b4a4-4d67-b6dc-b997c62aa282",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

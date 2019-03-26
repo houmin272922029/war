@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_huafei_04",
+    "texture": "bab3fc71-c4c5-4f46-8cc2-225b10705a72",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      204,
+      24
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      209,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_viptequan_01",
+    "texture": "8c5f2cae-b57b-405a-97a2-a2171ae2dd97",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      261,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      261,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

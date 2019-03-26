@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_tuichu",
+    "texture": "c49d30a7-57b9-472e-bea7-c4e3bd4046cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

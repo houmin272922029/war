@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_tuichu_01",
+    "texture": "e6c9c32d-fc6a-4bd6-b42e-2648cc80cae1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      48,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

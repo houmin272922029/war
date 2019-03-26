@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeizhengduo_jijiangruchang_01",
+    "texture": "4226cd71-a6a3-446b-80b6-d94ac3dce8b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

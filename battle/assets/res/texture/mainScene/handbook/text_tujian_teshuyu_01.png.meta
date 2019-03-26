@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0d206c5c-e371-435b-a25c-b850a5b0f478",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_tujian_teshuyu_01": {
+      "ver": "1.0.3",
+      "uuid": "83faf8ee-3fe2-45e1-9878-fb9f11f34447",
+      "rawTextureUuid": "0d206c5c-e371-435b-a25c-b850a5b0f478",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 111,
+      "height": 38,
+      "rawWidth": 111,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

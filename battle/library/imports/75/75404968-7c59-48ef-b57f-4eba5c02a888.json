@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_weixuanzhong_01",
+    "texture": "6ed14072-6c60-47c0-aa89-b2db4016821e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

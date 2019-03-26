@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0b9dcbec-ec5f-4702-af67-4effbf006e2b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yuchang_dapaodi_001": {
+      "ver": "1.0.3",
+      "uuid": "68a666e5-4f48-4787-999d-97f085970ca6",
+      "rawTextureUuid": "0b9dcbec-ec5f-4702-af67-4effbf006e2b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 305,
+      "height": 65,
+      "rawWidth": 305,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

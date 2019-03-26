@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "40daa116-a084-4eb3-830c-7ebc8c18be77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huafei_tanhao_01": {
+      "ver": "1.0.3",
+      "uuid": "46131e4d-5547-4650-b255-ddfee772d35d",
+      "rawTextureUuid": "40daa116-a084-4eb3-830c-7ebc8c18be77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 23,
+      "height": 38,
+      "rawWidth": 23,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

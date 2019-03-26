@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_shangcheng_shuzi_02",
+    "texture": "ccfd8bbc-2f6c-478f-9b72-6b98d25c10bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

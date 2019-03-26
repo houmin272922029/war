@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_paojiesuo",
+    "texture": "fdf94f7d-935c-446b-beda-6749630721b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

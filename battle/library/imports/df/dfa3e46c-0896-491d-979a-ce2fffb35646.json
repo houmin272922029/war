@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xinshoufenxiang_beijing_01",
+    "texture": "9efd152b-c72a-4666-9c0d-117334239332",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      294,
+      472
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      296,
+      472
+    ],
+    "capInsets": [
+      105,
+      200,
+      105,
+      200
+    ]
+  }
+}

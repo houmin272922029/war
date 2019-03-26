@@ -1,0 +1,297 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_iconvs",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "IoFDrUb0b3vQ5w2CYK7T09IqUlQ",
+      "spine": "3.6.53",
+      "width": 101,
+      "height": 100,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/icon_zhujiemian_jingjichang_1",
+        "bone": "bone5",
+        "attachment": "png/icon_zhujiemian_jingjichang_01",
+        "blend": "additive"
+      },
+      {
+        "name": "png/liakuang_22",
+        "bone": "bone4",
+        "attachment": "caidai2",
+        "blend": "additive"
+      },
+      {
+        "name": "vssaio_00000",
+        "bone": "bone",
+        "attachment": "vssaio_00000",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/icon_zhujiemian_jingjichang_1": {
+          "png/icon_zhujiemian_jingjichang_01": {
+            "width": 101,
+            "height": 84
+          }
+        },
+        "png/liakuang_22": {
+          "caidai2": {
+            "width": 50,
+            "height": 50
+          }
+        },
+        "vssaio_00000": {
+          "vssaio_00000": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00001": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00002": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00003": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00004": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00005": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00006": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00007": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00008": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00009": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00010": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00011": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00012": {
+            "width": 101,
+            "height": 100
+          },
+          "vssaio_00013": {
+            "width": 101,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/icon_zhujiemian_jingjichang_1": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "png/icon_zhujiemian_jingjichang_01"
+              },
+              {
+                "time": 1.3333,
+                "name": "png/icon_zhujiemian_jingjichang_01"
+              }
+            ]
+          },
+          "png/liakuang_22": {
+            "color": [
+              {
+                "time": 0.7,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.7,
+                "name": "caidai2"
+              }
+            ]
+          },
+          "vssaio_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "vssaio_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "vssaio_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "vssaio_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "vssaio_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "vssaio_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "vssaio_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "vssaio_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "vssaio_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "vssaio_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "vssaio_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "vssaio_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "vssaio_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "vssaio_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "vssaio_00013"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0.7,
+                "angle": 0
+              },
+              {
+                "time": 1.2333,
+                "angle": -89.44
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.7,
+                "x": -11.51,
+                "y": 37.26
+              }
+            ]
+          },
+          "bone5": {
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.1333,
+                "x": 1.15,
+                "y": 1.15
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_iconvs.png\r\nsize: 543,141\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\ncaidai2\r\n  rotate: false\r\n  xy: 492, 105\r\n  size: 34, 34\r\n  orig: 34, 34\r\n  offset: 0, 0\r\n  index: -1\r\npng/icon_zhujiemian_jingjichang_01\r\n  rotate: true\r\n  xy: 485, 2\r\n  size: 68, 56\r\n  orig: 68, 56\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00000\r\n  rotate: false\r\n  xy: 2, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00001\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00002\r\n  rotate: true\r\n  xy: 71, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00003\r\n  rotate: false\r\n  xy: 72, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00004\r\n  rotate: true\r\n  xy: 140, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00005\r\n  rotate: false\r\n  xy: 142, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00006\r\n  rotate: true\r\n  xy: 209, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00007\r\n  rotate: false\r\n  xy: 212, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00008\r\n  rotate: true\r\n  xy: 278, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00009\r\n  rotate: false\r\n  xy: 282, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00010\r\n  rotate: true\r\n  xy: 347, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00011\r\n  rotate: false\r\n  xy: 352, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00012\r\n  rotate: true\r\n  xy: 416, 2\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\nvssaio_00013\r\n  rotate: false\r\n  xy: 422, 72\r\n  size: 68, 67\r\n  orig: 68, 67\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "d97beebb-b6d8-43d9-87b8-52f0ab9d69ac"
+    }
+  ],
+  "textureNames": [
+    "anim_iconvs.png"
+  ],
+  "scale": 1
+}

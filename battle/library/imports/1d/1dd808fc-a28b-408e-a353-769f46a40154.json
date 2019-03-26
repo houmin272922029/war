@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_paobei_001",
+    "texture": "ba7f4305-de82-4232-b7bf-07071293a2ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

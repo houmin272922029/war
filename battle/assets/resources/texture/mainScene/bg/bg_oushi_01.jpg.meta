@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "24d667cd-7136-4845-8b78-e9452dc302a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bg_oushi_01": {
+      "ver": "1.0.3",
+      "uuid": "dc008a04-bd0b-4900-92f8-7afb0a1d907f",
+      "rawTextureUuid": "24d667cd-7136-4845-8b78-e9452dc302a8",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1045,
+      "height": 482,
+      "rawWidth": 1045,
+      "rawHeight": 482,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

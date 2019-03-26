@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8c28d539-758d-46f0-87f5-008be44ab141",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_yueka_goumai_01": {
+      "ver": "1.0.3",
+      "uuid": "30694b00-ed4d-4cce-889b-afda14f886c5",
+      "rawTextureUuid": "8c28d539-758d-46f0-87f5-008be44ab141",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 45,
+      "rawWidth": 92,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

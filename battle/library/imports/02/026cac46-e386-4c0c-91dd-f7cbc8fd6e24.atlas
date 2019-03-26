@@ -1,0 +1,237 @@
+
+anim_bigbosscome.png
+size: 2017,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss来袭/550
+  rotate: true
+  xy: 129, 83
+  size: 356, 127
+  orig: 356, 127
+  offset: 0, 0
+  index: -1
+boss来袭/800倍
+  rotate: true
+  xy: 674, 132
+  size: 307, 127
+  orig: 307, 127
+  offset: 0, 0
+  index: -1
+boss来袭/dianquan
+  rotate: false
+  xy: 1088, 172
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+boss来袭/du800brei
+  rotate: false
+  xy: 761, 3
+  size: 306, 127
+  orig: 306, 127
+  offset: 0, 0
+  index: -1
+boss来袭/huan01
+  rotate: false
+  xy: 1763, 210
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+boss来袭/huan02
+  rotate: false
+  xy: 1357, 179
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+boss来袭/huan03
+  rotate: false
+  xy: 1357, 267
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_0
+  rotate: false
+  xy: 42, 24
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_10
+  rotate: true
+  xy: 1705, 186
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_2
+  rotate: false
+  xy: 156, 25
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_4
+  rotate: true
+  xy: 1531, 186
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_6
+  rotate: true
+  xy: 1589, 186
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/lidian_7
+  rotate: true
+  xy: 1647, 186
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+boss来袭/light
+  rotate: false
+  xy: 42, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_0
+  rotate: false
+  xy: 591, 7
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_1
+  rotate: true
+  xy: 1217, 2
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_2
+  rotate: true
+  xy: 1322, 2
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_3
+  rotate: true
+  xy: 1427, 9
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_4
+  rotate: true
+  xy: 258, 103
+  size: 336, 206
+  orig: 336, 206
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_5
+  rotate: true
+  xy: 1532, 16
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_6
+  rotate: true
+  xy: 1637, 16
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_7
+  rotate: true
+  xy: 1742, 16
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_8
+  rotate: false
+  xy: 1847, 195
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light/lightda_9
+  rotate: false
+  xy: 1847, 90
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+boss来袭/light0
+  rotate: false
+  xy: 1069, 8
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+boss来袭/light01
+  rotate: false
+  xy: 1763, 246
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+boss来袭/light10_00177
+  rotate: true
+  xy: 2, 14
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+boss来袭/light4
+  rotate: false
+  xy: 1817, 273
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+boss来袭/longgui850
+  rotate: true
+  xy: 2, 82
+  size: 357, 125
+  orig: 357, 125
+  offset: 0, 0
+  index: -1
+boss来袭/pan
+  rotate: false
+  xy: 803, 156
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1
+boss来袭/pan_jin
+  rotate: false
+  xy: 270, 15
+  size: 319, 86
+  orig: 319, 86
+  offset: 0, 0
+  index: -1
+meihuishengbi
+  rotate: false
+  xy: 1531, 300
+  size: 476, 139
+  orig: 476, 139
+  offset: 0, 0
+  index: -1
+龙龟-最高10番
+  rotate: true
+  xy: 466, 112
+  size: 327, 206
+  orig: 327, 206
+  offset: 0, 0
+  index: -1

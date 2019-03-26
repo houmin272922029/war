@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jixuyouxi_01",
+    "texture": "75d72753-6569-4817-9722-9d903101eb9b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

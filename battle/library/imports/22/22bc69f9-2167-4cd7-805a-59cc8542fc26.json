@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_chanzi",
+    "texture": "87bc0bee-86e5-45f5-adba-a89d6f4ae2ab",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      477,
+      211
+    ],
+    "offset": [
+      -16.5,
+      22.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

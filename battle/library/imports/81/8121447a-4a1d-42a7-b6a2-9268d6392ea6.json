@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_viptequan_miaoshu_03",
+    "texture": "4dd5cf38-0c9a-4edf-b5de-e606ae6c928a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

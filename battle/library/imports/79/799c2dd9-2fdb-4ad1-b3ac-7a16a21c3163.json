@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_leizhupaiming_zuoripaiming_01",
+    "texture": "6b73684f-6cd4-4a1f-9cd6-14dfa5971902",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      198,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

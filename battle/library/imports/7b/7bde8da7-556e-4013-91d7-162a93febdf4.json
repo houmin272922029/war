@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_card_02",
+    "texture": "fbf2b924-643d-4a58-8e21-dcfb94462a1d",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      158,
+      247
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      158,
+      248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0c641fbe-7feb-41f3-b0d8-bde422ca7b47",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_huafei_biaoti_02": {
+      "ver": "1.0.3",
+      "uuid": "6e64a8ae-54db-40ed-a1d9-c6b52aaf0ffc",
+      "rawTextureUuid": "0c641fbe-7feb-41f3-b0d8-bde422ca7b47",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 537,
+      "height": 104,
+      "rawWidth": 539,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

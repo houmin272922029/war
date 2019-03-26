@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_VIP5",
+    "texture": "63dbdd2a-672a-43ab-b177-7263b2c72595",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      935,
+      293
+    ],
+    "offset": [
+      -8.5,
+      -0.5
+    ],
+    "originalSize": [
+      958,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

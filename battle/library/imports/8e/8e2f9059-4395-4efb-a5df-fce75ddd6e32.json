@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_guoneizuheyu",
+    "texture": "4e207d28-01a9-4007-9437-4d5ceb3e77f4",
+    "atlas": "",
+    "rect": [
+      2,
+      14,
+      724,
+      1012
+    ],
+    "offset": [
+      0,
+      -6
+    ],
+    "originalSize": [
+      728,
+      1028
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingji_fanhui_01",
+    "texture": "638a6a46-5759-4771-b9df-a2a3faee8b66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

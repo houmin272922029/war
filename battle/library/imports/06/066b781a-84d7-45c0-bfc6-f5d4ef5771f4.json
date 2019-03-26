@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_guowangbaoxiang",
+    "texture": "0db478f1-e49f-49f8-b999-74ffc98332af",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1017,
+      250
+    ],
+    "offset": [
+      -1.5,
+      -1
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

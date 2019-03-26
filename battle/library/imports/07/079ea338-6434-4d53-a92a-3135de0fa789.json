@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_qiandao_biaoti_01",
+    "texture": "df0ed239-d47f-4d01-85dc-0ed729a113d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

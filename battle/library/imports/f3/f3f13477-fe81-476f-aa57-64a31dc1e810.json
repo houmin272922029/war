@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_jifenhuizhang_02",
+    "texture": "a0847e34-4f54-4497-b9a4-3f0cfe1bcdc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

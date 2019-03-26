@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_biaotikuang_01",
+    "texture": "a7fa18b7-4094-403a-acde-3a3aa44a70b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      659,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      659,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

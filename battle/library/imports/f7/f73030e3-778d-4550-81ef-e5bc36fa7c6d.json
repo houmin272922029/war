@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yueka_tishi_01",
+    "texture": "2f070eac-da6c-433c-aaa0-21e0b595417c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

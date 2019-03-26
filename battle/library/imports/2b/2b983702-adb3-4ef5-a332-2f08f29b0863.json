@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_guizuka_01",
+    "texture": "21f06748-1334-4bf0-a14d-0a7b4bdbc37b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

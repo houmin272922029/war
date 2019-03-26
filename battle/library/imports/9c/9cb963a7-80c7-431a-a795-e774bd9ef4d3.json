@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_zhichongka_01",
+    "texture": "d73d94cf-e21d-40a2-b717-183f38cf5204",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

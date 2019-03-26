@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b909b467-d608-440f-ab7d-2cf276ba0245",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_huanpao_name_press_01": {
+      "ver": "1.0.3",
+      "uuid": "6c9ae1ff-c0bb-4942-af88-0ff200443a35",
+      "rawTextureUuid": "b909b467-d608-440f-ab7d-2cf276ba0245",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 34,
+      "rawWidth": 124,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

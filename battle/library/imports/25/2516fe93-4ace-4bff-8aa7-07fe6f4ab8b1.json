@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_zhouka_01",
+    "texture": "d182f92f-23c8-4924-9e9f-5f782c7e3b4c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      154,
+      119
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      155,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "45c6d599-3619-4765-b437-27913d347e38",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "tui_huafei_guize_01": {
+      "ver": "1.0.3",
+      "uuid": "43a6ad19-cf83-4b80-be10-5ce6c7fa974a",
+      "rawTextureUuid": "45c6d599-3619-4765-b437-27913d347e38",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 43,
+      "height": 42,
+      "rawWidth": 43,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_goumai_01",
+    "texture": "8c28d539-758d-46f0-87f5-008be44ab141",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

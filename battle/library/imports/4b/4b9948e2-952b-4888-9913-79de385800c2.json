@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafeisai_wenzikuang_05",
+    "texture": "4eb9b4bf-8cf8-49aa-bc81-afbef3823e99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      30
+    ],
+    "capInsets": [
+      15,
+      0,
+      15,
+      0
+    ]
+  }
+}

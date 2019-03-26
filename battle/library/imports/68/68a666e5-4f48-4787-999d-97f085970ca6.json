@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_dapaodi_001",
+    "texture": "0b9dcbec-ec5f-4702-af67-4effbf006e2b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      305,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      305,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

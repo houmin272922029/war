@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jingjiicon",
+    "texture": "02f7dfe9-b0b9-4c65-a4c1-5ca475377f3c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      334,
+      536
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      338,
+      540
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

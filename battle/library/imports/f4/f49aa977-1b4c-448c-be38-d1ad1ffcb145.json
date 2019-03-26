@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_welcome_bao",
+    "texture": "d7d07cc7-fc42-4e4c-b170-2a8619e291a3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1622,
+      359
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1625,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

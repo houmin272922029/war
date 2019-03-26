@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_qianting_biaoti_01",
+    "texture": "f31c71b8-74c5-407f-930e-8016ffe182e2",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      535,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      539,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

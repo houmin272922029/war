@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8344b86c-80c5-4f08-af77-50b19cd8c6ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_jineng_huobao_01": {
+      "ver": "1.0.3",
+      "uuid": "ca5463ea-d125-42b9-8f9e-5dc64c7d4f75",
+      "rawTextureUuid": "8344b86c-80c5-4f08-af77-50b19cd8c6ce",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

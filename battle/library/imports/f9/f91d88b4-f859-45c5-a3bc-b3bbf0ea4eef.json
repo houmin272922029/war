@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zhujiemain_jindutiao_01",
+    "texture": "75085835-fbb9-4eb9-97d3-f5c1bfc2a145",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      187,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      187,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

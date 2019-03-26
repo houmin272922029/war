@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_yueka_goumai_01",
+    "texture": "c44e1c3e-4c6c-4d24-b4b3-760ab49d337c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      223,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

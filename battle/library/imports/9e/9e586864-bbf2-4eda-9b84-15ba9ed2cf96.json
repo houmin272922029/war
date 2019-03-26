@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_meizhouleizhu_01",
+    "texture": "d96f33ed-2cab-4f77-b930-913ce820d467",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

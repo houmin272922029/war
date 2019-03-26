@@ -1,0 +1,111 @@
+
+anim_Pangxie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mont1
+  rotate: false
+  xy: 308, 239
+  size: 139, 89
+  orig: 142, 91
+  offset: 2, 1
+  index: -1
+mont2
+  rotate: false
+  xy: 843, 254
+  size: 136, 74
+  orig: 139, 77
+  offset: 2, 2
+  index: -1
+pangxie1
+  rotate: false
+  xy: 308, 158
+  size: 96, 79
+  orig: 98, 81
+  offset: 1, 1
+  index: -1
+pangxie10
+  rotate: false
+  xy: 2, 25
+  size: 178, 188
+  orig: 180, 190
+  offset: 1, 1
+  index: -1
+pangxie11
+  rotate: false
+  xy: 308, 330
+  size: 373, 174
+  orig: 375, 176
+  offset: 1, 1
+  index: -1
+pangxie12
+  rotate: false
+  xy: 698, 229
+  size: 74, 137
+  orig: 76, 138
+  offset: 1, 1
+  index: -1
+pangxie13
+  rotate: true
+  xy: 182, 2
+  size: 62, 97
+  orig: 64, 99
+  offset: 1, 1
+  index: -1
+pangxie2
+  rotate: false
+  xy: 849, 418
+  size: 139, 86
+  orig: 143, 89
+  offset: 1, 1
+  index: -1
+pangxie3
+  rotate: false
+  xy: 449, 242
+  size: 139, 86
+  orig: 143, 89
+  offset: 1, 1
+  index: -1
+pangxie4
+  rotate: false
+  xy: 849, 330
+  size: 139, 86
+  orig: 143, 89
+  offset: 1, 1
+  index: -1
+pangxie5
+  rotate: true
+  xy: 774, 251
+  size: 115, 67
+  orig: 117, 69
+  offset: 1, 1
+  index: -1
+pangxie6
+  rotate: true
+  xy: 182, 66
+  size: 147, 121
+  orig: 149, 123
+  offset: 1, 1
+  index: -1
+pangxie7
+  rotate: false
+  xy: 2, 215
+  size: 304, 289
+  orig: 306, 291
+  offset: 1, 1
+  index: -1
+pangxie8
+  rotate: false
+  xy: 590, 212
+  size: 106, 116
+  orig: 108, 119
+  offset: 1, 2
+  index: -1
+pangxie9
+  rotate: false
+  xy: 683, 368
+  size: 164, 136
+  orig: 166, 138
+  offset: 1, 1
+  index: -1

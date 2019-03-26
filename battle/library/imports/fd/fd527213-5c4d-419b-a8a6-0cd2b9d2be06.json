@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jingui_anim_die",
+    "texture": "fdd12265-2620-4566-a217-8d3a99c7ab72",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      358,
+      102
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      362,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

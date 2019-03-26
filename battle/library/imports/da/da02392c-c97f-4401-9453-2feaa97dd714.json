@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_leizhupaiming_kaishi_01",
+    "texture": "21a9af66-a98c-4594-9948-0f989b6bf022",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

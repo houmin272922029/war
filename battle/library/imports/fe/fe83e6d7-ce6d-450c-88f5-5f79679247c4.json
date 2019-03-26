@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_diaozuanshi_01",
+    "texture": "20a59644-528e-4b69-97c9-fc476db773af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_beiguang",
+    "texture": "f0a64be1-e103-4fd2-8fe8-1f02ef65d5d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      540,
+      416
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      540,
+      416
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

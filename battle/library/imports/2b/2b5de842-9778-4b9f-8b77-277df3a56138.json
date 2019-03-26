@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_hetun",
+    "texture": "57f9539d-4cd7-4bf4-bc68-f0459ae25ba6",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      66,
+      62
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      67,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

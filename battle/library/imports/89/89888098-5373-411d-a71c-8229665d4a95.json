@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_qiantingruqin_jieshu_01",
+    "texture": "a3c62188-3276-445e-b2c0-2c90244d8cdf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_daojugoumai_goumai_01",
+    "texture": "48148217-5243-4bcc-a6a9-b29579852dd0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

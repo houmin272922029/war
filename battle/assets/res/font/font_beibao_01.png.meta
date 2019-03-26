@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0145e648-5367-40db-810c-9dcecbc7b9b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "font_beibao_01": {
+      "ver": "1.0.3",
+      "uuid": "c75a18df-84ae-4c87-88e2-a0824eb96d56",
+      "rawTextureUuid": "0145e648-5367-40db-810c-9dcecbc7b9b3",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 200,
+      "height": 26,
+      "rawWidth": 200,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

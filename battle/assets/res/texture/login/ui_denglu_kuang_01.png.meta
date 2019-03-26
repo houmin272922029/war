@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "baa6add8-5ca6-4bed-acaf-731ba8a694b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_denglu_kuang_01": {
+      "ver": "1.0.3",
+      "uuid": "fa368702-bb31-43f8-9d37-cf6a15cee25a",
+      "rawTextureUuid": "baa6add8-5ca6-4bed-acaf-731ba8a694b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 88,
+      "rawWidth": 86,
+      "rawHeight": 88,
+      "borderTop": 26,
+      "borderBottom": 34,
+      "borderLeft": 27,
+      "borderRight": 29,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_tian_02",
+    "texture": "ab6b50d1-c331-4d67-aa76-8f1ae561c9a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_xingfudanchuchang",
+    "texture": "2ff5b2a5-5d0a-4ac2-bb02-7ea179900dcb",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      573,
+      763
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      580,
+      767
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

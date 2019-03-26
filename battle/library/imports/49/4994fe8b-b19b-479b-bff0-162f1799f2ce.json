@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_chongzhimima_01",
+    "texture": "1e24843b-e2ae-488c-94bc-6a699a397803",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

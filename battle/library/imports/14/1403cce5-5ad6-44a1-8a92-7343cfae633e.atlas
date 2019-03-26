@@ -1,0 +1,251 @@
+
+anim_zhuvip.png
+size: 794,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/chi_00000
+  rotate: false
+  xy: 2, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00001
+  rotate: false
+  xy: 2, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00003
+  rotate: false
+  xy: 90, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00004
+  rotate: false
+  xy: 2, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00005
+  rotate: false
+  xy: 90, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00007
+  rotate: false
+  xy: 178, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00008
+  rotate: false
+  xy: 2, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00009
+  rotate: false
+  xy: 90, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00010
+  rotate: false
+  xy: 178, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00011
+  rotate: false
+  xy: 266, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00013
+  rotate: false
+  xy: 90, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00014
+  rotate: false
+  xy: 178, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00015
+  rotate: false
+  xy: 266, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00016
+  rotate: false
+  xy: 354, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00017
+  rotate: false
+  xy: 178, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00018
+  rotate: false
+  xy: 266, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00019
+  rotate: false
+  xy: 354, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00020
+  rotate: false
+  xy: 442, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00021
+  rotate: false
+  xy: 266, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/chi_00022
+  rotate: false
+  xy: 354, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00001
+  rotate: false
+  xy: 442, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00003
+  rotate: false
+  xy: 530, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00004
+  rotate: false
+  xy: 354, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00006
+  rotate: false
+  xy: 442, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00007
+  rotate: false
+  xy: 530, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00008
+  rotate: false
+  xy: 618, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00010
+  rotate: false
+  xy: 442, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00011
+  rotate: false
+  xy: 530, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00012
+  rotate: false
+  xy: 618, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00014
+  rotate: false
+  xy: 706, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00015
+  rotate: false
+  xy: 530, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00016
+  rotate: false
+  xy: 618, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00018
+  rotate: false
+  xy: 706, 178
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00019
+  rotate: false
+  xy: 618, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/saog_00021
+  rotate: false
+  xy: 706, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

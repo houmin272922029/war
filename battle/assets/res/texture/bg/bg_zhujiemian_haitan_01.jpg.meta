@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5ee1b67b-00d0-41fc-b0f1-ab56ec2efb02",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bg_zhujiemian_haitan_01": {
+      "ver": "1.0.3",
+      "uuid": "58817829-1134-4f21-adcb-f229daa2fe4e",
+      "rawTextureUuid": "5ee1b67b-00d0-41fc-b0f1-ab56ec2efb02",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1045,
+      "height": 482,
+      "rawWidth": 1045,
+      "rawHeight": 482,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

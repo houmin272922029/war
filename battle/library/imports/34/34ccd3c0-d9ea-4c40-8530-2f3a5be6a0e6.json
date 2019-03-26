@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_changci_01",
+    "texture": "119ebfa6-5bc4-4c9e-b453-219d7ffcbbc4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a2d30507-43ba-42c8-b3b6-92c4bf6ea11f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_gerenxinix_renqi_01": {
+      "ver": "1.0.3",
+      "uuid": "24ed1f18-9029-46c3-ab6d-2a91f22b392d",
+      "rawTextureUuid": "a2d30507-43ba-42c8-b3b6-92c4bf6ea11f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 144,
+      "height": 98,
+      "rawWidth": 146,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

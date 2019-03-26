@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_viptequan_caidai_01",
+    "texture": "77f0986b-6016-42ac-a6d5-eb942c629874",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      588,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      590,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

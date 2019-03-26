@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b53db634-3cc5-4fab-a5f5-69eca107fc00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_yueka_shengyu_02": {
+      "ver": "1.0.3",
+      "uuid": "bc443863-4b32-41fa-9476-e454f87cb016",
+      "rawTextureUuid": "b53db634-3cc5-4fab-a5f5-69eca107fc00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 29,
+      "rawWidth": 28,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

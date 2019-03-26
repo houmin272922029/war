@@ -1,0 +1,404 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_ice",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "PmGG3Ar6yvUf0j7FUoWxJlL+iCg",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root"
+      },
+      {
+        "name": "bone7",
+        "parent": "root",
+        "y": -3.12
+      }
+    ],
+    "slots": [
+      {
+        "name": "xuehua",
+        "bone": "bone",
+        "attachment": "xuehua"
+      },
+      {
+        "name": "suibing",
+        "bone": "bone2",
+        "attachment": "suibing"
+      },
+      {
+        "name": "suibing2",
+        "bone": "bone6",
+        "attachment": "suibing"
+      },
+      {
+        "name": "zi",
+        "bone": "bone3",
+        "attachment": "zi"
+      },
+      {
+        "name": "zi2",
+        "bone": "bone7",
+        "attachment": "zi01"
+      },
+      {
+        "name": "light03",
+        "bone": "bone5",
+        "attachment": "light03",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "light03": {
+          "light03": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "suibing": {
+          "suibing": {
+            "x": 31.92,
+            "y": -7.6,
+            "width": 215,
+            "height": 158
+          }
+        },
+        "suibing2": {
+          "suibing": {
+            "x": 31.92,
+            "y": -7.6,
+            "width": 215,
+            "height": 158
+          }
+        },
+        "xuehua": {
+          "xuehua": {
+            "width": 136,
+            "height": 120
+          }
+        },
+        "zi": {
+          "zi": {
+            "width": 128,
+            "height": 67
+          }
+        },
+        "zi2": {
+          "zi01": {
+            "width": 102,
+            "height": 58
+          }
+        }
+      }
+    },
+    "animations": {
+      "ice": {
+        "slots": {
+          "light03": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.0333,
+                "color": "ffffffff",
+                "curve": [
+                  0.435,
+                  0,
+                  0.803,
+                  0.63
+                ]
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "suibing": {
+            "color": [
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "suibing"
+              }
+            ]
+          },
+          "suibing2": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "suibing"
+              }
+            ]
+          },
+          "xuehua": {
+            "color": [
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3667,
+                "color": "d4efffff"
+              },
+              {
+                "time": 0.8667,
+                "color": "54bdff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0667,
+                "name": "xuehua"
+              }
+            ]
+          },
+          "zi": {
+            "color": [
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "zi"
+              }
+            ]
+          },
+          "zi2": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "zi01"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.1333,
+                "x": 2.5,
+                "y": 2.5
+              }
+            ]
+          },
+          "bone3": {
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "scale": [
+              {
+                "time": 0.0667,
+                "x": 0.6,
+                "y": 0.6,
+                "curve": [
+                  0,
+                  0.29,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0,
+                  0.11,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8333,
+                "x": 1.1,
+                "y": 1.1
+              }
+            ]
+          },
+          "bone2": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 0.7,
+                "y": 0.7,
+                "curve": [
+                  0,
+                  0.18,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "x": 1.3,
+                "y": 1.3
+              }
+            ]
+          },
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0.1667,
+                "angle": -17.73
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0,
+                  0.18,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "x": 1.2,
+                "y": 1.2
+              }
+            ]
+          },
+          "bone7": {
+            "scale": [
+              {
+                "time": 0.0333,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_ice.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nlight03\r\n  rotate: false\r\n  xy: 356, 105\r\n  size: 125, 123\r\n  orig: 128, 128\r\n  offset: 1, 2\r\n  index: -1\r\nsuibing\r\n  rotate: false\r\n  xy: 2, 71\r\n  size: 215, 157\r\n  orig: 215, 158\r\n  offset: 0, 0\r\n  index: -1\r\nxuehua\r\n  rotate: false\r\n  xy: 219, 108\r\n  size: 135, 120\r\n  orig: 136, 120\r\n  offset: 1, 0\r\n  index: -1\r\nzi\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 128, 67\r\n  orig: 128, 67\r\n  offset: 0, 0\r\n  index: -1\r\nzi01\r\n  rotate: false\r\n  xy: 132, 12\r\n  size: 102, 57\r\n  orig: 102, 58\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "866d29d6-5881-41f3-9c55-50eb5aa17e18"
+    }
+  ],
+  "textureNames": [
+    "anim_ice.png"
+  ],
+  "scale": 1
+}

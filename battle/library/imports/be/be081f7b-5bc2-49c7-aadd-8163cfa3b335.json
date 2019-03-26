@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_viptequan_shengji_01",
+    "texture": "dba3ac1b-bbd3-455d-9bec-759dedcaa4d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

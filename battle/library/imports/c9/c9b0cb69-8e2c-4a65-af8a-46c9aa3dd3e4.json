@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_facaijin_dikuang_01",
+    "texture": "72646fe2-905e-4fff-a449-90fa5bb97c2d",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      208,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

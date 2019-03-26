@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "384f1a53-2501-4063-a873-be1ab63a9490",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_huobi_02": {
+      "ver": "1.0.3",
+      "uuid": "c144064a-e371-4357-a366-a9ec95b81285",
+      "rawTextureUuid": "384f1a53-2501-4063-a873-be1ab63a9490",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

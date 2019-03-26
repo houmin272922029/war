@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ce40133c-2163-430c-a067-caa3cb368bdc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_duihuanquan_01": {
+      "ver": "1.0.3",
+      "uuid": "1be76cc5-90c8-4bf5-bf18-f4dc91be9aa6",
+      "rawTextureUuid": "ce40133c-2163-430c-a067-caa3cb368bdc",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

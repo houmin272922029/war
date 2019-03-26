@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jiemian_yi_01",
+    "texture": "43187627-776d-4994-ad21-42a2a007620e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

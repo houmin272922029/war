@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_facaishu_01",
+    "texture": "9318d11e-ee9d-47b8-bd8d-331ec2c9504d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

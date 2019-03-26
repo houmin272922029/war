@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "22d460fd-9789-4f70-8ab0-ef1b16c109cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_vip_wenhao_01": {
+      "ver": "1.0.3",
+      "uuid": "4f2baa51-1775-42d1-8fae-5d8b977f711e",
+      "rawTextureUuid": "22d460fd-9789-4f70-8ab0-ef1b16c109cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 31,
+      "rawWidth": 21,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

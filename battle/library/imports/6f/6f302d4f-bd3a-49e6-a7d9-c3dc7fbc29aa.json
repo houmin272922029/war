@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_leijichongzhi_02",
+    "texture": "5a1bdba3-271e-4794-bc92-d1c5ee98e782",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

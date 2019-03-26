@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jingji_jilu_01",
+    "texture": "2e59a503-0f25-41b4-b72c-ce08c92e7241",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_shengji",
+    "texture": "03e858e4-a091-4da2-aa3c-27d8ebdcf6d2",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      1979,
+      231
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      1985,
+      235
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_zuanshilight_01",
+    "texture": "352eeb86-e5e0-41cd-9368-b7521bcbb877",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

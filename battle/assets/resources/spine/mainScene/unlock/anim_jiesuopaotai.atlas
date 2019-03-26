@@ -1,0 +1,251 @@
+
+anim_jiesuopaotai.png
+size: 1876,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/data.dat_000491
+  rotate: false
+  xy: 613, 152
+  size: 200, 199
+  orig: 200, 200
+  offset: 0, 1
+  index: -1
+png/gaosi_00000
+  rotate: false
+  xy: 277, 256
+  size: 313, 95
+  orig: 353, 100
+  offset: 21, 3
+  index: -1
+png/gaosi_00001
+  rotate: true
+  xy: 533, 0
+  size: 254, 78
+  orig: 353, 100
+  offset: 49, 11
+  index: -1
+png/gaosi_00002
+  rotate: false
+  xy: 1603, 323
+  size: 215, 68
+  orig: 353, 100
+  offset: 68, 16
+  index: -1
+png/gaosi_00003
+  rotate: false
+  xy: 0, 1
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00004
+  rotate: false
+  xy: 815, 108
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00005
+  rotate: true
+  xy: 1310, 166
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00006
+  rotate: false
+  xy: 1530, 257
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00007
+  rotate: false
+  xy: 1533, 191
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00008
+  rotate: false
+  xy: 1533, 125
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00009
+  rotate: true
+  xy: 1728, 128
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00010
+  rotate: true
+  xy: 1794, 128
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00011
+  rotate: false
+  xy: 949, 12
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/gaosi_00012
+  rotate: false
+  xy: 1144, 1
+  size: 193, 64
+  orig: 353, 100
+  offset: 79, 17
+  index: -1
+png/jiesuo
+  rotate: false
+  xy: 1502, 59
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+png/jiesuobao_00000
+  rotate: true
+  xy: 1376, 142
+  size: 98, 155
+  orig: 300, 300
+  offset: 100, 79
+  index: -1
+png/jiesuobao_00001
+  rotate: false
+  xy: 1186, 197
+  size: 122, 162
+  orig: 300, 300
+  offset: 87, 71
+  index: -1
+png/jiesuobao_00002
+  rotate: false
+  xy: 821, 174
+  size: 201, 185
+  orig: 300, 300
+  offset: 36, 61
+  index: -1
+png/jiesuobao_00003
+  rotate: false
+  xy: 1603, 393
+  size: 273, 228
+  orig: 300, 300
+  offset: 5, 63
+  index: -1
+png/jiesuobao_00004
+  rotate: false
+  xy: 275, 12
+  size: 256, 242
+  orig: 300, 300
+  offset: 4, 44
+  index: -1
+png/jiesuobao_00005
+  rotate: false
+  xy: 821, 361
+  size: 263, 260
+  orig: 300, 300
+  offset: 7, 27
+  index: -1
+png/jiesuobao_00006
+  rotate: false
+  xy: 1086, 361
+  size: 257, 260
+  orig: 300, 300
+  offset: 17, 26
+  index: -1
+png/jiesuobao_00007
+  rotate: false
+  xy: 1345, 362
+  size: 256, 259
+  orig: 300, 300
+  offset: 18, 24
+  index: -1
+png/jiesuobao_00008
+  rotate: false
+  xy: 277, 353
+  size: 274, 268
+  orig: 300, 300
+  offset: 5, 19
+  index: -1
+png/jiesuobao_00009
+  rotate: false
+  xy: 0, 67
+  size: 273, 273
+  orig: 300, 300
+  offset: 9, 16
+  index: -1
+png/jiesuobao_00010
+  rotate: false
+  xy: 0, 342
+  size: 275, 279
+  orig: 300, 300
+  offset: 9, 13
+  index: -1
+png/jiesuobao_00011
+  rotate: false
+  xy: 553, 353
+  size: 266, 268
+  orig: 300, 300
+  offset: 14, 18
+  index: -1
+png/jiesuobao_00012
+  rotate: false
+  xy: 613, 0
+  size: 158, 150
+  orig: 300, 300
+  offset: 43, 94
+  index: -1
+png/jiesuobao_00013
+  rotate: false
+  xy: 1376, 242
+  size: 152, 118
+  orig: 300, 300
+  offset: 50, 92
+  index: -1
+png/jiesuobao_00014
+  rotate: false
+  xy: 1376, 18
+  size: 124, 122
+  orig: 300, 300
+  offset: 82, 90
+  index: -1
+png/jiesuobao_00015
+  rotate: true
+  xy: 1024, 78
+  size: 119, 128
+  orig: 300, 300
+  offset: 89, 87
+  index: -1
+png/light01
+  rotate: false
+  xy: 1284, 74
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+png/light02
+  rotate: false
+  xy: 1154, 67
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+png/quanquan_00000
+  rotate: false
+  xy: 1024, 199
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+png/yizhizhong_00000
+  rotate: false
+  xy: 773, 7
+  size: 174, 99
+  orig: 233, 128
+  offset: 29, 14
+  index: -1

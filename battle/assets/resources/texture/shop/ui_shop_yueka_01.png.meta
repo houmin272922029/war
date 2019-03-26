@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5c046c36-fadd-4973-aca6-e0b9abcf34a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_yueka_01": {
+      "ver": "1.0.3",
+      "uuid": "495d5e13-3b89-4a1e-89fe-7945d4b7dab7",
+      "rawTextureUuid": "5c046c36-fadd-4973-aca6-e0b9abcf34a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 154,
+      "height": 119,
+      "rawWidth": 155,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

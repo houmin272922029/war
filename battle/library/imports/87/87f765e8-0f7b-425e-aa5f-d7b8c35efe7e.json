@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_maijinbi_01",
+    "texture": "3cc2c064-3c6a-4480-9df9-45fba73b08ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

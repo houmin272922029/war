@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gerenxinxi_tishi_01",
+    "texture": "1ab3ec3c-59e7-46f8-b0af-6d269f1d9be9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      44
+    ],
+    "capInsets": [
+      30,
+      0,
+      20,
+      0
+    ]
+  }
+}

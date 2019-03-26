@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_jinbibuzu_01",
+    "texture": "c261ad4b-772f-4e17-bc7c-d55f869481f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      26
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      283,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

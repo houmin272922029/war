@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingji_diban_01",
+    "texture": "6533bf56-b767-417a-a081-e599543b7a14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      295
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      295
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

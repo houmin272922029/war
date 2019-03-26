@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8d5ecdd1-d288-4701-855f-42ee15784fdf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_3nianka_01": {
+      "ver": "1.0.3",
+      "uuid": "217fc919-bc09-46ea-8535-c7bb4d912fbc",
+      "rawTextureUuid": "8d5ecdd1-d288-4701-855f-42ee15784fdf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 167,
+      "height": 146,
+      "rawWidth": 170,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

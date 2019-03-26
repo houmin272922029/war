@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2e59a503-0f25-41b4-b72c-ce08c92e7241",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_jingji_jilu_01": {
+      "ver": "1.0.3",
+      "uuid": "af7fb426-386c-414f-a801-ef70b13ad30f",
+      "rawTextureUuid": "2e59a503-0f25-41b4-b72c-ce08c92e7241",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 62,
+      "rawWidth": 81,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_diyiming_01",
+    "texture": "52b282a0-ad2f-4488-b489-34c9540a6983",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

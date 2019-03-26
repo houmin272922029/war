@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_lianzi_01",
+    "texture": "e285bb3a-c9c8-4507-9dc6-ffdc897c6dcf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      521,
+      111
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      521,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

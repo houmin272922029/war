@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shrimp_jinbi_01",
+    "texture": "c81cb83f-b4d9-4995-8fe2-5722c74e71d6",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      368,
+      136
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      369,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_kapai_01",
+    "texture": "01cae412-80ce-48d1-a98e-0a21ce15d04d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      262,
+      313
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      313
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

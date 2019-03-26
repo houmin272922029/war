@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "086e6ded-a8ae-4fe9-83bb-94a4ffca728a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_yuchang_huanpao_01": {
+      "ver": "1.0.3",
+      "uuid": "dc4a1ea4-6b06-4eda-9ba1-3005917db67c",
+      "rawTextureUuid": "086e6ded-a8ae-4fe9-83bb-94a4ffca728a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 83,
+      "height": 83,
+      "rawWidth": 83,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

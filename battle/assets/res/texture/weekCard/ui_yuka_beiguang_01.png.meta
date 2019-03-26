@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5a908122-b816-40ac-bd44-e5094d84e5b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yuka_beiguang_01": {
+      "ver": "1.0.3",
+      "uuid": "797272e3-ec59-4b77-b617-c13c0abb8f12",
+      "rawTextureUuid": "5a908122-b816-40ac-bd44-e5094d84e5b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3.5,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 359,
+      "height": 337,
+      "rawWidth": 367,
+      "rawHeight": 356,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

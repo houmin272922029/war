@@ -1,0 +1,146 @@
+
+anim_VIP5.png
+size: 958,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 3
+  size: 295, 360
+  orig: 295, 360
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 364, 185
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 491, 185
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 618, 185
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 745, 173
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 364, 70
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+guangxiao01
+  rotate: true
+  xy: 860, 98
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao02
+  rotate: false
+  xy: 491, 103
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao03
+  rotate: true
+  xy: 592, 84
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+guangxiao04
+  rotate: true
+  xy: 860, 199
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+paotou
+  rotate: false
+  xy: 450, 17
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+patou01
+  rotate: true
+  xy: 491, 2
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+patou02
+  rotate: false
+  xy: 674, 91
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youchibang01
+  rotate: true
+  xy: 775, 72
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youchibang02
+  rotate: false
+  xy: 674, 9
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+youyuanpan
+  rotate: false
+  xy: 775, 39
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 364, 7
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+zuochibang01
+  rotate: false
+  xy: 573, 2
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+zuochibang02
+  rotate: false
+  xy: 857, 16
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+zuoyuanpan
+  rotate: true
+  xy: 810, 38
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

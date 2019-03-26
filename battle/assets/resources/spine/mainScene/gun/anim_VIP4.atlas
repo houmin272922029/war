@@ -1,0 +1,167 @@
+
+anim_VIP4.png
+size: 709,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2, 7
+  size: 295, 360
+  orig: 295, 360
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 364, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 364, 50
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 479, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 479, 50
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 594, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+dengyou
+  rotate: true
+  xy: 693, 151
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+dengzuo
+  rotate: false
+  xy: 426, 4
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 426, 16
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+faguangyou
+  rotate: false
+  xy: 668, 75
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+faguangzuo
+  rotate: false
+  xy: 693, 136
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 594, 117
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+jiyiyou
+  rotate: true
+  xy: 668, 90
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+jiyizuo
+  rotate: true
+  xy: 629, 29
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+nengliangpan
+  rotate: false
+  xy: 364, 2
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+paotong1
+  rotate: false
+  xy: 657, 131
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+paotong2
+  rotate: false
+  xy: 594, 70
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+paotong3
+  rotate: true
+  xy: 506, 14
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+weiyiyou
+  rotate: false
+  xy: 552, 12
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+weiyizuo
+  rotate: true
+  xy: 630, 73
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+youbian
+  rotate: false
+  xy: 596, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+yuanpantuo
+  rotate: true
+  xy: 596, 28
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+zuobian
+  rotate: false
+  xy: 632, 3
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d64f8602-d991-490b-aa02-45c27f6e816f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_dengji_jindu_002": {
+      "ver": "1.0.3",
+      "uuid": "5bf7a6f3-e8f2-4aa6-9fb1-4c6d9c8882f5",
+      "rawTextureUuid": "d64f8602-d991-490b-aa02-45c27f6e816f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 271,
+      "height": 14,
+      "rawWidth": 274,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 50,
+      "borderRight": 50,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,104 @@
+
+anim_zidongdi.png
+size: 934,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/WD_fireball_rune_radius
+  rotate: true
+  xy: 213, 58
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+png/diyan_0
+  rotate: false
+  xy: 350, 34
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_10
+  rotate: true
+  xy: 620, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_12
+  rotate: false
+  xy: 690, 130
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_14
+  rotate: false
+  xy: 812, 130
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_16
+  rotate: true
+  xy: 694, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_18
+  rotate: true
+  xy: 768, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_2
+  rotate: false
+  xy: 446, 130
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_20
+  rotate: true
+  xy: 842, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_4
+  rotate: true
+  xy: 472, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_6
+  rotate: true
+  xy: 546, 8
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/diyan_8
+  rotate: false
+  xy: 568, 130
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+png/keji_0
+  rotate: false
+  xy: 350, 108
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+png/quan1_0
+  rotate: false
+  xy: 2, 2
+  size: 209, 200
+  orig: 209, 200
+  offset: 0, 0
+  index: -1

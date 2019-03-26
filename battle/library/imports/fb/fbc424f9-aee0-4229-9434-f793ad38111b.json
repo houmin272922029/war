@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_goldshadow_01",
+    "texture": "0ce9760f-10da-4fe4-884d-59f543a9c22f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

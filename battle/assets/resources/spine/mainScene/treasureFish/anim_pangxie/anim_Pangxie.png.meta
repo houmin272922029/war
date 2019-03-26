@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "037da8f0-5c63-4696-892b-4c556fd00899",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_Pangxie": {
+      "ver": "1.0.3",
+      "uuid": "ed48f042-6c6a-4467-a1ae-cbb6a4b1c8e3",
+      "rawTextureUuid": "037da8f0-5c63-4696-892b-4c556fd00899",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17,
+      "offsetY": 3,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 986,
+      "height": 502,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

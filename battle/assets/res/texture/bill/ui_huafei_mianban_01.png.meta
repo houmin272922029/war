@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2ae0bee5-094d-4b5d-bae0-64b8249ff2a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huafei_mianban_01": {
+      "ver": "1.0.3",
+      "uuid": "2d36fd66-dcef-4cb6-845e-fbe71de7bbcb",
+      "rawTextureUuid": "2ae0bee5-094d-4b5d-bae0-64b8249ff2a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 173,
+      "height": 83,
+      "rawWidth": 173,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+
+anim_dianji.png
+size: 158,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+点击/jiantou
+  rotate: true
+  xy: 128, 26
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+点击/jiantou1
+  rotate: true
+  xy: 128, 79
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+点击/jiantou2
+  rotate: true
+  xy: 128, 3
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+点击/kuoquan
+  rotate: false
+  xy: 2, 2
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1

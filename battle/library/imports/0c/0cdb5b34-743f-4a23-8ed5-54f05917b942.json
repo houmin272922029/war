@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_daojuzengsong_sousuo_02",
+    "texture": "6d174226-f3cb-4af4-b25f-9fb22cb71ea4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

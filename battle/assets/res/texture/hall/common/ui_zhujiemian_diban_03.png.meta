@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f111bcf2-f250-499b-9c57-1f9de7175344",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_zhujiemian_diban_03": {
+      "ver": "1.0.3",
+      "uuid": "7a946684-52bf-4863-9d13-2cc54b78da31",
+      "rawTextureUuid": "f111bcf2-f250-499b-9c57-1f9de7175344",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 357,
+      "height": 492,
+      "rawWidth": 357,
+      "rawHeight": 492,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

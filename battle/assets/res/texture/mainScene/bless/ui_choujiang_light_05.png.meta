@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e8d23d07-dbe8-4a37-a8ce-cbf643d7b4d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_choujiang_light_05": {
+      "ver": "1.0.3",
+      "uuid": "d6c59c55-3306-4d08-a1e4-0d931d56f10a",
+      "rawTextureUuid": "e8d23d07-dbe8-4a37-a8ce-cbf643d7b4d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 13,
+      "height": 15,
+      "rawWidth": 13,
+      "rawHeight": 15,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

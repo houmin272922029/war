@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_yulight",
+    "texture": "44a593cd-f5bb-4884-8ec4-f43eab60a4f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      811,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      811,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

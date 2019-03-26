@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jineng_huobao",
+    "texture": "0335ee52-ad4d-436d-b7d2-a5c91d3b0116",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

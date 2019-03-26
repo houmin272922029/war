@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_leizhupaiming_renwudiban_01",
+    "texture": "13cfef04-b173-4d56-8d42-bc3e5ceba9d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      74
+    ],
+    "capInsets": [
+      29,
+      25,
+      29,
+      29
+    ]
+  }
+}

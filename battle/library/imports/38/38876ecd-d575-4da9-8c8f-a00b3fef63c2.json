@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_duanxian_yuan_01",
+    "texture": "d741de03-433e-4701-89f6-6928639cef19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      6,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

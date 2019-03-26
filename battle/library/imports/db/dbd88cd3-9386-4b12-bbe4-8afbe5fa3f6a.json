@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_qipao_01",
+    "texture": "7635f2ff-aeb1-46f6-9e26-91bf95409502",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      120
+    ],
+    "capInsets": [
+      30,
+      30,
+      90,
+      55
+    ]
+  }
+}

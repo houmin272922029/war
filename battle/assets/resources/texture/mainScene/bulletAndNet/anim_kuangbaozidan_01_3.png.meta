@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3152da5e-8fb5-4d97-9bc0-ccae2b6c4382",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_kuangbaozidan_01_3": {
+      "ver": "1.0.3",
+      "uuid": "59eba60d-da86-4d3b-b341-6bd986539ed3",
+      "rawTextureUuid": "3152da5e-8fb5-4d97-9bc0-ccae2b6c4382",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 92,
+      "height": 169,
+      "rawWidth": 94,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

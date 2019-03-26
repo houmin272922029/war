@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_shangcheng_01",
+    "texture": "a9434b8e-7e4b-4eea-bfb8-8ba13351d2e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

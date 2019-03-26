@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_shiziyu",
+    "texture": "34950c4e-252f-49db-8a4b-835bb5d056cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      63
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      47,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

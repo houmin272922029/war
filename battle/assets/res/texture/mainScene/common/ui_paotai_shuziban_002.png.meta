@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a0a5f0ab-8434-4cc3-be31-f0eb818ef234",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_paotai_shuziban_002": {
+      "ver": "1.0.3",
+      "uuid": "dbf81d7f-dcb8-4454-8e80-ac7215514cfe",
+      "rawTextureUuid": "a0a5f0ab-8434-4cc3-be31-f0eb818ef234",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 164,
+      "height": 31,
+      "rawWidth": 164,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_buhuotishi",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "w+N0zQ7bnv1ENgPR8XieO0VON2k",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/ui_bosswanfa_diban_01",
+        "bone": "bone",
+        "attachment": "png/ui_bosswanfa_diban_01"
+      },
+      {
+        "name": "png/text_bosswanfa_jianglifanbei_01",
+        "bone": "bone2",
+        "attachment": "png/text_bosswanfa_buhuohuanyingi_01"
+      },
+      {
+        "name": "png/text_bosswanfa_jianglifanbei_1",
+        "bone": "bone4",
+        "attachment": "png/text_bosswanfa_buhuohuanyingi_01",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/text_bosswanfa_jianglifanbei_01": {
+          "png/text_bosswanfa_buhuohuanyingi_01": {
+            "width": 341,
+            "height": 85
+          },
+          "png/text_bosswanfa_jianglifanbei_01": {
+            "width": 343,
+            "height": 105
+          }
+        },
+        "png/text_bosswanfa_jianglifanbei_1": {
+          "png/text_bosswanfa_buhuohuanyingi_01": {
+            "width": 341,
+            "height": 85
+          },
+          "png/text_bosswanfa_jianglifanbei_01": {
+            "width": 343,
+            "height": 105
+          }
+        },
+        "png/ui_bosswanfa_diban_01": {
+          "png/ui_bosswanfa_diban_01": {
+            "width": 731,
+            "height": 123
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/text_bosswanfa_jianglifanbei_01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/text_bosswanfa_jianglifanbei_01"
+              }
+            ]
+          },
+          "png/text_bosswanfa_jianglifanbei_1": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "png/text_bosswanfa_jianglifanbei_01"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "scale": [
+              {
+                "time": 0.2333,
+                "x": 0.1,
+                "y": 0.1
+              },
+              {
+                "time": 0.3667,
+                "x": 3.78,
+                "y": 3.847
+              },
+              {
+                "time": 0.4667,
+                "x": 2.749,
+                "y": 2.74
+              },
+              {
+                "time": 0.5667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6,
+                "x": 1.217,
+                "y": 1.217
+              },
+              {
+                "time": 0.6333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 993.82,
+                "y": 0
+              },
+              {
+                "time": 0.1333,
+                "x": -35.48,
+                "y": 0
+              },
+              {
+                "time": 0.2,
+                "x": 6.45,
+                "y": 0
+              },
+              {
+                "time": 0.2667,
+                "x": -8.6,
+                "y": 0
+              },
+              {
+                "time": 0.3,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7667,
+                "x": 1.364,
+                "y": 1.35
+              }
+            ]
+          }
+        }
+      },
+      "animation2": {
+        "slots": {
+          "png/text_bosswanfa_jianglifanbei_01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/text_bosswanfa_buhuohuanyingi_01"
+              }
+            ]
+          },
+          "png/text_bosswanfa_jianglifanbei_1": {
+            "color": [
+              {
+                "time": 0.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5667,
+                "name": "png/text_bosswanfa_buhuohuanyingi_01"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "scale": [
+              {
+                "time": 0.2333,
+                "x": 0.1,
+                "y": 0.1
+              },
+              {
+                "time": 0.3667,
+                "x": 3.78,
+                "y": 3.847
+              },
+              {
+                "time": 0.4667,
+                "x": 2.749,
+                "y": 2.74
+              },
+              {
+                "time": 0.5667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6,
+                "x": 1.217,
+                "y": 1.217
+              },
+              {
+                "time": 0.6333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 993.82,
+                "y": 0
+              },
+              {
+                "time": 0.1333,
+                "x": -35.48,
+                "y": 0
+              },
+              {
+                "time": 0.2,
+                "x": 6.45,
+                "y": 0
+              },
+              {
+                "time": 0.2667,
+                "x": -8.6,
+                "y": 0
+              },
+              {
+                "time": 0.3,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "scale": [
+              {
+                "time": 0.5667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.7667,
+                "x": 1.364,
+                "y": 1.35
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_buhuotishi.png\r\nsize: 956,86\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/text_bosswanfa_buhuohuanyingi_01\r\n  rotate: false\r\n  xy: 726, 27\r\n  size: 228, 57\r\n  orig: 228, 57\r\n  offset: 0, 0\r\n  index: -1\r\npng/text_bosswanfa_jianglifanbei_01\r\n  rotate: false\r\n  xy: 494, 14\r\n  size: 230, 70\r\n  orig: 230, 70\r\n  offset: 0, 0\r\n  index: -1\r\npng/ui_bosswanfa_diban_01\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 490, 82\r\n  orig: 490, 82\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "b52b72ba-f45c-4d62-9f28-5b8cfbd20413"
+    }
+  ],
+  "textureNames": [
+    "anim_buhuotishi.png"
+  ],
+  "scale": 1
+}

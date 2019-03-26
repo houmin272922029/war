@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xuanshang_mianabn",
+    "texture": "caa68405-0d37-4c94-90be-ed8ef6115497",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1075,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1075,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

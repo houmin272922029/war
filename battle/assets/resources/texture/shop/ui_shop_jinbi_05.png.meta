@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ffab5ba9-daf4-4770-afa2-164b2594f053",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_jinbi_05": {
+      "ver": "1.0.3",
+      "uuid": "f1929181-537b-412d-84a9-013d1c1695fb",
+      "rawTextureUuid": "ffab5ba9-daf4-4770-afa2-164b2594f053",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 97,
+      "height": 86,
+      "rawWidth": 97,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

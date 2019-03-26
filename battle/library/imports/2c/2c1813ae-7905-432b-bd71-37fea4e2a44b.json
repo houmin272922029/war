@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojugoumai_baioti_01",
+    "texture": "327a32e3-ce1d-4ff4-a598-05067c1aea0e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      566,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      566,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

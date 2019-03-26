@@ -1,0 +1,188 @@
+
+anim_King.png
+size: 447,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg4
+  rotate: false
+  xy: 237, 583
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+huan01
+  rotate: false
+  xy: 258, 90
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+huan02
+  rotate: false
+  xy: 184, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+king10
+  rotate: false
+  xy: 79, 5
+  size: 103, 83
+  orig: 103, 83
+  offset: 0, 0
+  index: -1
+king11
+  rotate: false
+  xy: 398, 164
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+king12
+  rotate: true
+  xy: 363, 494
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+king13
+  rotate: false
+  xy: 2, 93
+  size: 80, 243
+  orig: 80, 243
+  offset: 0, 0
+  index: -1
+king14
+  rotate: false
+  xy: 346, 226
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+king15
+  rotate: false
+  xy: 2, 554
+  size: 233, 201
+  orig: 233, 201
+  offset: 0, 0
+  index: -1
+king16
+  rotate: true
+  xy: 84, 90
+  size: 72, 143
+  orig: 72, 143
+  offset: 0, 0
+  index: -1
+king17
+  rotate: true
+  xy: 346, 145
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+king18
+  rotate: true
+  xy: 258, 178
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+king19
+  rotate: true
+  xy: 2, 8
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+king4
+  rotate: false
+  xy: 135, 343
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+king5
+  rotate: true
+  xy: 237, 479
+  size: 102, 124
+  orig: 102, 124
+  offset: 0, 0
+  index: -1
+king6
+  rotate: true
+  xy: 346, 106
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+king7
+  rotate: true
+  xy: 135, 374
+  size: 178, 97
+  orig: 178, 97
+  offset: 0, 0
+  index: -1
+king8
+  rotate: false
+  xy: 2, 338
+  size: 131, 214
+  orig: 131, 214
+  offset: 0, 0
+  index: -1
+king9
+  rotate: true
+  xy: 258, 273
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+kingeye1
+  rotate: true
+  xy: 229, 119
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+kingeye2
+  rotate: true
+  xy: 411, 711
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 272, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+light03
+  rotate: false
+  xy: 347, 391
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+light04
+  rotate: false
+  xy: 347, 303
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+star02
+  rotate: false
+  xy: 234, 376
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+star03
+  rotate: false
+  xy: 84, 164
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_kongqueyu",
+    "texture": "d3af6e7c-bdc8-43c9-a72c-93f84e3ef5f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      40
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      65,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

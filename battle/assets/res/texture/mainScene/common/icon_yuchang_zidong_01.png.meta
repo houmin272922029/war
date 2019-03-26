@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "84689202-5ee4-47e8-8e6f-3f6d465976fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_yuchang_zidong_01": {
+      "ver": "1.0.3",
+      "uuid": "9b91faf7-2b70-4163-93d6-0fcd9073d448",
+      "rawTextureUuid": "84689202-5ee4-47e8-8e6f-3f6d465976fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 97,
+      "rawWidth": 96,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

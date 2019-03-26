@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_kingpcard_01",
+    "texture": "0ffa1e17-8bed-492a-8e50-2a1ee9a9855f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      248
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_gerenxinxi_01",
+    "texture": "6babd6d7-f0cf-4d31-8cfa-16e6d6589fc0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

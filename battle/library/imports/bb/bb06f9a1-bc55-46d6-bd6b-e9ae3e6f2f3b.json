@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_qiandao_tianshu_02",
+    "texture": "082ec29d-5fde-43d6-a199-b6be7a2f6d27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

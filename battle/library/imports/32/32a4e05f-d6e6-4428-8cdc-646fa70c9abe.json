@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_buhuotishi",
+    "texture": "b52b72ba-f45c-4d62-9f28-5b8cfbd20413",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      956,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      956,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

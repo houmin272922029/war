@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "52ae8a69-861f-44e7-a2b7-e0ad61de4dc1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_yuchang_shezhi": {
+      "ver": "1.0.3",
+      "uuid": "fd582254-80ce-46f7-bd09-ccb5e08bc8c8",
+      "rawTextureUuid": "52ae8a69-861f-44e7-a2b7-e0ad61de4dc1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 66,
+      "rawWidth": 64,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

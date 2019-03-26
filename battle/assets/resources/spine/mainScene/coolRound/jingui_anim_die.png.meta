@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fdd12265-2620-4566-a217-8d3a99c7ab72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jingui_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "fd527213-5c4d-419b-a8a6-0cd2b9d2be06",
+      "rawTextureUuid": "fdd12265-2620-4566-a217-8d3a99c7ab72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 358,
+      "height": 102,
+      "rawWidth": 362,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

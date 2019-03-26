@@ -1,0 +1,339 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_chanzi",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "zGcfgh1YX29MdKCoU0WakGknLF4",
+      "spine": "3.6.53",
+      "width": 213.25,
+      "height": 199.97,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 48.59,
+        "y": -78.97,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "chanzi",
+        "parent": "root",
+        "length": 65.41,
+        "rotation": -122.74,
+        "x": 11.33,
+        "y": 26.34
+      }
+    ],
+    "slots": [
+      {
+        "name": "chanzi/ui_shrimp_bunker_02",
+        "bone": "root",
+        "attachment": "chanzi/ui_shrimp_bunker_02"
+      },
+      {
+        "name": "chanzi",
+        "bone": "chanzi",
+        "attachment": "chanzi"
+      },
+      {
+        "name": "chanzi/chentu",
+        "bone": "bone",
+        "attachment": "chanzi/chentu"
+      }
+    ],
+    "skins": {
+      "default": {
+        "chanzi/chentu": {
+          "chanzi/chentu": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        "chanzi/ui_shrimp_bunker_02": {
+          "chanzi/ui_shrimp_bunker_01": {
+            "x": -30.16,
+            "y": -57.54,
+            "width": 141,
+            "height": 106
+          },
+          "chanzi/ui_shrimp_bunker_02": {
+            "x": -30.16,
+            "y": -57.54,
+            "width": 141,
+            "height": 106
+          }
+        }
+      },
+      "lv1": {
+        "chanzi": {
+          "chanzi": {
+            "name": "chanzi/1",
+            "x": 28.28,
+            "y": 4.71,
+            "rotation": 122.74,
+            "width": 95,
+            "height": 112
+          }
+        }
+      },
+      "lv2": {
+        "chanzi": {
+          "chanzi": {
+            "name": "chanzi/2",
+            "x": 28.28,
+            "y": 4.71,
+            "rotation": 122.74,
+            "width": 90,
+            "height": 106
+          }
+        }
+      },
+      "lv3": {
+        "chanzi": {
+          "chanzi": {
+            "name": "chanzi/3",
+            "x": 28.28,
+            "y": 4.71,
+            "rotation": 122.74,
+            "width": 95,
+            "height": 114
+          }
+        }
+      }
+    },
+    "events": {
+      "chufa": {}
+    },
+    "animations": {
+      "wa": {
+        "slots": {
+          "chanzi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "chanzi/chentu": {
+            "color": [
+              {
+                "time": 0.4333,
+                "color": "ffe6c3ff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffe5c3c7"
+              },
+              {
+                "time": 0.9333,
+                "color": "d0bc9f00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4333,
+                "name": "chanzi/chentu"
+              }
+            ]
+          },
+          "chanzi/ui_shrimp_bunker_02": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.0667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.0667,
+                "name": "chanzi/ui_shrimp_bunker_02"
+              },
+              {
+                "time": 0.4333,
+                "name": "chanzi/ui_shrimp_bunker_01"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "chanzi": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 20.07
+              },
+              {
+                "time": 0.0667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1,
+                "angle": 0
+              },
+              {
+                "time": 0.1667,
+                "angle": -49.82
+              },
+              {
+                "time": 0.3667,
+                "angle": 20.07
+              },
+              {
+                "time": 0.4333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "angle": 0
+              },
+              {
+                "time": 0.5333,
+                "angle": -49.82
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 9.54,
+                "y": 41.2
+              },
+              {
+                "time": 0.0667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.1,
+                "x": -2.28,
+                "y": -1.9
+              },
+              {
+                "time": 0.1667,
+                "x": -9.04,
+                "y": 11.55
+              },
+              {
+                "time": 0.3667,
+                "x": 9.54,
+                "y": 41.2
+              },
+              {
+                "time": 0.4333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.4667,
+                "x": -2.28,
+                "y": -1.9
+              },
+              {
+                "time": 0.5333,
+                "x": -9.04,
+                "y": 11.55
+              }
+            ]
+          },
+          "bone": {
+            "translate": [
+              {
+                "time": 0.4333,
+                "x": -77.75,
+                "y": 17.62,
+                "curve": [
+                  0,
+                  0.59,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.7333,
+                "x": -77.75,
+                "y": 106.29,
+                "curve": [
+                  0.25,
+                  0,
+                  0.953,
+                  0.85
+                ]
+              },
+              {
+                "time": 0.9333,
+                "x": -77.75,
+                "y": 95.31
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.4333,
+                "x": 0.5,
+                "y": 0.8,
+                "curve": [
+                  0,
+                  0.46,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.9333,
+                "x": 1.8,
+                "y": 1.5
+              }
+            ]
+          }
+        },
+        "events": [
+          {
+            "time": 0.4333,
+            "name": "chufa"
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_chanzi.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nchanzi/1\r\n  rotate: true\r\n  xy: 259, 116\r\n  size: 95, 112\r\n  orig: 95, 112\r\n  offset: 0, 0\r\n  index: -1\r\nchanzi/2\r\n  rotate: true\r\n  xy: 373, 121\r\n  size: 90, 106\r\n  orig: 90, 106\r\n  offset: 0, 0\r\n  index: -1\r\nchanzi/3\r\n  rotate: true\r\n  xy: 143, 116\r\n  size: 95, 114\r\n  orig: 95, 114\r\n  offset: 0, 0\r\n  index: -1\r\nchanzi/chentu\r\n  rotate: false\r\n  xy: 143, 55\r\n  size: 60, 59\r\n  orig: 64, 64\r\n  offset: 1, 0\r\n  index: -1\r\nchanzi/ui_shrimp_bunker_01\r\n  rotate: false\r\n  xy: 0, 106\r\n  size: 141, 105\r\n  orig: 141, 106\r\n  offset: 0, 1\r\n  index: -1\r\nchanzi/ui_shrimp_bunker_02\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 139, 104\r\n  orig: 141, 106\r\n  offset: 1, 2\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "87bc0bee-86e5-45f5-adba-a89d6f4ae2ab"
+    }
+  ],
+  "textureNames": [
+    "anim_chanzi.png"
+  ],
+  "scale": 1
+}

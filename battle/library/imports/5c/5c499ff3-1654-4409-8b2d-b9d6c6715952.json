@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_Wall_01",
+    "texture": "811b22c8-d7d0-4568-a794-e90bb4ae1979",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      787,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      787,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tujian_teshuyu_01",
+    "texture": "0d206c5c-e371-435b-a25c-b850a5b0f478",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_tishi_tanhao_01",
+    "texture": "4b6395b4-5227-43ab-b6a4-c10ace66f54a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      22,
+      42
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      23,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

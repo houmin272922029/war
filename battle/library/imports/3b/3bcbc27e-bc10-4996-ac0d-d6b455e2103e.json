@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tujian_biaoqian_01",
+    "texture": "282ea572-d7b6-4762-a9fa-03f69f25846d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

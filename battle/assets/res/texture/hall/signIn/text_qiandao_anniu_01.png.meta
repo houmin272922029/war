@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "41abd234-a6d9-4534-86f2-87522c5501c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_qiandao_anniu_01": {
+      "ver": "1.0.3",
+      "uuid": "32744f70-09de-4999-826c-351004aa9e4e",
+      "rawTextureUuid": "41abd234-a6d9-4534-86f2-87522c5501c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 31,
+      "rawWidth": 60,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_huojiangrenshu_01",
+    "texture": "1cb92cbf-05bc-46b1-819b-03182ec62303",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

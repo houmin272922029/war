@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_jinbi_03",
+    "texture": "757f5e08-894d-4629-a55a-14a77eff480b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      86,
+      78
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      86,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

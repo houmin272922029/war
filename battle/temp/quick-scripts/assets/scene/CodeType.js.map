@@ -1,0 +1,1 @@
+{"version":3,"sources":["CodeType.js"],"names":["module","exports","require","CodeType","gameName1"],"mappings":";;;;;;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,QAAR,EAAkBC,QAAlB,CAA2BC,SAA5C","file":"CodeType.js","sourceRoot":"..\\..\\..\\..\\assets\\scene","sourcesContent":["module.exports = require('Global').CodeType.gameName1;"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeizhengduo_dejifen_01",
+    "texture": "78ecc3ac-6402-40a9-9b30-02180a1e9518",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

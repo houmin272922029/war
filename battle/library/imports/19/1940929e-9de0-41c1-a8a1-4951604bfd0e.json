@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingji_leizhu_01",
+    "texture": "db8b1cc0-31c6-4e4c-886a-bc6314d625eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

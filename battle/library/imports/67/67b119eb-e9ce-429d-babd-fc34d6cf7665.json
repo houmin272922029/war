@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_denglongyu",
+    "texture": "94c73fad-8dec-4635-a8e2-21cf077e73ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

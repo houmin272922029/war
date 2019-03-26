@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qianting_anim_die",
+    "texture": "9c1d95d6-d75a-45fc-9599-e62d208a74b5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      364,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

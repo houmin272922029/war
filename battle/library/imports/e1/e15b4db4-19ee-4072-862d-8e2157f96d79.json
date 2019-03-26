@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_youxiang_anniu_01",
+    "texture": "7731ba78-3122-4cbd-8d32-eb90f85f5225",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

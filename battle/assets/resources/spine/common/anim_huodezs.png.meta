@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9c890163-8288-4ca3-835d-13ca31e4a97b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_huodezs": {
+      "ver": "1.0.3",
+      "uuid": "88b7df2d-c601-4e02-bdd5-6f4128d28e3d",
+      "rawTextureUuid": "9c890163-8288-4ca3-835d-13ca31e4a97b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 1176,
+      "height": 204,
+      "rawWidth": 1181,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

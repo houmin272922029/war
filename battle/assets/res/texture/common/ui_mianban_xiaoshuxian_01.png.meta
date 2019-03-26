@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ebdb58f5-0e03-427c-b367-32cae6fec5fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_mianban_xiaoshuxian_01": {
+      "ver": "1.0.3",
+      "uuid": "e68d9811-2fea-4d86-8e25-36d3e5455b4e",
+      "rawTextureUuid": "ebdb58f5-0e03-427c-b367-32cae6fec5fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3,
+      "height": 9,
+      "rawWidth": 3,
+      "rawHeight": 11,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

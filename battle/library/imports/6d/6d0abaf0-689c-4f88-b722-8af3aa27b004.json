@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shouping_anniu_02",
+    "texture": "01a6ae4f-520b-48e4-990c-c3a11348c03c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

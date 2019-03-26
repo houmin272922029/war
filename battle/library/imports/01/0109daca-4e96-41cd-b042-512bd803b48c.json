@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_cell_shrimp_01",
+    "texture": "5a861afe-0efc-460a-a3ff-69cf0a959d4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

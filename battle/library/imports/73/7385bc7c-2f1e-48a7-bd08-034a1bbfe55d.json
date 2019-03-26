@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cifu_tishi_01",
+    "texture": "32c1708e-3083-4e70-901c-3b3afd049bed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      304,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      304,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

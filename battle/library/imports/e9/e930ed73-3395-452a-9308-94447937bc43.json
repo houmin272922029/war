@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shouping_zhanghaodenglu_02",
+    "texture": "e728b658-2c8c-458c-afb2-fc1d552a1893",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "44c7ec4d-f4f6-434d-a31f-72ef8622c6da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_zhujiemian_buchang_01": {
+      "ver": "1.0.3",
+      "uuid": "b66c0e4e-bbb0-4a5b-8cc6-077b119e42d7",
+      "rawTextureUuid": "44c7ec4d-f4f6-434d-a31f-72ef8622c6da",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 77,
+      "rawWidth": 92,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

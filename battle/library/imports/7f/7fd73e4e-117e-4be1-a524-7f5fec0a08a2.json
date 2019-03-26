@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_kapai02",
+    "texture": "97ff1ff5-2c13-4a45-b110-705d24f8e582",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      459,
+      249
+    ],
+    "offset": [
+      -24.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

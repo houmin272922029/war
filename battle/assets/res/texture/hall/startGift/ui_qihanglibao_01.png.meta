@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c57f59ee-d856-4f67-97a0-f5aaa0797fd6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_qihanglibao_01": {
+      "ver": "1.0.3",
+      "uuid": "2930fd09-8d82-4538-91a0-36fd88df7b5a",
+      "rawTextureUuid": "c57f59ee-d856-4f67-97a0-f5aaa0797fd6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 0,
+      "width": 849,
+      "height": 44,
+      "rawWidth": 860,
+      "rawHeight": 44,
+      "borderTop": 15,
+      "borderBottom": 16,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

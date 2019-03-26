@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "327a32e3-ce1d-4ff4-a598-05067c1aea0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_daojugoumai_baioti_01": {
+      "ver": "1.0.3",
+      "uuid": "2c1813ae-7905-432b-bd71-37fea4e2a44b",
+      "rawTextureUuid": "327a32e3-ce1d-4ff4-a598-05067c1aea0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 566,
+      "height": 49,
+      "rawWidth": 566,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

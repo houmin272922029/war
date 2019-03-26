@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_xuanshangrenwu",
+    "texture": "1ba05874-ed52-4397-95b2-74b39912fa95",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1480,
+      381
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      1489,
+      386
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

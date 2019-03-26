@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vippao_press_00",
+    "texture": "a1479bc4-9483-45a6-abc6-fdd64c4e89dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

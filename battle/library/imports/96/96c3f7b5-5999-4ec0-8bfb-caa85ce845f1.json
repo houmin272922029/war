@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_leizhupaiming_yiwancheng_01",
+    "texture": "1d1953da-5b5c-4f98-92d6-507d941a369b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_die_bg_4",
+    "texture": "18f02ff8-25da-4fbf-bee8-81bbd294a1ae",
+    "atlas": "",
+    "rect": [
+      51,
+      4,
+      1971,
+      712
+    ],
+    "offset": [
+      23,
+      2.5
+    ],
+    "originalSize": [
+      2027,
+      725
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

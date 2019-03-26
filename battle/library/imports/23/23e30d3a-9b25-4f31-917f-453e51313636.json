@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_led_paotai_01",
+    "texture": "d5f25bbc-d747-4d5c-90e1-3b2e7149c3ce",
+    "atlas": "2c82280b-b926-40e4-a998-f6013b56d751",
+    "rect": [
+      34,
+      182,
+      28,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

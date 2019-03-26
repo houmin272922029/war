@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jiesuojinbi",
+    "texture": "e9dbae21-efc7-4a96-a844-55b9ae692be7",
+    "atlas": "",
+    "rect": [
+      6,
+      5,
+      475,
+      147
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      484,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

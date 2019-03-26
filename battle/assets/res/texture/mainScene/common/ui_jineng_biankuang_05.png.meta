@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8ac4e71d-8069-47be-a3d5-d02f852db8c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_jineng_biankuang_05": {
+      "ver": "1.0.3",
+      "uuid": "ce32c81b-e9ff-4927-a5f1-0b9d4bf4edaf",
+      "rawTextureUuid": "8ac4e71d-8069-47be-a3d5-d02f852db8c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 39,
+      "height": 27,
+      "rawWidth": 39,
+      "rawHeight": 27,
+      "borderTop": 10,
+      "borderBottom": 10,
+      "borderLeft": 15,
+      "borderRight": 15,
+      "subMetas": {}
+    }
+  }
+}

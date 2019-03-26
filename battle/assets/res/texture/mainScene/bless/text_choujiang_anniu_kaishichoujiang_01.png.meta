@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8497b304-e917-4000-b042-222b3b84130c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_choujiang_anniu_kaishichoujiang_01": {
+      "ver": "1.0.3",
+      "uuid": "4c606f7e-c228-4aca-bf9e-153664487920",
+      "rawTextureUuid": "8497b304-e917-4000-b042-222b3b84130c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 31,
+      "rawWidth": 118,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

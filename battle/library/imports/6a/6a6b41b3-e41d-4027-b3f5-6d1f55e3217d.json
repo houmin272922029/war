@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_xufei_01",
+    "texture": "af0ec5e5-43ea-4623-a6e8-a65aee33cf4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

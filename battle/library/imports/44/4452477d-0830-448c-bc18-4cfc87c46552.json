@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_chongzhi_01",
+    "texture": "768781e6-4b39-4156-9157-e0d678da723b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

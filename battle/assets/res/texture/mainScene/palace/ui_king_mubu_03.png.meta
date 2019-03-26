@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "26cebc83-55ba-46b1-8e37-1d37d1fefbc2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_mubu_03": {
+      "ver": "1.0.3",
+      "uuid": "44f5854b-6422-40a0-bdb9-9fa47fea3a1c",
+      "rawTextureUuid": "26cebc83-55ba-46b1-8e37-1d37d1fefbc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 258,
+      "height": 774,
+      "rawWidth": 269,
+      "rawHeight": 774,
+      "borderTop": 100,
+      "borderBottom": 100,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

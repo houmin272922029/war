@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9ddeeaee-e22a-438a-b053-a923bf7c2439",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_yuka_zhanshi_01": {
+      "ver": "1.0.3",
+      "uuid": "4be073fa-da11-4795-b1f2-71efb5a5f8f2",
+      "rawTextureUuid": "9ddeeaee-e22a-438a-b053-a923bf7c2439",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 232,
+      "rawWidth": 291,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

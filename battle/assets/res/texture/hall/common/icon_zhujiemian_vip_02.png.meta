@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5d82d2c7-3ef2-4d9c-8e51-6c6c3c91b115",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_zhujiemian_vip_02": {
+      "ver": "1.0.3",
+      "uuid": "ad41d74b-a848-469b-b404-1413b10ce15c",
+      "rawTextureUuid": "5d82d2c7-3ef2-4d9c-8e51-6c6c3c91b115",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 91,
+      "rawWidth": 105,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

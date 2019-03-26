@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_biezhen_01",
+    "texture": "e1b6049a-bc9a-480f-a326-c53f2e87f31f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

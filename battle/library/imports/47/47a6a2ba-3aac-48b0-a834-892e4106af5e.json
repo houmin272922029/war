@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_huafei_001",
+    "texture": "66b8786c-0810-4c48-9302-8d2d4b97fca7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

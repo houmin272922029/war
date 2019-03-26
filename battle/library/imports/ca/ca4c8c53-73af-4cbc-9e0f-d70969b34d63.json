@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_huafeiquan_01",
+    "texture": "c67685a1-8071-407e-ac29-99ee02d6db33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

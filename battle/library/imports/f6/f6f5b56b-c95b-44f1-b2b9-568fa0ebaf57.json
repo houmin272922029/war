@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_xuanshang_gongxihuode_01",
+    "texture": "8d2bc830-22c1-46ba-802c-ee7f95a1275b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

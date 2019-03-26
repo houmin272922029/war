@@ -1,0 +1,104 @@
+
+anim_hongzhajipaotai.png
+size: 339,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/WD_fireball_rune_radius
+  rotate: false
+  xy: 2, 296
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+png/dihuo_0
+  rotate: true
+  xy: 213, 637
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_1
+  rotate: true
+  xy: 2, 149
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_10
+  rotate: false
+  xy: 190, 61
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_2
+  rotate: true
+  xy: 2, 2
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_3
+  rotate: true
+  xy: 151, 435
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_4
+  rotate: true
+  xy: 96, 149
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_5
+  rotate: true
+  xy: 96, 2
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_6
+  rotate: true
+  xy: 245, 490
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_7
+  rotate: true
+  xy: 245, 343
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_8
+  rotate: false
+  xy: 190, 249
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/dihuo_9
+  rotate: false
+  xy: 190, 155
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+png/quan1_0
+  rotate: false
+  xy: 2, 582
+  size: 209, 200
+  orig: 209, 200
+  offset: 0, 0
+  index: -1
+png/quan2_0
+  rotate: false
+  xy: 2, 433
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

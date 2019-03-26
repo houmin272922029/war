@@ -1,0 +1,13 @@
+
+anim_gongxihuode1.png
+size: 214,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wngliguang
+  rotate: false
+  xy: 2, 2
+  size: 210, 218
+  orig: 210, 218
+  offset: 0, 0
+  index: -1

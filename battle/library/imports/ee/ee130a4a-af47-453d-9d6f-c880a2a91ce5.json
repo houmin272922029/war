@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shouping_kuaisukaishi_01",
+    "texture": "d8d03a66-805e-49ad-9e84-e2c215eb959e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

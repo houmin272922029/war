@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinhaitun_anim_die",
+    "texture": "0c8dd0ee-1783-4e5e-b175-bdceb01f12c9",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      438,
+      167
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      443,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

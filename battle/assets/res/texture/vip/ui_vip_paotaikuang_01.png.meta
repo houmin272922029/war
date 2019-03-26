@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d9219d43-b93b-4d58-9c60-e45668bd3ad8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_vip_paotaikuang_01": {
+      "ver": "1.0.3",
+      "uuid": "ba1d53db-9f22-4186-b2a8-7d52defca47a",
+      "rawTextureUuid": "d9219d43-b93b-4d58-9c60-e45668bd3ad8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 163,
+      "height": 212,
+      "rawWidth": 163,
+      "rawHeight": 212,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

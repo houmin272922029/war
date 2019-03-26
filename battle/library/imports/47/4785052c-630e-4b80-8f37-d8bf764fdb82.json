@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_dajiang",
+    "texture": "98576c83-5177-4580-9514-d2d8d8f1fbe2",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      968,
+      498
+    ],
+    "offset": [
+      -26,
+      5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+
+anim_welcome_bao.png
+size: 1625,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo2/bo02_00187
+  rotate: false
+  xy: 470, 20
+  size: 203, 123
+  orig: 640, 360
+  offset: 358, 0
+  index: -1
+bo2/bo02_00188
+  rotate: false
+  xy: 245, 10
+  size: 223, 133
+  orig: 640, 360
+  offset: 348, 0
+  index: -1
+bo2/bo02_00189
+  rotate: false
+  xy: 0, 0
+  size: 243, 143
+  orig: 640, 360
+  offset: 338, 0
+  index: -1
+bo2/bo02_00190
+  rotate: false
+  xy: 758, 187
+  size: 306, 173
+  orig: 640, 360
+  offset: 306, 0
+  index: -1
+bo2/bo02_00191
+  rotate: false
+  xy: 0, 145
+  size: 377, 215
+  orig: 640, 360
+  offset: 263, 0
+  index: -1
+bo2/bo02_00192
+  rotate: false
+  xy: 758, 12
+  size: 306, 173
+  orig: 640, 360
+  offset: 306, 0
+  index: -1
+bo2/bo02_00193
+  rotate: false
+  xy: 379, 145
+  size: 377, 215
+  orig: 640, 360
+  offset: 263, 0
+  index: -1
+bo2/bo02_00194
+  rotate: false
+  xy: 1066, 38
+  size: 272, 160
+  orig: 640, 360
+  offset: 324, 0
+  index: -1
+bo2/bo02_00195
+  rotate: false
+  xy: 1066, 200
+  size: 279, 160
+  orig: 640, 360
+  offset: 318, 0
+  index: -1
+bo2/bo02_00196
+  rotate: false
+  xy: 1347, 200
+  size: 278, 160
+  orig: 640, 360
+  offset: 318, 0
+  index: -1
+bo2/bo02_00197
+  rotate: false
+  xy: 1340, 41
+  size: 277, 157
+  orig: 640, 360
+  offset: 318, 0
+  index: -1

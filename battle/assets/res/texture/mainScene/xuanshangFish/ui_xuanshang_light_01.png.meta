@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dcb309cc-68c3-4c87-b6cb-8eb53bf1f2cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_xuanshang_light_01": {
+      "ver": "1.0.3",
+      "uuid": "db0b47c2-7b33-4fd3-a685-1eb69094a050",
+      "rawTextureUuid": "dcb309cc-68c3-4c87-b6cb-8eb53bf1f2cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 10,
+      "height": 10,
+      "rawWidth": 10,
+      "rawHeight": 10,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "14137e50-78d0-4ed0-821f-20757ad0445f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huafei_caidai_01": {
+      "ver": "1.0.3",
+      "uuid": "36d113ab-f904-4284-8943-3c448c40f690",
+      "rawTextureUuid": "14137e50-78d0-4ed0-821f-20757ad0445f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 922,
+      "height": 284,
+      "rawWidth": 922,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

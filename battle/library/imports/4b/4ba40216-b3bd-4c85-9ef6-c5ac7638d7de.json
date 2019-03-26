@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_boshibaoxiang",
+    "texture": "4e46aea1-3350-4c90-9d05-3f6928723c06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      969,
+      393
+    ],
+    "offset": [
+      0,
+      67.5
+    ],
+    "originalSize": [
+      969,
+      528
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

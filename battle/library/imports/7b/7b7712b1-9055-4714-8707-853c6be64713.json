@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_kuangbaozi",
+    "texture": "2f1ab7f7-c7a4-42af-8042-9e5e5fdff129",
+    "atlas": "",
+    "rect": [
+      32,
+      2,
+      1139,
+      101
+    ],
+    "offset": [
+      16,
+      -1
+    ],
+    "originalSize": [
+      1171,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fa85791b-f44f-44e6-bce2-dec65459d465",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinhaima_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "03440d2c-ec1b-49a2-a72e-77b2d1577dcf",
+      "rawTextureUuid": "fa85791b-f44f-44e6-bce2-dec65459d465",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 390,
+      "height": 101,
+      "rawWidth": 396,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

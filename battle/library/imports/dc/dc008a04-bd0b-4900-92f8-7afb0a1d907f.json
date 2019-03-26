@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_oushi_01",
+    "texture": "24d667cd-7136-4845-8b78-e9452dc302a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1045,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1045,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "667d8337-8544-4f4f-a753-925df5f9b632",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_duihuan_xiugai_01": {
+      "ver": "1.0.3",
+      "uuid": "b087f491-de14-4839-b5e6-4862c14455ed",
+      "rawTextureUuid": "667d8337-8544-4f4f-a753-925df5f9b632",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 36,
+      "rawWidth": 75,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

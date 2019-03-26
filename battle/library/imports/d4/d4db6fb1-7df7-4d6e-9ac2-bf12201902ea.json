@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafeisai_jinbu_01",
+    "texture": "a9a73ee1-b507-4826-bd9e-64fe5dcd68eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

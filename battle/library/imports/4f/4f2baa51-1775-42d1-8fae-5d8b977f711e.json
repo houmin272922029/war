@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_wenhao_01",
+    "texture": "22d460fd-9789-4f70-8ab0-ef1b16c109cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

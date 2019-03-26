@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_qianwangchongzhi_01",
+    "texture": "3a9e5282-f1a8-4f90-b838-831d8cd2115c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

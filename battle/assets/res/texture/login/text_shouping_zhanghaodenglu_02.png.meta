@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e728b658-2c8c-458c-afb2-fc1d552a1893",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shouping_zhanghaodenglu_02": {
+      "ver": "1.0.3",
+      "uuid": "e930ed73-3395-452a-9308-94447937bc43",
+      "rawTextureUuid": "e728b658-2c8c-458c-afb2-fc1d552a1893",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 131,
+      "height": 36,
+      "rawWidth": 131,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

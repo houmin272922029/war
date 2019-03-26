@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_chouhuafei_01",
+    "texture": "7628e9c7-0b61-4043-9047-e4865db92f2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

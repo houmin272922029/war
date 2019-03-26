@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_duihuan_01",
+    "texture": "c90e6f63-2b79-4c3d-9fa5-c897cc1f8bed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

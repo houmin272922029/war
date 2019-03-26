@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_led_01",
+    "texture": "8fa550c7-ba39-4519-997a-1e43b22031c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      70
+    ],
+    "capInsets": [
+      160,
+      0,
+      80,
+      0
+    ]
+  }
+}

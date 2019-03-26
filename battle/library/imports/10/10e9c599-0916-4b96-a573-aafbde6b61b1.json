@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_biaotidiban_02",
+    "texture": "032e7942-d5ab-45c6-8b29-d151459e8002",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      49
+    ],
+    "capInsets": [
+      37,
+      19,
+      37,
+      19
+    ]
+  }
+}

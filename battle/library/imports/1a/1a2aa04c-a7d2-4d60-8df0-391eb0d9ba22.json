@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_qianting_01",
+    "texture": "4bb42f64-4860-4adf-bbe3-1634cf1f2c80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

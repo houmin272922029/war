@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cda19278-3d53-4f9d-9c76-2aef90f6c434",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_cw_dengji_03": {
+      "ver": "1.0.3",
+      "uuid": "903ea9fc-3e60-452f-b6c8-dbde4a89aea2",
+      "rawTextureUuid": "cda19278-3d53-4f9d-9c76-2aef90f6c434",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 56,
+      "height": 26,
+      "rawWidth": 56,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

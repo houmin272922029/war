@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_zuixiaopaobei_01",
+    "texture": "ffe14b58-7da3-4ae9-9307-d274f74a8d41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

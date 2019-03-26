@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafeisai_jiesian_05",
+    "texture": "611214c9-0938-4ff9-a2dc-6e17b9561c19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      60
+    ],
+    "capInsets": [
+      85,
+      0,
+      30,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhushangdian",
+    "texture": "c69e249d-1f78-4819-a3a3-8b390776d661",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1905,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1905,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

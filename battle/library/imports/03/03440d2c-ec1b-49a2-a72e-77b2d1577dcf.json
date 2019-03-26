@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinhaima_anim_die",
+    "texture": "fa85791b-f44f-44e6-bce2-dec65459d465",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      390,
+      101
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      396,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jingjitiao",
+    "texture": "2cc0996c-080c-4f0e-ae42-b6723fe9420d",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      1442,
+      461
+    ],
+    "offset": [
+      -5.5,
+      -0.5
+    ],
+    "originalSize": [
+      1463,
+      466
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

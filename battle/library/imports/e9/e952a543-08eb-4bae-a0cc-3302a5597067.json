@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_junsha_juxing_01",
+    "texture": "2edae9ae-6bb5-4dd4-9076-3769c8bcb43d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      36,
+      35,
+      34,
+      35
+    ]
+  }
+}

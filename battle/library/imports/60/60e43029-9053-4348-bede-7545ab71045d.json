@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_baoxiang_effect",
+    "texture": "27bff9c4-66f2-429f-a126-37f974cc5272",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

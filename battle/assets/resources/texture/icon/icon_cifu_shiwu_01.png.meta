@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2c023bc3-46f8-4eae-bb8f-386556cd2f2d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_cifu_shiwu_01": {
+      "ver": "1.0.3",
+      "uuid": "d1176911-4ac7-43b7-b4f8-8571b873fb4c",
+      "rawTextureUuid": "2c023bc3-46f8-4eae-bb8f-386556cd2f2d",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

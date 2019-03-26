@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7cb58f7b-ccee-4a61-a6b2-8a5f875e475a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_qiantingruqin_diban_01": {
+      "ver": "1.0.3",
+      "uuid": "2b84fe31-8d7f-4400-bd91-7fa149432e5e",
+      "rawTextureUuid": "7cb58f7b-ccee-4a61-a6b2-8a5f875e475a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 290,
+      "height": 177,
+      "rawWidth": 292,
+      "rawHeight": 179,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

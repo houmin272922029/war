@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shrimp_light_10",
+    "texture": "5a1c6797-963d-444d-a7ae-011a46c3b63d",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      210,
+      179
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      210,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

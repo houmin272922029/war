@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_kuaisukaishi_01",
+    "texture": "f9a1549b-f572-4150-8aa7-4b5ecca84ca8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

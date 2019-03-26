@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojugoumai_jiemian_02",
+    "texture": "982de311-007e-4bec-937b-a2594d3445a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

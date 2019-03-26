@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d3af6e7c-bdc8-43c9-a72c-93f84e3ef5f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "fish_icon_kongqueyu": {
+      "ver": "1.0.3",
+      "uuid": "80adc473-f008-4162-af7a-3b892f37f918",
+      "rawTextureUuid": "d3af6e7c-bdc8-43c9-a72c-93f84e3ef5f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 40,
+      "rawWidth": 65,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

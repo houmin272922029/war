@@ -1,0 +1,153 @@
+
+anim_yanshi.png
+size: 365,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: true
+  xy: 2, 5
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+fish_1_1
+  rotate: true
+  xy: 89, 62
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_1_2
+  rotate: true
+  xy: 139, 200
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_1_3
+  rotate: true
+  xy: 151, 64
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_1_4
+  rotate: false
+  xy: 179, 2
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_2_0000
+  rotate: true
+  xy: 213, 64
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_2_0001
+  rotate: false
+  xy: 270, 2
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_2_0002
+  rotate: true
+  xy: 201, 200
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+fish_2_0003
+  rotate: true
+  xy: 263, 200
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+icon_diamond_01
+  rotate: false
+  xy: 134, 17
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_02
+  rotate: false
+  xy: 139, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_03
+  rotate: false
+  xy: 184, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_04
+  rotate: false
+  xy: 229, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_05
+  rotate: false
+  xy: 274, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_06
+  rotate: false
+  xy: 319, 155
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_07
+  rotate: false
+  xy: 275, 110
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_08
+  rotate: false
+  xy: 275, 65
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_09
+  rotate: false
+  xy: 320, 110
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+icon_diamond_10
+  rotate: false
+  xy: 89, 17
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+net
+  rotate: true
+  xy: 2, 153
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+tips
+  rotate: true
+  xy: 2, 28
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1

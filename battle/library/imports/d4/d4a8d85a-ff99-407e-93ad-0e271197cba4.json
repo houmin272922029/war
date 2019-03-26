@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_xuanshang_kaishi",
+    "texture": "ddee589c-8deb-48c1-b5d1-43a4825480a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cf9f6b21-218d-4883-9f6b-ca0c40bda248",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "fish_icon_baoliandeng": {
+      "ver": "1.0.3",
+      "uuid": "2d8f6077-431b-46d7-95e0-a921a620b34b",
+      "rawTextureUuid": "cf9f6b21-218d-4883-9f6b-ca0c40bda248",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 31,
+      "rawWidth": 68,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

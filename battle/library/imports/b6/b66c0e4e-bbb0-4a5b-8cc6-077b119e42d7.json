@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_buchang_01",
+    "texture": "44c7ec4d-f4f6-434d-a31f-72ef8622c6da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

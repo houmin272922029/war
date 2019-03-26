@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_cifu_mubu_01",
+    "texture": "564a1992-b1a1-411c-851e-f0d750f33de1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      564,
+      326
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      564,
+      326
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

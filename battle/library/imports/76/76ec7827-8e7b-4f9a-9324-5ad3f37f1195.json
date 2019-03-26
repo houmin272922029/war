@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_jineng_dengji_03",
+    "texture": "558576f1-256b-4291-b359-de8a32e84e22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

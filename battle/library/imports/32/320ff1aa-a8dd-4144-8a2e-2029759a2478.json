@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_facaijin_dianjilingqu_01",
+    "texture": "8f48ed12-b376-46c8-9891-4bcc38628dfd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

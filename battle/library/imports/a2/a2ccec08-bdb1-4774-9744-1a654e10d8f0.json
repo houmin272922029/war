@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_cifu_xian_02",
+    "texture": "0bb3e96c-973a-441c-94c0-4dad11887b36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

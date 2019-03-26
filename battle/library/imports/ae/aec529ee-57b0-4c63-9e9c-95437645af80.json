@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huanpao_zhuangshi_02",
+    "texture": "a696a66a-d8ec-4d8b-8bfc-8b72a47e24ce",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      105,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

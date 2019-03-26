@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_jiemian_02",
+    "texture": "ba88489d-866a-46a6-a949-a935802b6de2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      128
+    ],
+    "capInsets": [
+      41,
+      44,
+      42,
+      49
+    ]
+  }
+}

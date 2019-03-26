@@ -1,0 +1,13 @@
+
+anim_dujiaojing.png
+size: 301,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/dujiaojin
+  rotate: false
+  xy: 2, 2
+  size: 297, 338
+  orig: 297, 338
+  offset: 0, 0
+  index: -1

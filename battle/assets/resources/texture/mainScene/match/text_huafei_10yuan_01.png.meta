@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "12af925c-7366-476b-ade8-6880c6564f7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_huafei_10yuan_01": {
+      "ver": "1.0.3",
+      "uuid": "44e8074c-bd06-4564-acca-e5bfc284efca",
+      "rawTextureUuid": "12af925c-7366-476b-ade8-6880c6564f7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 28,
+      "rawWidth": 53,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

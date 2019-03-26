@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemiand_uihuan_01",
+    "texture": "e33baa0c-3eba-45ee-890b-3e8c75e5ca86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_dangqianpaiming_01",
+    "texture": "73433407-8d5b-4057-9a98-ff408afba7da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

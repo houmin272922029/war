@@ -1,0 +1,90 @@
+
+anim_guowangbaoxiang.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_box_b_01
+  rotate: false
+  xy: 2, 42
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+ui_box_b_02
+  rotate: false
+  xy: 456, 54
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+ui_box_b_04
+  rotate: false
+  xy: 900, 73
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+ui_box_g_01
+  rotate: false
+  xy: 116, 42
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+ui_box_g_02
+  rotate: false
+  xy: 678, 54
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+ui_box_g_04
+  rotate: false
+  xy: 456, 2
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+ui_box_o_01
+  rotate: false
+  xy: 230, 42
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+ui_box_o_02
+  rotate: false
+  xy: 789, 54
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+ui_box_o_04
+  rotate: false
+  xy: 554, 2
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+ui_box_r_01
+  rotate: false
+  xy: 344, 43
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+ui_box_r_02
+  rotate: false
+  xy: 567, 54
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+ui_box_r_04
+  rotate: false
+  xy: 900, 21
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1

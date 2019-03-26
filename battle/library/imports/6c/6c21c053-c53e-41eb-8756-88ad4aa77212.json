@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_rolllight_01",
+    "texture": "7c64555e-9385-43ad-b39a-00c730d0f92e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

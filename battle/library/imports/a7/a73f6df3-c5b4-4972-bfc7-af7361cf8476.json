@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_jiemian_01",
+    "texture": "4c3c5247-6c03-4973-8097-7446ec92b1bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      220
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      220
+    ],
+    "capInsets": [
+      76,
+      85,
+      71,
+      88
+    ]
+  }
+}

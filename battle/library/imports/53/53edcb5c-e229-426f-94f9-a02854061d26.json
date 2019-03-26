@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_tongyong_guanbi_01",
+    "texture": "59962018-881d-41a5-9baa-bc5961edee1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

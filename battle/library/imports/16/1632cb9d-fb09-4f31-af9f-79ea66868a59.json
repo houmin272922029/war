@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tips_line_01",
+    "texture": "cc02533e-d2e5-449a-b9c4-fccf94c1273d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_arrow_01",
+    "texture": "d5eb89ed-804f-4013-8291-152dcfa004c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

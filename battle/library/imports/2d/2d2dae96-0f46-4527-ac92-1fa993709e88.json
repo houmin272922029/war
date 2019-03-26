@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_shezhimima_01",
+    "texture": "44dda75a-f13b-477d-b2e5-629f9400af24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+
+anim_chanzi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanzi/1
+  rotate: true
+  xy: 259, 116
+  size: 95, 112
+  orig: 95, 112
+  offset: 0, 0
+  index: -1
+chanzi/2
+  rotate: true
+  xy: 373, 121
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+chanzi/3
+  rotate: true
+  xy: 143, 116
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+chanzi/chentu
+  rotate: false
+  xy: 143, 55
+  size: 60, 59
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+chanzi/ui_shrimp_bunker_01
+  rotate: false
+  xy: 0, 106
+  size: 141, 105
+  orig: 141, 106
+  offset: 0, 1
+  index: -1
+chanzi/ui_shrimp_bunker_02
+  rotate: false
+  xy: 0, 0
+  size: 139, 104
+  orig: 141, 106
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "41fc06c9-39c2-489c-857a-2b4430676c34",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_buchangjin_wenzi_01": {
+      "ver": "1.0.3",
+      "uuid": "6f3dca48-f251-4571-a733-65a3589ea257",
+      "rawTextureUuid": "41fc06c9-39c2-489c-857a-2b4430676c34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 25,
+      "rawWidth": 74,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

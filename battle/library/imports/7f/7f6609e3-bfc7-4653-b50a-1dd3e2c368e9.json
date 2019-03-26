@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_tujian_01",
+    "texture": "c54787b6-9e5e-424b-b11c-25da70fbd7fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

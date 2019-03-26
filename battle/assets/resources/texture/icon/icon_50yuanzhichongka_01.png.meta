@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c7081759-18eb-414d-b7d8-17ae07258464",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_50yuanzhichongka_01": {
+      "ver": "1.0.3",
+      "uuid": "3bd5ea6e-b3fc-4b5e-9cc3-08a173c2495f",
+      "rawTextureUuid": "c7081759-18eb-414d-b7d8-17ae07258464",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

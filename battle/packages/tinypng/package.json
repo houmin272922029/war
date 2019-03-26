@@ -1,0 +1,20 @@
+{
+  "name": "tinypng",
+  "version": "0.1.0",
+  "description": "a png compression plug for build project.",
+  "author": "Saint",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/resCompress": {
+      "accelerator": "CmdOrCtrl+y",
+      "message": "tinypng:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "resCompress",
+    "width": 400,
+    "height": 800
+  }
+}

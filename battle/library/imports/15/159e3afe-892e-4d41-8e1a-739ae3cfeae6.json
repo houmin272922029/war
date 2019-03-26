@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_shuimu",
+    "texture": "2c621a55-8f22-4017-adc4-bc691d04966b",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      69,
+      60
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

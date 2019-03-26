@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_hujing",
+    "texture": "e328a941-2de3-428c-8c2b-0e7215c758e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_huobi_01",
+    "texture": "2389749c-342f-49eb-a9c8-24018047f81b",
+    "atlas": "",
+    "rect": [
+      15,
+      16,
+      84,
+      83
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      114,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

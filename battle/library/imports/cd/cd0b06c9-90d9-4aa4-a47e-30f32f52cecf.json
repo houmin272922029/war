@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_paozuo_01",
+    "texture": "85004864-4976-4a45-baa5-0362262939b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

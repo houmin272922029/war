@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingjichang_jingjirenwu_01",
+    "texture": "7c3de4d6-d21c-4cce-9bcb-461afa1871cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

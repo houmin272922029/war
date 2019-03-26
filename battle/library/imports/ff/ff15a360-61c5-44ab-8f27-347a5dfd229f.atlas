@@ -1,0 +1,209 @@
+
+anim_hongzhaji.png
+size: 1416,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+轰炸机/png/baozha_0
+  rotate: false
+  xy: 611, 606
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_10
+  rotate: false
+  xy: 933, 455
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_11
+  rotate: false
+  xy: 1094, 606
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_12
+  rotate: false
+  xy: 933, 304
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_13
+  rotate: false
+  xy: 1094, 455
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_14
+  rotate: false
+  xy: 1255, 606
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_15
+  rotate: false
+  xy: 1094, 304
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_16
+  rotate: false
+  xy: 1255, 455
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_17
+  rotate: false
+  xy: 1255, 304
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_18
+  rotate: false
+  xy: 502, 58
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_19
+  rotate: false
+  xy: 663, 153
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_2
+  rotate: false
+  xy: 180, 58
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_20
+  rotate: false
+  xy: 824, 153
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_22
+  rotate: false
+  xy: 985, 153
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_23
+  rotate: false
+  xy: 1146, 153
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_25
+  rotate: false
+  xy: 663, 2
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_26
+  rotate: false
+  xy: 824, 2
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_28
+  rotate: false
+  xy: 985, 2
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_3
+  rotate: false
+  xy: 611, 455
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_30
+  rotate: false
+  xy: 1146, 2
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_4
+  rotate: false
+  xy: 772, 606
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_5
+  rotate: false
+  xy: 341, 58
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_6
+  rotate: false
+  xy: 611, 304
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_7
+  rotate: false
+  xy: 772, 455
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_8
+  rotate: false
+  xy: 933, 606
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/baozha_9
+  rotate: false
+  xy: 772, 304
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+轰炸机/png/kuo_0
+  rotate: false
+  xy: 2, 32
+  size: 176, 175
+  orig: 176, 175
+  offset: 0, 0
+  index: -1
+轰炸机/png/quansgb_0
+  rotate: false
+  xy: 2, 209
+  size: 607, 546
+  orig: 607, 546
+  offset: 0, 0
+  index: -1
+轰炸机/png/shanguang_0
+  rotate: false
+  xy: 1307, 216
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,307 @@
+
+anim_jifen.png
+size: 1488,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bei
+  rotate: false
+  xy: 378, 211
+  size: 267, 55
+  orig: 267, 55
+  offset: 0, 0
+  index: -1
+images/chaomeng
+  rotate: false
+  xy: 258, 42
+  size: 156, 167
+  orig: 156, 167
+  offset: 0, 0
+  index: -1
+images/chaomeng1
+  rotate: true
+  xy: 2, 31
+  size: 178, 78
+  orig: 178, 78
+  offset: 0, 0
+  index: -1
+images/dengchang
+  rotate: true
+  xy: 479, 281
+  size: 273, 136
+  orig: 273, 136
+  offset: 0, 0
+  index: -1
+images/dengchang1
+  rotate: true
+  xy: 416, 43
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+images/diban
+  rotate: false
+  xy: 772, 363
+  size: 685, 143
+  orig: 685, 143
+  offset: 0, 0
+  index: -1
+images/dsaoguang
+  rotate: true
+  xy: 378, 268
+  size: 286, 99
+  orig: 286, 99
+  offset: 0, 0
+  index: -1
+images/huo/huo0001
+  rotate: true
+  xy: 2, 211
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+images/huo/huo0002
+  rotate: true
+  xy: 96, 211
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+images/huo/huo0003
+  rotate: true
+  xy: 190, 211
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+images/huo/huo0004
+  rotate: true
+  xy: 284, 211
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+images/huo/huo0005
+  rotate: true
+  xy: 284, 211
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_10
+  rotate: true
+  xy: 929, 27
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_3
+  rotate: true
+  xy: 647, 18
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_4
+  rotate: true
+  xy: 678, 290
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_5
+  rotate: true
+  xy: 678, 290
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_6
+  rotate: true
+  xy: 741, 24
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_7
+  rotate: true
+  xy: 741, 24
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_8
+  rotate: true
+  xy: 835, 27
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/vava_9
+  rotate: true
+  xy: 835, 27
+  size: 264, 92
+  orig: 264, 92
+  offset: 0, 0
+  index: -1
+images/huo/xx_102
+  rotate: false
+  xy: 1328, 294
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+images/light01
+  rotate: false
+  xy: 1389, 107
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/saoguang_0
+  rotate: false
+  xy: 772, 293
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_1
+  rotate: false
+  xy: 911, 293
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_10
+  rotate: true
+  xy: 1237, 154
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_11
+  rotate: true
+  xy: 1259, 15
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_12
+  rotate: true
+  xy: 1023, 125
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+images/saoguang_2
+  rotate: false
+  xy: 490, 141
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_3
+  rotate: true
+  xy: 490, 2
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_4
+  rotate: true
+  xy: 560, 2
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_5
+  rotate: false
+  xy: 1050, 293
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_6
+  rotate: true
+  xy: 1097, 154
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_7
+  rotate: true
+  xy: 1167, 154
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_8
+  rotate: false
+  xy: 1189, 293
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/saoguang_9
+  rotate: true
+  xy: 1189, 15
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+images/she
+  rotate: false
+  xy: 1389, 195
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+images/xian
+  rotate: false
+  xy: 82, 37
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+images/xian02
+  rotate: false
+  xy: 170, 37
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+images/xian03
+  rotate: false
+  xy: 1329, 19
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/xiaxian
+  rotate: false
+  xy: 772, 508
+  size: 707, 46
+  orig: 707, 46
+  offset: 0, 0
+  index: -1
+images/xuliguangxiao_00000
+  rotate: true
+  xy: 1307, 157
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+images/ziguang
+  rotate: true
+  xy: 617, 284
+  size: 270, 59
+  orig: 270, 59
+  offset: 0, 0
+  index: -1
+png/dai
+  rotate: false
+  xy: 1023, 2
+  size: 164, 121
+  orig: 164, 121
+  offset: 0, 0
+  index: -1

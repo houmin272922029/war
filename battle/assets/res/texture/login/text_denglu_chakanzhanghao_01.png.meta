@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d65302b4-0036-4e2b-907b-d09b0c1741f7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_denglu_chakanzhanghao_01": {
+      "ver": "1.0.3",
+      "uuid": "93c39afa-5f37-44eb-bf72-25c5108f0e74",
+      "rawTextureUuid": "d65302b4-0036-4e2b-907b-d09b0c1741f7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 28,
+      "rawWidth": 92,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

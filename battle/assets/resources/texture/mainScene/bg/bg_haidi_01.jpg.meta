@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3192c7f2-3dde-41a6-ad7a-554b37ef9d39",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bg_haidi_01": {
+      "ver": "1.0.3",
+      "uuid": "5ac75ad6-9ed0-4017-8824-473d781b896f",
+      "rawTextureUuid": "3192c7f2-3dde-41a6-ad7a-554b37ef9d39",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1045,
+      "height": 482,
+      "rawWidth": 1045,
+      "rawHeight": 482,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

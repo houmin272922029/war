@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_zengsong_01",
+    "texture": "f5ef2d10-1fea-4f2b-a2b7-81cb9b327592",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

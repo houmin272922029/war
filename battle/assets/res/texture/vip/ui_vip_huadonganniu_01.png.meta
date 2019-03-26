@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "05c10159-14bb-4f0c-9869-873799fd352e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_vip_huadonganniu_01": {
+      "ver": "1.0.3",
+      "uuid": "e63ac4ea-d2d0-4f03-a38d-5a59e0bc7303",
+      "rawTextureUuid": "05c10159-14bb-4f0c-9869-873799fd352e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 43,
+      "height": 81,
+      "rawWidth": 43,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_paodengji_01",
+    "texture": "a1253905-c2a5-4840-a5a5-56c1784e16a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xinshoufenxiang_heikuang_01",
+    "texture": "9295c321-6f9e-4871-a45b-0c2271b3ff26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      9
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      9
+    ],
+    "capInsets": [
+      6,
+      0,
+      6,
+      0
+    ]
+  }
+}

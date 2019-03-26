@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_leizhu_01",
+    "texture": "3a70508c-878c-42a2-b89a-e364c2bf2bda",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      254,
+      87
+    ],
+    "offset": [
+      -16.5,
+      -3
+    ],
+    "originalSize": [
+      289,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

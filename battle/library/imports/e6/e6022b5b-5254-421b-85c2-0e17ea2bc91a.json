@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_king_01",
+    "texture": "a47b35e4-4c6b-4a2f-90f1-d8c3df83a777",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

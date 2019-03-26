@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_jinengshuoming_01",
+    "texture": "a97777d8-4007-4478-b808-37444c89ad47",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jixubuyu_01",
+    "texture": "a75141dd-ad49-4697-a525-8226c4a3d3a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_biaoti_02",
+    "texture": "0c641fbe-7feb-41f3-b0d8-bde422ca7b47",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      537,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      539,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

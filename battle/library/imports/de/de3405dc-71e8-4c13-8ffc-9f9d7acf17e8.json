@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhuvip",
+    "texture": "3671fc72-754d-4045-9c9f-76cae115b3d7",
+    "atlas": "",
+    "rect": [
+      10,
+      13,
+      771,
+      331
+    ],
+    "offset": [
+      -1.5,
+      -1.5
+    ],
+    "originalSize": [
+      794,
+      354
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

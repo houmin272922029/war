@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f8d2d60c-20c8-489f-a53f-84076ce12037",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_denglu_zhaohuimima_01": {
+      "ver": "1.0.3",
+      "uuid": "5e97abb5-909b-4422-bb96-352ce1804257",
+      "rawTextureUuid": "f8d2d60c-20c8-489f-a53f-84076ce12037",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 106,
+      "height": 28,
+      "rawWidth": 106,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

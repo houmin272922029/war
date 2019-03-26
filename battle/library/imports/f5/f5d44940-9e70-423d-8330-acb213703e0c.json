@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingjichang_paiming_01",
+    "texture": "208f7cf1-0528-49a8-9f6a-b46b3b35b88a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

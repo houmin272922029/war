@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jingji_zidan",
+    "texture": "10980373-bb49-4d0d-8ae2-804d2b8c71e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

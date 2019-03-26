@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "637d0037-dffd-4a01-bcfa-3fd2d81e296f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_touxiang_02": {
+      "ver": "1.0.3",
+      "uuid": "7a978736-710f-4050-b3a6-8b8145f87542",
+      "rawTextureUuid": "637d0037-dffd-4a01-bcfa-3fd2d81e296f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 120,
+      "rawWidth": 117,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

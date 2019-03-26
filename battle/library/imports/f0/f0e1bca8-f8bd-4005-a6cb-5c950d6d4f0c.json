@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_yuchang_shuzi_01_3",
+    "texture": "5bcc470b-7646-454c-8dad-77f832acc5b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

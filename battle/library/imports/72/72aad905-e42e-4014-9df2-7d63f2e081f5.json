@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_zhujiemian_jia_01",
+    "texture": "3a123876-78cc-4d22-97d1-56100b34c36b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+
+anim_lock.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tubiao
+  rotate: false
+  xy: 2, 2
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 279, 66
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+zi01
+  rotate: false
+  xy: 127, 44
+  size: 150, 80
+  orig: 150, 100
+  offset: 0, 15
+  index: -1

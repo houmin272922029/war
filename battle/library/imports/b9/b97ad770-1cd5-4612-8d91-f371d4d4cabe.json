@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_qihanglibao_03",
+    "texture": "e463cb88-c00f-4a23-9fe8-f0e6034f4421",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      131
+    ],
+    "capInsets": [
+      66,
+      71,
+      52,
+      47
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_bisaishijian_01",
+    "texture": "b941d568-df31-4ea7-a5ca-3e445f3cde37",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

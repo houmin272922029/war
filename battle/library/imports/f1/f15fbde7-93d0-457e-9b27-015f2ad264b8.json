@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jiesuopaotai",
+    "texture": "2301ed60-e5a4-42a0-85da-bf3aa743e45b",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      1873,
+      616
+    ],
+    "offset": [
+      0.5,
+      2.5
+    ],
+    "originalSize": [
+      1876,
+      621
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

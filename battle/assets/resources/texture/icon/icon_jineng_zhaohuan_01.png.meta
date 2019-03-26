@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c1aea9a7-5672-4642-a6e9-e5d07b363556",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_jineng_zhaohuan_01": {
+      "ver": "1.0.3",
+      "uuid": "b676f317-4d1b-45f5-935a-a019a5f3350f",
+      "rawTextureUuid": "c1aea9a7-5672-4642-a6e9-e5d07b363556",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

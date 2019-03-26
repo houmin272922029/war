@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9595db86-94be-4574-8fd9-68baf34f10e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "button_yuchang_paobei_002": {
+      "ver": "1.0.3",
+      "uuid": "aa5de2e2-2ee8-4f9d-b5ab-702a81e1c35a",
+      "rawTextureUuid": "9595db86-94be-4574-8fd9-68baf34f10e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 55,
+      "rawWidth": 64,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

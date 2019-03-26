@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zidong_zidong_01",
+    "texture": "e53c7d33-4f73-4e1f-a9fd-4578d129db84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

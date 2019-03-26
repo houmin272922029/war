@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_guowangyx",
+    "texture": "155bc593-5351-4bf2-acaa-cbfdcda4fab2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      499,
+      256
+    ],
+    "offset": [
+      -6.5,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

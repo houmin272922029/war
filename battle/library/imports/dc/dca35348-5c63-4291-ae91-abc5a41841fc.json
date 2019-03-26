@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shouping_kuang_01",
+    "texture": "0e3e449f-c515-4f3e-a636-ea639a4c4ada",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

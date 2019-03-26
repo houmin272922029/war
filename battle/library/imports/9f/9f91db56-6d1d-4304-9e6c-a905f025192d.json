@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_duihuan_shangchengkuang_01",
+    "texture": "7c36f69b-8c6c-4c3f-a526-d46c881bc392",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      37
+    ],
+    "capInsets": [
+      15,
+      15,
+      15,
+      15
+    ]
+  }
+}

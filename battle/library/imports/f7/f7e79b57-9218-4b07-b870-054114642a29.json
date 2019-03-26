@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_hand_01",
+    "texture": "44a5231b-3740-40b8-85c0-49db79330f75",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      102,
+      106
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      108,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

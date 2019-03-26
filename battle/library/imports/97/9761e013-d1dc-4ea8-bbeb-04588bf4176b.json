@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_leizhupaiming_qidai_01",
+    "texture": "0e6b4048-2ea7-4238-8225-c4f7d7463470",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      341,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      341,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

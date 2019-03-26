@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_landi_002",
+    "texture": "9c4571e4-a488-4d8f-a9ae-ca5802ec2ebc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      175,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      175,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

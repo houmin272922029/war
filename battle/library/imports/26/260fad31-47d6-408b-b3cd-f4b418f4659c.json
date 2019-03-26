@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_yezi",
+    "texture": "d791a784-cf3b-411b-9e0d-bcde514e0b6a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      696,
+      285
+    ],
+    "offset": [
+      -162,
+      111.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

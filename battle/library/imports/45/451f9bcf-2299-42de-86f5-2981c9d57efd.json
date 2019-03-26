@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_qiandao_kuang_02",
+    "texture": "97270af7-9ccd-45f0-a47f-7d9fdebdc4c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      183
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      183
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

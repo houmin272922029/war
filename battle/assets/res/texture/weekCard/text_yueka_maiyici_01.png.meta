@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "796b792e-2189-461a-971a-54d21eca5fcb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_yueka_maiyici_01": {
+      "ver": "1.0.3",
+      "uuid": "fb4f347f-4617-42b7-a180-431e923d4c0c",
+      "rawTextureUuid": "796b792e-2189-461a-971a-54d21eca5fcb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 38,
+      "rawWidth": 215,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

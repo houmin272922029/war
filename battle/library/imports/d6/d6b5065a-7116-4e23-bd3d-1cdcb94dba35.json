@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_line_01",
+    "texture": "90539504-e19c-4f8a-ba6a-14df0fb69114",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      335
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      335
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

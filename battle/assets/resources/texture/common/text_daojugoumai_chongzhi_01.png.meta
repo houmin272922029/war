@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "493c1b47-0c58-4f41-8f5b-20e91ac66293",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_daojugoumai_chongzhi_01": {
+      "ver": "1.0.3",
+      "uuid": "88d36a8a-3d81-4833-a632-e9d64a31ba8f",
+      "rawTextureUuid": "493c1b47-0c58-4f41-8f5b-20e91ac66293",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 32,
+      "rawWidth": 71,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

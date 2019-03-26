@@ -1,0 +1,27 @@
+
+anim_buhuotishi.png
+size: 956,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/text_bosswanfa_buhuohuanyingi_01
+  rotate: false
+  xy: 726, 27
+  size: 228, 57
+  orig: 228, 57
+  offset: 0, 0
+  index: -1
+png/text_bosswanfa_jianglifanbei_01
+  rotate: false
+  xy: 494, 14
+  size: 230, 70
+  orig: 230, 70
+  offset: 0, 0
+  index: -1
+png/ui_bosswanfa_diban_01
+  rotate: false
+  xy: 2, 2
+  size: 490, 82
+  orig: 490, 82
+  offset: 0, 0
+  index: -1

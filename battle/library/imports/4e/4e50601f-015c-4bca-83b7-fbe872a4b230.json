@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_qiandao_tishi_02",
+    "texture": "ad469724-d04c-4080-8140-d9dd101c45e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

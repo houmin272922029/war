@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_hongbao_03",
+    "texture": "b9f9e8d0-76ff-4abb-9a06-493f39065344",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

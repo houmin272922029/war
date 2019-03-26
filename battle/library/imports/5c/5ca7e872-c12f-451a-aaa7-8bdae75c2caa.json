@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_tanchu_01",
+    "texture": "0a1face7-9a07-4183-87ba-7dadc69ad7fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      89
+    ],
+    "capInsets": [
+      30,
+      40,
+      30,
+      40
+    ]
+  }
+}

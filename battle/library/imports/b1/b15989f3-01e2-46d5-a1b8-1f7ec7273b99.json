@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_longgui",
+    "texture": "431081fd-a2a8-47bf-a8ea-e2db663af9e5",
+    "atlas": "",
+    "rect": [
+      20,
+      17,
+      311,
+      293
+    ],
+    "offset": [
+      4.5,
+      -3
+    ],
+    "originalSize": [
+      342,
+      321
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

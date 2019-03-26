@@ -1,0 +1,452 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_kuangbao",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "vrnfGATrO+PoCyvvDatUG+lO4SA",
+      "spine": "3.6.53",
+      "width": 300,
+      "height": 280,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "dijiojidian",
+        "parent": "root",
+        "x": -1.62,
+        "y": 1.62
+      },
+      {
+        "name": "gaoijidian2",
+        "parent": "root"
+      },
+      {
+        "name": "zhongjidian3",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/gaojikuang_00000",
+        "bone": "gaoijidian2",
+        "attachment": "png/gaojikuang_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/dikuang_00000",
+        "bone": "dijiojidian",
+        "attachment": "png/dikuang_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/zjkuang_00000",
+        "bone": "zhongjidian3",
+        "attachment": "png/zjkuang_00000",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/dikuang_00000": {
+          "png/dikuang_00000": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00001": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00003": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00005": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00007": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00009": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00010": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00012": {
+            "width": 256,
+            "height": 256
+          },
+          "png/dikuang_00014": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "png/gaojikuang_00000": {
+          "png/gaojikuang_00000": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00002": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00003": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00004": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00005": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00006": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00007": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00008": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00009": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00010": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00011": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00012": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00014": {
+            "width": 300,
+            "height": 280
+          },
+          "png/gaojikuang_00015": {
+            "width": 300,
+            "height": 280
+          }
+        },
+        "png/zjkuang_00000": {
+          "png/zjkuang_00000": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00002": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00003": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00004": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00005": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00006": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00008": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00009": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00010": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00011": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00012": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00014": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00015": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00016": {
+            "width": 256,
+            "height": 256
+          },
+          "png/zjkuang_00017": {
+            "width": 256,
+            "height": 256
+          }
+        }
+      }
+    },
+    "animations": {
+      "diji": {
+        "slots": {
+          "png/dikuang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/dikuang_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/dikuang_00001"
+              },
+              {
+                "time": 0.1,
+                "name": "png/dikuang_00003"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/dikuang_00005"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/dikuang_00007"
+              },
+              {
+                "time": 0.3,
+                "name": "png/dikuang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/dikuang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/dikuang_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/dikuang_00014"
+              }
+            ]
+          },
+          "png/gaojikuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/zjkuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "gaoji": {
+        "slots": {
+          "png/dikuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/gaojikuang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/gaojikuang_00000"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/gaojikuang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/gaojikuang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/gaojikuang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/gaojikuang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/gaojikuang_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/gaojikuang_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/gaojikuang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/gaojikuang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/gaojikuang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/gaojikuang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/gaojikuang_00012"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/gaojikuang_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/gaojikuang_00015"
+              }
+            ]
+          },
+          "png/zjkuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "zhongji": {
+        "slots": {
+          "png/dikuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/gaojikuang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/zjkuang_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/zjkuang_00000"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/zjkuang_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/zjkuang_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/zjkuang_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/zjkuang_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/zjkuang_00006"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/zjkuang_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/zjkuang_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/zjkuang_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/zjkuang_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/zjkuang_00012"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/zjkuang_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/zjkuang_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/zjkuang_00016"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/zjkuang_00017"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_kuangbao.png\r\nsize: 1220,1094\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/dikuang_00000\r\n  rotate: false\r\n  xy: 2, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00001\r\n  rotate: false\r\n  xy: 176, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00003\r\n  rotate: false\r\n  xy: 350, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00005\r\n  rotate: false\r\n  xy: 524, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00007\r\n  rotate: false\r\n  xy: 698, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00009\r\n  rotate: false\r\n  xy: 872, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00010\r\n  rotate: false\r\n  xy: 1046, 920\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00012\r\n  rotate: false\r\n  xy: 2, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/dikuang_00014\r\n  rotate: false\r\n  xy: 176, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00000\r\n  rotate: false\r\n  xy: 524, 382\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00002\r\n  rotate: false\r\n  xy: 727, 382\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00003\r\n  rotate: false\r\n  xy: 930, 382\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00004\r\n  rotate: false\r\n  xy: 2, 208\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00005\r\n  rotate: false\r\n  xy: 205, 208\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00006\r\n  rotate: false\r\n  xy: 408, 192\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00007\r\n  rotate: false\r\n  xy: 611, 192\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00008\r\n  rotate: false\r\n  xy: 814, 192\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00009\r\n  rotate: false\r\n  xy: 1017, 192\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00010\r\n  rotate: false\r\n  xy: 2, 18\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00011\r\n  rotate: false\r\n  xy: 205, 18\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00012\r\n  rotate: false\r\n  xy: 408, 2\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00014\r\n  rotate: false\r\n  xy: 611, 2\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/gaojikuang_00015\r\n  rotate: false\r\n  xy: 814, 2\r\n  size: 201, 188\r\n  orig: 201, 188\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00000\r\n  rotate: false\r\n  xy: 350, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00002\r\n  rotate: false\r\n  xy: 524, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00003\r\n  rotate: false\r\n  xy: 698, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00004\r\n  rotate: false\r\n  xy: 872, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00005\r\n  rotate: false\r\n  xy: 1046, 746\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00006\r\n  rotate: false\r\n  xy: 2, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00008\r\n  rotate: false\r\n  xy: 176, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00009\r\n  rotate: false\r\n  xy: 350, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00010\r\n  rotate: false\r\n  xy: 524, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00011\r\n  rotate: false\r\n  xy: 698, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00012\r\n  rotate: false\r\n  xy: 872, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00014\r\n  rotate: false\r\n  xy: 1046, 572\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00015\r\n  rotate: false\r\n  xy: 2, 398\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00016\r\n  rotate: false\r\n  xy: 176, 398\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\npng/zjkuang_00017\r\n  rotate: false\r\n  xy: 350, 398\r\n  size: 172, 172\r\n  orig: 172, 172\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "01c59919-43c0-4c76-9947-359b414c185b"
+    }
+  ],
+  "textureNames": [
+    "anim_kuangbao.png"
+  ],
+  "scale": 1
+}

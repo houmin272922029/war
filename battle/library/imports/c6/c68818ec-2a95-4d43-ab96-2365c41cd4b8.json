@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_light_01",
+    "texture": "0f28ede8-3e10-449d-916b-1f2f7e909807",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      28
+    ],
+    "capInsets": [
+      43,
+      0,
+      38,
+      0
+    ]
+  }
+}

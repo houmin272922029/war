@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huanpao_name_normal_09",
+    "texture": "d469d639-7290-42cc-8ec6-4b1774afab86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

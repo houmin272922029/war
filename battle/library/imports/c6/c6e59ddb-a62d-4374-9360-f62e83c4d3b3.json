@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_leizhupaiming_weichansheng_01",
+    "texture": "55084713-e40c-4857-9ee5-e8f574d3b3bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      663,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      663,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

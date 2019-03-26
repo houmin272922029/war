@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_paotaikuang_03",
+    "texture": "c2f86bb6-0f79-44f5-9535-fb49bb44d356",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      285
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      285
+    ],
+    "capInsets": [
+      202,
+      39,
+      26,
+      41
+    ]
+  }
+}

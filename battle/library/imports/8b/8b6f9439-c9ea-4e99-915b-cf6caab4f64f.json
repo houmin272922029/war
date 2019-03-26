@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojuzengsong_haoyoukuang_01",
+    "texture": "5699a8bd-2a99-4680-88d8-a826c1229a58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      92
+    ],
+    "capInsets": [
+      30,
+      30,
+      30,
+      30
+    ]
+  }
+}

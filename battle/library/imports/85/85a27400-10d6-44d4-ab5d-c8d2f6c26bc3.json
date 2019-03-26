@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huanpao_biaoti_light_01",
+    "texture": "8b34ab16-5b86-43f1-9754-7a3a4ef68e3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1021,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1021,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

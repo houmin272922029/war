@@ -1,0 +1,27 @@
+
+anim_mubiaoyu.png
+size: 163,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/liguang
+  rotate: false
+  xy: 93, 33
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+png/quan
+  rotate: false
+  xy: 2, 13
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+png/xx
+  rotate: false
+  xy: 93, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

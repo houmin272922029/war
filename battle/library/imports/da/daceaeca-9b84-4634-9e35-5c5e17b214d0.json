@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_shuoming_01",
+    "texture": "54f4a908-f938-4d1c-bf19-35eabd5c4eb8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

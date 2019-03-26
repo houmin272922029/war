@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_shangsheng_01",
+    "texture": "811678ef-9de9-438c-aa4e-4e3fc871ed21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      27,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      27,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

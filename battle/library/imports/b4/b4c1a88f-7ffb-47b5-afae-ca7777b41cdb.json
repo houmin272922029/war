@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cifu_qianwang_01",
+    "texture": "d903f083-b278-4fb3-ab68-bea42a204512",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

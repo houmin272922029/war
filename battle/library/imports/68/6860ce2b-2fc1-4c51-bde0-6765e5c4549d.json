@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_jiazaitiao_01",
+    "texture": "9e10de63-2215-44e8-bce6-22426d3cb96b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      39
+    ],
+    "capInsets": [
+      24,
+      0,
+      25,
+      0
+    ]
+  }
+}

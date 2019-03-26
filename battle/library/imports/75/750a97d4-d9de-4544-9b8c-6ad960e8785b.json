@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_miaozhun",
+    "texture": "f2d85120-3598-4827-a034-21ad9a26c887",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      194,
+      194
+    ],
+    "offset": [
+      -28,
+      28
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_pangxie",
+    "texture": "ebb4bbfc-6de4-46e4-9594-e3bed2df0ad3",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      59,
+      58
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      60,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

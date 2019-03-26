@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3b87e78f-2fed-4d47-b9ce-bbe9f5289db7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_youxiang_kabishou_01": {
+      "ver": "1.0.3",
+      "uuid": "6bd7737c-f429-4d4c-b5a0-b76768ff3fd7",
+      "rawTextureUuid": "3b87e78f-2fed-4d47-b9ce-bbe9f5289db7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 184,
+      "height": 171,
+      "rawWidth": 186,
+      "rawHeight": 173,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

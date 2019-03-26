@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_yueka_01",
+    "texture": "0da6f86c-9d39-4bfb-b7dc-0b01d492b128",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_guzulingjiang1",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "8ks6M7tfjNEnnCxMLprhJi/5FLw",
+      "spine": "3.6.53",
+      "width": 85,
+      "height": 84,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone10",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/xingxing/xxsuo_0",
+        "bone": "bone10",
+        "attachment": "png/xingxing/xxsuo_9",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/xingxing/xxsuo_0": {
+          "png/xingxing/xxsuo_0": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_1": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_3": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_5": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_7": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_9": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_11": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_13": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_15": {
+            "width": 85,
+            "height": 84
+          },
+          "png/xingxing/xxsuo_17": {
+            "width": 85,
+            "height": 84
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation1": {
+        "slots": {
+          "png/xingxing/xxsuo_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/xingxing/xxsuo_0"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/xingxing/xxsuo_1"
+              },
+              {
+                "time": 0.1,
+                "name": "png/xingxing/xxsuo_3"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/xingxing/xxsuo_5"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/xingxing/xxsuo_7"
+              },
+              {
+                "time": 0.3,
+                "name": "png/xingxing/xxsuo_9"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/xingxing/xxsuo_11"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/xingxing/xxsuo_13"
+              },
+              {
+                "time": 0.5,
+                "name": "png/xingxing/xxsuo_15"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/xingxing/xxsuo_17"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone10": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_guzulingjiang1.png\r\nsize: 402,166\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/xingxing/xxsuo_0\r\n  rotate: false\r\n  xy: 324, 86\r\n  size: 78, 80\r\n  orig: 85, 84\r\n  offset: 3, 3\r\n  index: -1\r\npng/xingxing/xxsuo_1\r\n  rotate: false\r\n  xy: 324, 4\r\n  size: 78, 80\r\n  orig: 85, 84\r\n  offset: 3, 3\r\n  index: -1\r\npng/xingxing/xxsuo_11\r\n  rotate: false\r\n  xy: 0, 84\r\n  size: 79, 82\r\n  orig: 85, 84\r\n  offset: 3, 1\r\n  index: -1\r\npng/xingxing/xxsuo_13\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 79, 82\r\n  orig: 85, 84\r\n  offset: 3, 1\r\n  index: -1\r\npng/xingxing/xxsuo_15\r\n  rotate: false\r\n  xy: 81, 84\r\n  size: 79, 82\r\n  orig: 85, 84\r\n  offset: 3, 1\r\n  index: -1\r\npng/xingxing/xxsuo_17\r\n  rotate: false\r\n  xy: 81, 0\r\n  size: 79, 82\r\n  orig: 85, 84\r\n  offset: 3, 1\r\n  index: -1\r\npng/xingxing/xxsuo_3\r\n  rotate: false\r\n  xy: 162, 2\r\n  size: 79, 81\r\n  orig: 85, 84\r\n  offset: 3, 2\r\n  index: -1\r\npng/xingxing/xxsuo_5\r\n  rotate: false\r\n  xy: 243, 85\r\n  size: 79, 81\r\n  orig: 85, 84\r\n  offset: 3, 2\r\n  index: -1\r\npng/xingxing/xxsuo_7\r\n  rotate: false\r\n  xy: 243, 2\r\n  size: 79, 81\r\n  orig: 85, 84\r\n  offset: 3, 2\r\n  index: -1\r\npng/xingxing/xxsuo_9\r\n  rotate: false\r\n  xy: 162, 85\r\n  size: 79, 81\r\n  orig: 85, 84\r\n  offset: 3, 2\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "cc810bda-5ee9-44b6-a666-5daed363324b"
+    }
+  ],
+  "textureNames": [
+    "anim_guzulingjiang1.png"
+  ],
+  "scale": 1
+}

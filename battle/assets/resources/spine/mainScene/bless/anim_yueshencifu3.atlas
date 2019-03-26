@@ -1,0 +1,160 @@
+
+anim_yueshencifu3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg/lg_00000
+  rotate: false
+  xy: 84, 0
+  size: 65, 82
+  orig: 100, 100
+  offset: 6, 12
+  index: -1
+lg/lg_00001
+  rotate: true
+  xy: 689, 173
+  size: 75, 81
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+lg/lg_00002
+  rotate: false
+  xy: 0, 8
+  size: 84, 80
+  orig: 100, 100
+  offset: 6, 14
+  index: -1
+lg/lg_00003
+  rotate: false
+  xy: 0, 169
+  size: 88, 79
+  orig: 100, 100
+  offset: 6, 15
+  index: -1
+lg/lg_00004
+  rotate: false
+  xy: 520, 178
+  size: 87, 70
+  orig: 100, 100
+  offset: 7, 24
+  index: -1
+lg/lg_00005
+  rotate: true
+  xy: 149, 1
+  size: 84, 60
+  orig: 100, 100
+  offset: 10, 34
+  index: -1
+lg/lg_00006
+  rotate: false
+  xy: 607, 178
+  size: 82, 70
+  orig: 100, 100
+  offset: 12, 24
+  index: -1
+lg/lg_00007
+  rotate: true
+  xy: 851, 172
+  size: 76, 80
+  orig: 100, 100
+  offset: 18, 14
+  index: -1
+lg/lg_00008
+  rotate: true
+  xy: 347, 176
+  size: 72, 86
+  orig: 100, 100
+  offset: 22, 7
+  index: -1
+lg/lg_00009
+  rotate: false
+  xy: 84, 82
+  size: 61, 87
+  orig: 100, 100
+  offset: 33, 6
+  index: -1
+lg/lg_00010
+  rotate: false
+  xy: 145, 85
+  size: 59, 85
+  orig: 100, 100
+  offset: 35, 6
+  index: -1
+lg/lg_00011
+  rotate: false
+  xy: 269, 22
+  size: 65, 82
+  orig: 100, 100
+  offset: 28, 6
+  index: -1
+lg/lg_00012
+  rotate: true
+  xy: 770, 172
+  size: 76, 81
+  orig: 100, 100
+  offset: 17, 6
+  index: -1
+lg/lg_00013
+  rotate: false
+  xy: 0, 88
+  size: 84, 81
+  orig: 100, 100
+  offset: 9, 6
+  index: -1
+lg/lg_00014
+  rotate: false
+  xy: 174, 173
+  size: 87, 75
+  orig: 100, 100
+  offset: 6, 6
+  index: -1
+lg/lg_00015
+  rotate: false
+  xy: 433, 177
+  size: 87, 71
+  orig: 100, 100
+  offset: 5, 6
+  index: -1
+lg/lg_00016
+  rotate: true
+  xy: 209, 5
+  size: 84, 60
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lg/lg_00017
+  rotate: false
+  xy: 263, 104
+  size: 81, 70
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lg/lg_00018
+  rotate: true
+  xy: 931, 170
+  size: 78, 80
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lg/lg_00019
+  rotate: true
+  xy: 88, 170
+  size: 78, 86
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+lg/lg_00020
+  rotate: true
+  xy: 261, 174
+  size: 74, 86
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+lg/lg_00021
+  rotate: false
+  xy: 204, 89
+  size: 59, 84
+  orig: 100, 100
+  offset: 5, 10
+  index: -1

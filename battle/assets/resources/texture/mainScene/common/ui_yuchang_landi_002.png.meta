@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9c4571e4-a488-4d8f-a9ae-ca5802ec2ebc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yuchang_landi_002": {
+      "ver": "1.0.3",
+      "uuid": "161fd641-d2c2-4a1b-9ff5-1e90a90f7520",
+      "rawTextureUuid": "9c4571e4-a488-4d8f-a9ae-ca5802ec2ebc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 175,
+      "height": 64,
+      "rawWidth": 175,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_zhuvip",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "z8SoJRaTKWp3E4ePhZAomxHeb6o",
+      "spine": "3.6.53",
+      "width": 128,
+      "height": 128,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/saog_00000",
+        "bone": "bone3",
+        "blend": "additive"
+      },
+      {
+        "name": "png/chi_00000",
+        "bone": "bone2",
+        "attachment": "png/chi_00022",
+        "blend": "additive"
+      },
+      {
+        "name": "png/chi_0",
+        "bone": "bone5",
+        "attachment": "png/chi_00022",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/chi_0": {
+          "png/chi_00000": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00001": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00003": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00004": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00005": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00007": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00008": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00009": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00010": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00011": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00013": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00014": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00015": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00016": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00017": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00019": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00020": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00021": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00022": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/chi_00000": {
+          "png/chi_00000": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00001": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00003": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00004": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00005": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00007": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00008": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00009": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00010": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00011": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00013": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00014": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00015": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00017": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00018": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00019": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00020": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00021": {
+            "width": 128,
+            "height": 128
+          },
+          "png/chi_00022": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/saog_00000": {
+          "png/saog_00001": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00003": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00004": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00006": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00007": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00008": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00010": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00011": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00012": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00014": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00015": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00016": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00018": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00019": {
+            "width": 128,
+            "height": 128
+          },
+          "png/saog_00021": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/chi_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/chi_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/chi_00001"
+              },
+              {
+                "time": 0.1,
+                "name": "png/chi_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/chi_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/chi_00005"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/chi_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/chi_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/chi_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/chi_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/chi_00011"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/chi_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/chi_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/chi_00015"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/chi_00017"
+              },
+              {
+                "time": 0.6,
+                "name": "png/chi_00018"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/chi_00019"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/chi_00020"
+              },
+              {
+                "time": 0.7,
+                "name": "png/chi_00021"
+              },
+              {
+                "time": 0.7333,
+                "name": "png/chi_00022"
+              }
+            ]
+          },
+          "png/chi_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/chi_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/chi_00001"
+              },
+              {
+                "time": 0.1,
+                "name": "png/chi_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/chi_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/chi_00005"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/chi_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/chi_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/chi_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/chi_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/chi_00011"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/chi_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/chi_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/chi_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/chi_00016"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/chi_00017"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/chi_00019"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/chi_00020"
+              },
+              {
+                "time": 0.7,
+                "name": "png/chi_00021"
+              },
+              {
+                "time": 0.7333,
+                "name": "png/chi_00022"
+              }
+            ]
+          },
+          "png/saog_00000": {
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": "png/saog_00001"
+              },
+              {
+                "time": 0.1,
+                "name": "png/saog_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/saog_00004"
+              },
+              {
+                "time": 0.2,
+                "name": "png/saog_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/saog_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/saog_00008"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/saog_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/saog_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/saog_00012"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/saog_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/saog_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/saog_00016"
+              },
+              {
+                "time": 0.6,
+                "name": "png/saog_00018"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/saog_00019"
+              },
+              {
+                "time": 0.7,
+                "name": "png/saog_00021"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -1.65,
+                "y": -2.06
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 129.76
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -23.72,
+                "y": 9.84
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.704,
+                "y": 0.748
+              }
+            ]
+          },
+          "bone5": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 26.13
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 26.74,
+                "y": 5.63
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": -0.7,
+                "y": 0.748
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_zhuvip.png\r\nsize: 794,354\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/chi_00000\r\n  rotate: false\r\n  xy: 2, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00001\r\n  rotate: false\r\n  xy: 2, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00003\r\n  rotate: false\r\n  xy: 90, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00004\r\n  rotate: false\r\n  xy: 2, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00005\r\n  rotate: false\r\n  xy: 90, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00007\r\n  rotate: false\r\n  xy: 178, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00008\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00009\r\n  rotate: false\r\n  xy: 90, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00010\r\n  rotate: false\r\n  xy: 178, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00011\r\n  rotate: false\r\n  xy: 266, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00013\r\n  rotate: false\r\n  xy: 90, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00014\r\n  rotate: false\r\n  xy: 178, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00015\r\n  rotate: false\r\n  xy: 266, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00016\r\n  rotate: false\r\n  xy: 354, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00017\r\n  rotate: false\r\n  xy: 178, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00018\r\n  rotate: false\r\n  xy: 266, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00019\r\n  rotate: false\r\n  xy: 354, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00020\r\n  rotate: false\r\n  xy: 442, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00021\r\n  rotate: false\r\n  xy: 266, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/chi_00022\r\n  rotate: false\r\n  xy: 354, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00001\r\n  rotate: false\r\n  xy: 442, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00003\r\n  rotate: false\r\n  xy: 530, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00004\r\n  rotate: false\r\n  xy: 354, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00006\r\n  rotate: false\r\n  xy: 442, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00007\r\n  rotate: false\r\n  xy: 530, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00008\r\n  rotate: false\r\n  xy: 618, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00010\r\n  rotate: false\r\n  xy: 442, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00011\r\n  rotate: false\r\n  xy: 530, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00012\r\n  rotate: false\r\n  xy: 618, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00014\r\n  rotate: false\r\n  xy: 706, 266\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00015\r\n  rotate: false\r\n  xy: 530, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00016\r\n  rotate: false\r\n  xy: 618, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00018\r\n  rotate: false\r\n  xy: 706, 178\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00019\r\n  rotate: false\r\n  xy: 618, 2\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\npng/saog_00021\r\n  rotate: false\r\n  xy: 706, 90\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3671fc72-754d-4045-9c9f-76cae115b3d7"
+    }
+  ],
+  "textureNames": [
+    "anim_zhuvip.png"
+  ],
+  "scale": 1
+}

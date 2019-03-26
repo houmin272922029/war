@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gerenxinxi_duigou_01",
+    "texture": "5433cea3-5571-47d3-bc18-c5a0b8877fc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+
+anim_meirenyudaiji.png
+size: 365,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+31
+  rotate: true
+  xy: 2, 2
+  size: 278, 323
+  orig: 278, 323
+  offset: 0, 0
+  index: -1
+shengbozi
+  rotate: true
+  xy: 327, 182
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+yinfu
+  rotate: false
+  xy: 327, 122
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: true
+  xy: 327, 26
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+yinfu2
+  rotate: false
+  xy: 327, 71
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1

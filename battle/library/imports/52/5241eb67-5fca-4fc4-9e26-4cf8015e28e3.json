@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_xiaoxingxing_01",
+    "texture": "d9ef241d-95e5-49a3-b35e-52292edb98ec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

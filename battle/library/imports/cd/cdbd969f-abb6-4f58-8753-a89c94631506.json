@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingjichang_kaiqishijian_01",
+    "texture": "da931b50-fb00-465e-96e5-82a626146b3b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

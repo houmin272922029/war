@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_wanfashuoming_02",
+    "texture": "4dfb3ab9-8149-4767-ae44-b0b3d50f06d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

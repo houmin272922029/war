@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4e46aea1-3350-4c90-9d05-3f6928723c06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_boshibaoxiang": {
+      "ver": "1.0.3",
+      "uuid": "4ba40216-b3bd-4c85-9ef6-c5ac7638d7de",
+      "rawTextureUuid": "4e46aea1-3350-4c90-9d05-3f6928723c06",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 67.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 969,
+      "height": 393,
+      "rawWidth": 969,
+      "rawHeight": 528,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

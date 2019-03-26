@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "962c7f06-35b9-405e-b05f-4f05ade4e2dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yueka_diban_01": {
+      "ver": "1.0.3",
+      "uuid": "9848a292-8720-4ba8-ba29-283d3c385d6e",
+      "rawTextureUuid": "962c7f06-35b9-405e-b05f-4f05ade4e2dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 646,
+      "height": 422,
+      "rawWidth": 646,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

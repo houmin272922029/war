@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_cell_01",
+    "texture": "872c283a-f2f2-473f-ab75-64b4c8f4229b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      211,
+      211
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      211,
+      211
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

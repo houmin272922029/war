@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_dengji_jindu_001",
+    "texture": "758a133f-d2c7-459d-8030-2bed07f5067b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      17
+    ],
+    "capInsets": [
+      50,
+      0,
+      50,
+      0
+    ]
+  }
+}

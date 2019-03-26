@@ -1,0 +1,13 @@
+
+anim_daojishi.png
+size: 321,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light01
+  rotate: false
+  xy: 2, 2
+  size: 317, 157
+  orig: 317, 157
+  offset: 0, 0
+  index: -1

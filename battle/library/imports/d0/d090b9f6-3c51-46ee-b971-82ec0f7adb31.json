@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jiesuan_cuoguo_01",
+    "texture": "1689f82c-8694-43d7-bc22-e6be73e9033c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

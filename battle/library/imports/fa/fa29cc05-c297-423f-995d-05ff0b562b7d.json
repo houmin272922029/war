@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_zhuangpan_01",
+    "texture": "4f1a4445-c0b9-41b9-b165-8a48eec48841",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_guzulingjiang",
+    "texture": "cb988609-3dba-4f71-be0d-6c8062839e42",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      854,
+      895
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      856,
+      896
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

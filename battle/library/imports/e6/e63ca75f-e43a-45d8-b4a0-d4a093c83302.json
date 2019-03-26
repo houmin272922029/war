@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_shengji_01",
+    "texture": "479ad6ef-48d9-4cfe-b4db-5bf2fa71b76c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

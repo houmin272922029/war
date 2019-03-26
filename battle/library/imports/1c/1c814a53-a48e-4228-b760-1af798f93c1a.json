@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jiangli",
+    "texture": "30df8759-83ff-46f5-bf23-0ab06dc85de2",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      817,
+      249
+    ],
+    "offset": [
+      -101.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

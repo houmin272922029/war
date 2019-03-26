@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_fenxiangchenggong_01",
+    "texture": "57c21559-b7e6-40b3-8fb3-8693755c7393",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

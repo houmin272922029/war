@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a4a11697-33c5-4929-882f-aaa459528cff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_youxiang_dangqianmeixiaoxi_01": {
+      "ver": "1.0.3",
+      "uuid": "23b05385-3965-40e9-9bee-07ad7826ff2f",
+      "rawTextureUuid": "a4a11697-33c5-4929-882f-aaa459528cff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 176,
+      "height": 25,
+      "rawWidth": 176,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

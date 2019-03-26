@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_haidi_01",
+    "texture": "3192c7f2-3dde-41a6-ad7a-554b37ef9d39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1045,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1045,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

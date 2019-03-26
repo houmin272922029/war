@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ab5fcd55-05d4-4545-9e0d-7b40b9e70b25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shrimp_tishi_01": {
+      "ver": "1.0.3",
+      "uuid": "bdbad993-bc50-4fdd-b75d-a87a17e06a02",
+      "rawTextureUuid": "ab5fcd55-05d4-4545-9e0d-7b40b9e70b25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 43,
+      "height": 43,
+      "rawWidth": 43,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

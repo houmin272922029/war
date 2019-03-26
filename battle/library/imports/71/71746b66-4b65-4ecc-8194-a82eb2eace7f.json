@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_dengdai_01",
+    "texture": "acb8d998-7e01-445a-b4d3-602a9c99d45e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

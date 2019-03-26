@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinhaima",
+    "texture": "a4246fb4-be4a-40d5-a5dd-236d524486a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

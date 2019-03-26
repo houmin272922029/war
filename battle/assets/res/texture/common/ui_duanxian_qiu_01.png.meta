@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "74cef3fb-6c44-4446-a258-42a385f20e66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_duanxian_qiu_01": {
+      "ver": "1.0.3",
+      "uuid": "3bf103de-ab9e-4f18-b614-cf25a05eef93",
+      "rawTextureUuid": "74cef3fb-6c44-4446-a258-42a385f20e66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 38,
+      "height": 34,
+      "rawWidth": 38,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

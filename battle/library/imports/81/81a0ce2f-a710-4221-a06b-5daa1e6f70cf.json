@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xuanshang_mianban_02",
+    "texture": "ae95f211-a1b3-4e83-97cf-f0cdd9e69152",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

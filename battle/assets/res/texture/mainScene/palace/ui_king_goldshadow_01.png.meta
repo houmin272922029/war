@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0ce9760f-10da-4fe4-884d-59f543a9c22f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_goldshadow_01": {
+      "ver": "1.0.3",
+      "uuid": "fbc424f9-aee0-4229-9434-f793ad38111b",
+      "rawTextureUuid": "0ce9760f-10da-4fe4-884d-59f543a9c22f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 160,
+      "height": 132,
+      "rawWidth": 160,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

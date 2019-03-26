@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_longguiwanfa",
+    "texture": "a5049585-1377-4ae2-9ccf-6faa55bc78d4",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2029,
+      1691
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2033,
+      1695
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

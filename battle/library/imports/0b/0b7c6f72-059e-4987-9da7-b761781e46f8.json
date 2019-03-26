@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeisai_zhanling_01",
+    "texture": "28c9afe2-460d-4294-90ab-fa3c6618fd84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

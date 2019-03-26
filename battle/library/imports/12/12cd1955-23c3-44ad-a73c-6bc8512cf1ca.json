@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_chakantequan_01",
+    "texture": "f5dc048a-7ef2-47f5-8996-74310d4d3f9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

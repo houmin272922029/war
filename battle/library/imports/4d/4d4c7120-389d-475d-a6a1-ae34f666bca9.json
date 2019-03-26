@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinshayu_anim_die",
+    "texture": "0ec5d644-cb2f-45b2-a12d-b5a98ebb3186",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      452,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      456,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

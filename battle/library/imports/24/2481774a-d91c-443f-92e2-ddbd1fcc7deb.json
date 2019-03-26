@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_shuzi_01",
+    "texture": "4437e0e4-504f-441d-b470-417f482bd741",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

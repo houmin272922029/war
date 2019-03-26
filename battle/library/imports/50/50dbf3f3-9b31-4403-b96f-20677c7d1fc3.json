@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_rewardlevel_09",
+    "texture": "dce1c1c8-b920-427d-bb39-d00a378af9e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

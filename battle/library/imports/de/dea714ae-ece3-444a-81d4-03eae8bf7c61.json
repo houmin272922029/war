@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingji_biaoti_01",
+    "texture": "c84e1d27-17ef-4086-bf3a-ad3a3e27261e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      192,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      192,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

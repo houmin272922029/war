@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fbc3e0a3-11da-4b39-aa44-9cc600b3a41d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_beibao_zhuanhuan_01": {
+      "ver": "1.0.3",
+      "uuid": "fb3d4914-0e38-400d-96ca-1bf78827aab3",
+      "rawTextureUuid": "fbc3e0a3-11da-4b39-aa44-9cc600b3a41d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 40,
+      "rawWidth": 81,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

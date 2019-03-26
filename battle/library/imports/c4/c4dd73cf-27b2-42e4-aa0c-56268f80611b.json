@@ -1,0 +1,459 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_hongzhaji",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ovUiwlqth8SsWvoQMxbXys0Ovro",
+      "spine": "3.6.53",
+      "width": 906,
+      "height": 815,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "轰炸机/png/kuo_0",
+        "bone": "bone3",
+        "attachment": "轰炸机/png/kuo_0"
+      },
+      {
+        "name": "轰炸机/png/quansgb_0",
+        "bone": "bone2",
+        "attachment": "轰炸机/png/quansgb_0"
+      },
+      {
+        "name": "轰炸机/png/baozha_0",
+        "bone": "bone4",
+        "attachment": "轰炸机/png/baozha_0"
+      },
+      {
+        "name": "轰炸机/png/shanguang_0",
+        "bone": "bone5",
+        "attachment": "轰炸机/png/shanguang_0",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "轰炸机/png/baozha_0": {
+          "轰炸机/png/baozha_0": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_2": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_3": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_4": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_5": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_6": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_7": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_8": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_9": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_10": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_11": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_12": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_13": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_14": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_15": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_16": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_17": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_18": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_19": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_20": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_22": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_23": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_25": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_26": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_28": {
+            "width": 238,
+            "height": 222
+          },
+          "轰炸机/png/baozha_30": {
+            "width": 238,
+            "height": 222
+          }
+        },
+        "轰炸机/png/kuo_0": {
+          "轰炸机/png/kuo_0": {
+            "width": 262,
+            "height": 261
+          }
+        },
+        "轰炸机/png/quansgb_0": {
+          "轰炸机/png/quansgb_0": {
+            "width": 906,
+            "height": 815
+          }
+        },
+        "轰炸机/png/shanguang_0": {
+          "轰炸机/png/shanguang_0": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "轰炸机/png/baozha_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "轰炸机/png/baozha_0"
+              },
+              {
+                "time": 0.0667,
+                "name": "轰炸机/png/baozha_2"
+              },
+              {
+                "time": 0.1,
+                "name": "轰炸机/png/baozha_3"
+              },
+              {
+                "time": 0.1333,
+                "name": "轰炸机/png/baozha_4"
+              },
+              {
+                "time": 0.1667,
+                "name": "轰炸机/png/baozha_5"
+              },
+              {
+                "time": 0.2,
+                "name": "轰炸机/png/baozha_6"
+              },
+              {
+                "time": 0.2333,
+                "name": "轰炸机/png/baozha_7"
+              },
+              {
+                "time": 0.2667,
+                "name": "轰炸机/png/baozha_8"
+              },
+              {
+                "time": 0.3,
+                "name": "轰炸机/png/baozha_9"
+              },
+              {
+                "time": 0.3333,
+                "name": "轰炸机/png/baozha_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "轰炸机/png/baozha_11"
+              },
+              {
+                "time": 0.4,
+                "name": "轰炸机/png/baozha_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "轰炸机/png/baozha_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "轰炸机/png/baozha_14"
+              },
+              {
+                "time": 0.5,
+                "name": "轰炸机/png/baozha_15"
+              },
+              {
+                "time": 0.5333,
+                "name": "轰炸机/png/baozha_16"
+              },
+              {
+                "time": 0.5667,
+                "name": "轰炸机/png/baozha_17"
+              },
+              {
+                "time": 0.6,
+                "name": "轰炸机/png/baozha_18"
+              },
+              {
+                "time": 0.6333,
+                "name": "轰炸机/png/baozha_19"
+              },
+              {
+                "time": 0.6667,
+                "name": "轰炸机/png/baozha_20"
+              },
+              {
+                "time": 0.7333,
+                "name": "轰炸机/png/baozha_22"
+              },
+              {
+                "time": 0.7667,
+                "name": "轰炸机/png/baozha_23"
+              },
+              {
+                "time": 0.8333,
+                "name": "轰炸机/png/baozha_25"
+              },
+              {
+                "time": 0.8667,
+                "name": "轰炸机/png/baozha_26"
+              },
+              {
+                "time": 0.9333,
+                "name": "轰炸机/png/baozha_28"
+              },
+              {
+                "time": 1,
+                "name": "轰炸机/png/baozha_30"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              }
+            ]
+          },
+          "轰炸机/png/kuo_0": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "轰炸机/png/kuo_0"
+              }
+            ]
+          },
+          "轰炸机/png/quansgb_0": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffff7e"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "轰炸机/png/quansgb_0"
+              }
+            ]
+          },
+          "轰炸机/png/shanguang_0": {
+            "color": [
+              {
+                "time": 0.4,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1,
+                "name": "轰炸机/png/shanguang_0"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone4": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 4,
+                "y": 4
+              }
+            ]
+          },
+          "bone3": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "time": 0.1333,
+                "x": 2.66,
+                "y": 2.66
+              },
+              {
+                "time": 0.7333,
+                "x": 6.88,
+                "y": 6.88
+              }
+            ]
+          },
+          "bone2": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 2.982,
+                "y": 2.53
+              }
+            ]
+          },
+          "bone5": {
+            "scale": [
+              {
+                "time": 0.1,
+                "x": 9.61,
+                "y": 9.6
+              },
+              {
+                "time": 0.1333,
+                "x": 15.37,
+                "y": 15.37
+              },
+              {
+                "time": 0.2,
+                "x": 2.97,
+                "y": 2.97
+              },
+              {
+                "time": 0.2333,
+                "x": 12.65,
+                "y": 12.65
+              },
+              {
+                "time": 0.2667,
+                "x": 8.71,
+                "y": 8.71
+              },
+              {
+                "time": 0.3333,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_hongzhaji.png\r\nsize: 1416,757\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n轰炸机/png/baozha_0\r\n  rotate: false\r\n  xy: 611, 606\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_10\r\n  rotate: false\r\n  xy: 933, 455\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_11\r\n  rotate: false\r\n  xy: 1094, 606\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_12\r\n  rotate: false\r\n  xy: 933, 304\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_13\r\n  rotate: false\r\n  xy: 1094, 455\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_14\r\n  rotate: false\r\n  xy: 1255, 606\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_15\r\n  rotate: false\r\n  xy: 1094, 304\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_16\r\n  rotate: false\r\n  xy: 1255, 455\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_17\r\n  rotate: false\r\n  xy: 1255, 304\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_18\r\n  rotate: false\r\n  xy: 502, 58\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_19\r\n  rotate: false\r\n  xy: 663, 153\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_2\r\n  rotate: false\r\n  xy: 180, 58\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_20\r\n  rotate: false\r\n  xy: 824, 153\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_22\r\n  rotate: false\r\n  xy: 985, 153\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_23\r\n  rotate: false\r\n  xy: 1146, 153\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_25\r\n  rotate: false\r\n  xy: 663, 2\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_26\r\n  rotate: false\r\n  xy: 824, 2\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_28\r\n  rotate: false\r\n  xy: 985, 2\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_3\r\n  rotate: false\r\n  xy: 611, 455\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_30\r\n  rotate: false\r\n  xy: 1146, 2\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_4\r\n  rotate: false\r\n  xy: 772, 606\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_5\r\n  rotate: false\r\n  xy: 341, 58\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_6\r\n  rotate: false\r\n  xy: 611, 304\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_7\r\n  rotate: false\r\n  xy: 772, 455\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_8\r\n  rotate: false\r\n  xy: 933, 606\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/baozha_9\r\n  rotate: false\r\n  xy: 772, 304\r\n  size: 159, 149\r\n  orig: 159, 149\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/kuo_0\r\n  rotate: false\r\n  xy: 2, 32\r\n  size: 176, 175\r\n  orig: 176, 175\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/quansgb_0\r\n  rotate: false\r\n  xy: 2, 209\r\n  size: 607, 546\r\n  orig: 607, 546\r\n  offset: 0, 0\r\n  index: -1\r\n轰炸机/png/shanguang_0\r\n  rotate: false\r\n  xy: 1307, 216\r\n  size: 86, 86\r\n  orig: 86, 86\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "b8c20db8-e666-418d-b69f-07b42307c181"
+    }
+  ],
+  "textureNames": [
+    "anim_hongzhaji.png"
+  ],
+  "scale": 1
+}

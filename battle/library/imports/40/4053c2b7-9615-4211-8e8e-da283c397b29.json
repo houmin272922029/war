@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shrimp_mianban_02",
+    "texture": "6ab23ff0-a047-4910-b785-714bb003bc30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      60
+    ],
+    "capInsets": [
+      46,
+      31,
+      51,
+      19
+    ]
+  }
+}

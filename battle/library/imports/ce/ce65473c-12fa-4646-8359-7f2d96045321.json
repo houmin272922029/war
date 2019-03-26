@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jineng_suoding_02",
+    "texture": "2003bd79-8594-42bf-914a-e614d671eae3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

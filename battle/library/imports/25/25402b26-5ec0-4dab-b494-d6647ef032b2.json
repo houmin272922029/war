@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_tongyong_03",
+    "texture": "df433313-e0e2-45fd-b037-fa15d44fc14d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

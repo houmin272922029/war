@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "77f0986b-6016-42ac-a6d5-eb942c629874",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_viptequan_caidai_01": {
+      "ver": "1.0.3",
+      "uuid": "d7be6565-0b8f-44d6-bb43-7a5d3c7a4df0",
+      "rawTextureUuid": "77f0986b-6016-42ac-a6d5-eb942c629874",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 588,
+      "height": 110,
+      "rawWidth": 590,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank5_normal",
+    "texture": "fabccede-583d-4926-bdc3-4490148e7f0a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

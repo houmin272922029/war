@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jingjichang_lijikaishi_01",
+    "texture": "f3ff41a8-d72f-4959-8cce-9e748c17f0ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      258,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

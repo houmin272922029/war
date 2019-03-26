@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8d620bca-856f-43ee-a1cf-8102436f7be2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_youxiang_haimeishoudao_01": {
+      "ver": "1.0.3",
+      "uuid": "2db5ea8b-a587-4a9a-a78c-b960c2e80659",
+      "rawTextureUuid": "8d620bca-856f-43ee-a1cf-8102436f7be2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 23,
+      "rawWidth": 193,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

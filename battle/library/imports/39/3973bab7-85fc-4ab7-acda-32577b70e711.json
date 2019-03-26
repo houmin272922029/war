@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojuzengsong_huadonganniu_03",
+    "texture": "6d990ba7-07c5-4a1b-94e1-80c415670bd3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

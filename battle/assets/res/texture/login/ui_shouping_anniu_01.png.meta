@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0e6d3863-d954-4f41-a963-949858d05a30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shouping_anniu_01": {
+      "ver": "1.0.3",
+      "uuid": "534daccd-4a2c-4748-bdf2-e55aaa68caa5",
+      "rawTextureUuid": "0e6d3863-d954-4f41-a963-949858d05a30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 282,
+      "height": 111,
+      "rawWidth": 282,
+      "rawHeight": 111,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

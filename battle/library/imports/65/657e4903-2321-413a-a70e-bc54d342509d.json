@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_mianban_02",
+    "texture": "303d6fc3-e947-43cb-89b1-09fc8f322f7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      62
+    ],
+    "capInsets": [
+      19,
+      20,
+      20,
+      21
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_haima",
+    "texture": "01b86d2e-caec-4802-ac6f-134fa6c7cae2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

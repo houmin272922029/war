@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_beibao_01",
+    "texture": "0145e648-5367-40db-810c-9dcecbc7b9b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

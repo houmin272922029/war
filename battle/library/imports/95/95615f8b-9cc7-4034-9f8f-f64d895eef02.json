@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duanxian_tishi_01",
+    "texture": "2ed67cfc-ab30-4432-8f8b-2393d401fd0c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      443,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      443,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

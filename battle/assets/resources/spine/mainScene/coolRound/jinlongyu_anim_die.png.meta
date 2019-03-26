@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "27f1dadb-1e8f-4279-a410-32f48764486f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinlongyu_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "c755ab70-e853-4475-9ef7-6452eb73e259",
+      "rawTextureUuid": "27f1dadb-1e8f-4279-a410-32f48764486f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 423,
+      "height": 167,
+      "rawWidth": 427,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

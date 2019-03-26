@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zhujiemain_touxiangkuan_01",
+    "texture": "60ed28d7-e0a0-450f-8644-79ba2c21984d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

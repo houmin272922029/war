@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jindu_zidantuo_01",
+    "texture": "d817a872-480a-4f9f-9940-84ecd842c091",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

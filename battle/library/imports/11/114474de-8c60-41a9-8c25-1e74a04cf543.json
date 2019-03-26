@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xiaoyouxi_kuang_02",
+    "texture": "65cb3213-3e73-481a-ba1c-1d5dc707ffe0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      614,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      614,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

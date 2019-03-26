@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_youxiang_kabishou_01",
+    "texture": "3b87e78f-2fed-4d47-b9ce-bbe9f5289db7",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      184,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

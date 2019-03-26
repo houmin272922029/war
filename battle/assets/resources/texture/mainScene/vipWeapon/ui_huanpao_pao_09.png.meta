@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "625cae0c-5cf7-4b3e-84dc-66066ce55f66",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huanpao_pao_09": {
+      "ver": "1.0.3",
+      "uuid": "4e037728-d139-4644-8bf6-71e0e7b5b310",
+      "rawTextureUuid": "625cae0c-5cf7-4b3e-84dc-66066ce55f66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 145,
+      "height": 131,
+      "rawWidth": 149,
+      "rawHeight": 131,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

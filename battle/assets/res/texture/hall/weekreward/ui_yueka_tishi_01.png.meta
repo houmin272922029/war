@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2f070eac-da6c-433c-aaa0-21e0b595417c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yueka_tishi_01": {
+      "ver": "1.0.3",
+      "uuid": "f73030e3-778d-4550-81ef-e5bc36fa7c6d",
+      "rawTextureUuid": "2f070eac-da6c-433c-aaa0-21e0b595417c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 162,
+      "height": 118,
+      "rawWidth": 162,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

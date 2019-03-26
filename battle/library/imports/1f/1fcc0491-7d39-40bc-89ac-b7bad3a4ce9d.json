@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_jiesuokuang",
+    "texture": "2e8c7e35-2cf6-4b24-ace7-8ae04b3343c9",
+    "atlas": "",
+    "rect": [
+      19,
+      2,
+      1417,
+      604
+    ],
+    "offset": [
+      7,
+      0
+    ],
+    "originalSize": [
+      1441,
+      608
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

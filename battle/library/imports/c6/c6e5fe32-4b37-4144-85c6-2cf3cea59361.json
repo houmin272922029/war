@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_fangyuzhao",
+    "texture": "5c34bf90-22cc-4298-ac92-6cc69471a0a4",
+    "atlas": "",
+    "rect": [
+      14,
+      5,
+      969,
+      858
+    ],
+    "offset": [
+      1.5,
+      1
+    ],
+    "originalSize": [
+      994,
+      870
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

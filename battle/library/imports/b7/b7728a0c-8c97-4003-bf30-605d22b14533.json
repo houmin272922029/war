@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_zhouka_01",
+    "texture": "0df0a6d9-7a65-4087-a22c-8e4ef0653910",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

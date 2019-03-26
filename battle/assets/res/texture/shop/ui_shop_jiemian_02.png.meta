@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ba88489d-866a-46a6-a949-a935802b6de2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_jiemian_02": {
+      "ver": "1.0.3",
+      "uuid": "27856872-5039-4f0d-8f82-863a61636121",
+      "rawTextureUuid": "ba88489d-866a-46a6-a949-a935802b6de2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 126,
+      "height": 128,
+      "rawWidth": 126,
+      "rawHeight": 128,
+      "borderTop": 44,
+      "borderBottom": 49,
+      "borderLeft": 41,
+      "borderRight": 42,
+      "subMetas": {}
+    }
+  }
+}

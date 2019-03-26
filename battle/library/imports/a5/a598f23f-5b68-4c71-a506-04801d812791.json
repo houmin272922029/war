@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_diyi_01",
+    "texture": "88ebb5cf-2dba-451e-bc8b-5f36d8d98ed2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

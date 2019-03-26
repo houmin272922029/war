@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jifenzhengduo_shuzi_01",
+    "texture": "62a1ce31-1a9d-44b0-b9f4-71cbd6e728e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      18
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_kapai02",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "1w9SWjOLGOFVTHgjCciLE3v13dQ",
+      "spine": "3.6.53",
+      "width": 704,
+      "height": 679.99,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "x": 161,
+        "y": -131,
+        "scaleX": 1.02,
+        "scaleY": 1.01
+      }
+    ],
+    "slots": [
+      {
+        "name": "light01",
+        "bone": "bone2",
+        "attachment": "light01",
+        "blend": "additive"
+      },
+      {
+        "name": "lg/lg_00000",
+        "bone": "bone3",
+        "attachment": "lg/lg_00013",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "lg/lg_00000": {
+          "lg/lg_00000": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00001": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00002": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00003": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00004": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00005": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00006": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00007": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00008": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00009": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00010": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00011": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00012": {
+            "width": 75,
+            "height": 100
+          },
+          "lg/lg_00013": {
+            "width": 75,
+            "height": 100
+          }
+        },
+        "light01": {
+          "light01": {
+            "width": 640,
+            "height": 360
+          }
+        }
+      }
+    },
+    "animations": {
+      "zhanshi": {
+        "slots": {
+          "lg/lg_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "00e0ffc4"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "lg/lg_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "lg/lg_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "lg/lg_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "lg/lg_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "lg/lg_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "lg/lg_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "lg/lg_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "lg/lg_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "lg/lg_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "lg/lg_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "lg/lg_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "lg/lg_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "lg/lg_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "lg/lg_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "lg/lg_00000"
+              },
+              {
+                "time": 0.5,
+                "name": "lg/lg_00001"
+              },
+              {
+                "time": 0.5333,
+                "name": "lg/lg_00002"
+              },
+              {
+                "time": 0.5667,
+                "name": "lg/lg_00003"
+              },
+              {
+                "time": 0.6,
+                "name": "lg/lg_00004"
+              },
+              {
+                "time": 0.6333,
+                "name": "lg/lg_00005"
+              },
+              {
+                "time": 0.6667,
+                "name": "lg/lg_00006"
+              },
+              {
+                "time": 0.7,
+                "name": "lg/lg_00007"
+              },
+              {
+                "time": 0.7333,
+                "name": "lg/lg_00008"
+              },
+              {
+                "time": 0.7667,
+                "name": "lg/lg_00009"
+              },
+              {
+                "time": 0.8,
+                "name": "lg/lg_00010"
+              },
+              {
+                "time": 0.8333,
+                "name": "lg/lg_00011"
+              },
+              {
+                "time": 0.8667,
+                "name": "lg/lg_00012"
+              },
+              {
+                "time": 0.9,
+                "name": "lg/lg_00013"
+              }
+            ]
+          },
+          "light01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff43",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.9,
+                "color": "ffffff42"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0.4667,
+                "angle": 180
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -161,
+                "y": 131
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 4,
+                "y": 4
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_kapai02.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nlg/lg_00000\r\n  rotate: false\r\n  xy: 147, 61\r\n  size: 52, 95\r\n  orig: 75, 100\r\n  offset: 21, 5\r\n  index: -1\r\nlg/lg_00001\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 41, 95\r\n  orig: 75, 100\r\n  offset: 31, 5\r\n  index: -1\r\nlg/lg_00002\r\n  rotate: true\r\n  xy: 275, 149\r\n  size: 39, 95\r\n  orig: 75, 100\r\n  offset: 33, 5\r\n  index: -1\r\nlg/lg_00003\r\n  rotate: true\r\n  xy: 366, 202\r\n  size: 49, 95\r\n  orig: 75, 100\r\n  offset: 23, 5\r\n  index: -1\r\nlg/lg_00004\r\n  rotate: false\r\n  xy: 147, 158\r\n  size: 58, 93\r\n  orig: 75, 100\r\n  offset: 14, 7\r\n  index: -1\r\nlg/lg_00005\r\n  rotate: false\r\n  xy: 207, 166\r\n  size: 66, 85\r\n  orig: 75, 100\r\n  offset: 5, 15\r\n  index: -1\r\nlg/lg_00006\r\n  rotate: true\r\n  xy: 275, 80\r\n  size: 67, 75\r\n  orig: 75, 100\r\n  offset: 3, 25\r\n  index: -1\r\nlg/lg_00007\r\n  rotate: true\r\n  xy: 207, 99\r\n  size: 65, 66\r\n  orig: 75, 100\r\n  offset: 3, 34\r\n  index: -1\r\nlg/lg_00008\r\n  rotate: false\r\n  xy: 201, 40\r\n  size: 65, 57\r\n  orig: 75, 100\r\n  offset: 3, 43\r\n  index: -1\r\nlg/lg_00009\r\n  rotate: false\r\n  xy: 268, 23\r\n  size: 65, 55\r\n  orig: 75, 100\r\n  offset: 3, 45\r\n  index: -1\r\nlg/lg_00010\r\n  rotate: false\r\n  xy: 335, 3\r\n  size: 65, 64\r\n  orig: 75, 100\r\n  offset: 3, 36\r\n  index: -1\r\nlg/lg_00011\r\n  rotate: true\r\n  xy: 352, 69\r\n  size: 65, 73\r\n  orig: 75, 100\r\n  offset: 3, 26\r\n  index: -1\r\nlg/lg_00012\r\n  rotate: true\r\n  xy: 372, 136\r\n  size: 64, 80\r\n  orig: 75, 100\r\n  offset: 3, 17\r\n  index: -1\r\nlg/lg_00013\r\n  rotate: true\r\n  xy: 275, 190\r\n  size: 61, 89\r\n  orig: 75, 100\r\n  offset: 3, 7\r\n  index: -1\r\nlight01\r\n  rotate: false\r\n  xy: 2, 45\r\n  size: 143, 206\r\n  orig: 640, 360\r\n  offset: 249, 78\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "97ff1ff5-2c13-4a45-b110-705d24f8e582"
+    }
+  ],
+  "textureNames": [
+    "anim_kapai02.png"
+  ],
+  "scale": 1
+}

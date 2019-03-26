@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_xuanshang",
+    "texture": "36d958a6-7c42-46aa-bb31-ff353ed8076d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

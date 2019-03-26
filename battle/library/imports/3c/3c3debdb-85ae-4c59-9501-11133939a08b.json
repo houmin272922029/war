@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_hongzhaji",
+    "texture": "b8c20db8-e666-418d-b69f-07b42307c181",
+    "atlas": "",
+    "rect": [
+      11,
+      21,
+      1392,
+      724
+    ],
+    "offset": [
+      -1,
+      -4.5
+    ],
+    "originalSize": [
+      1416,
+      757
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

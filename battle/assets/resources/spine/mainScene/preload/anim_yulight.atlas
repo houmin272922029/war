@@ -1,0 +1,48 @@
+
+anim_yulight.png
+size: 811,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 698, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 7
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: false
+  xy: 176, 7
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+bg5
+  rotate: false
+  xy: 350, 7
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+faszhen_00000
+  rotate: false
+  xy: 524, 7
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+star01
+  rotate: false
+  xy: 698, 78
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1

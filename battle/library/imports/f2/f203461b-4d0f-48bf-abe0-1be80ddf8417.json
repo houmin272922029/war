@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_notesbar_shrimp_01",
+    "texture": "572b446b-7502-4639-ac3c-72656ad5685b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      568
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      568
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

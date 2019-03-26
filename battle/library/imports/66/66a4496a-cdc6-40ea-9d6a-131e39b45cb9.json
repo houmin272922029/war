@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_pao",
+    "texture": "538ac362-d11c-475e-b9d9-e0f6efaeca39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

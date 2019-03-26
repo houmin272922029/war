@@ -1,0 +1,118 @@
+
+anim_jiangli.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jl/jl_00000
+  rotate: false
+  xy: 2, 24
+  size: 77, 77
+  orig: 85, 85
+  offset: 4, 4
+  index: -1
+images/jl/jl_00001
+  rotate: false
+  xy: 336, 177
+  size: 77, 77
+  orig: 85, 85
+  offset: 4, 4
+  index: -1
+images/jl/jl_00002
+  rotate: false
+  xy: 81, 24
+  size: 77, 77
+  orig: 85, 85
+  offset: 4, 4
+  index: -1
+images/jl/jl_00003
+  rotate: false
+  xy: 713, 183
+  size: 70, 71
+  orig: 85, 85
+  offset: 9, 8
+  index: -1
+images/jl/jl_00004
+  rotate: false
+  xy: 415, 181
+  size: 73, 73
+  orig: 85, 85
+  offset: 6, 6
+  index: -1
+images/jl/jl_00005
+  rotate: false
+  xy: 160, 28
+  size: 73, 73
+  orig: 85, 85
+  offset: 6, 6
+  index: -1
+images/jl/jl_00006
+  rotate: false
+  xy: 490, 181
+  size: 73, 73
+  orig: 85, 85
+  offset: 6, 6
+  index: -1
+images/jl/jl_00007
+  rotate: false
+  xy: 235, 28
+  size: 73, 73
+  orig: 85, 85
+  offset: 6, 6
+  index: -1
+images/jl/jl_00008
+  rotate: false
+  xy: 336, 103
+  size: 73, 72
+  orig: 85, 85
+  offset: 6, 7
+  index: -1
+images/jl/jl_00009
+  rotate: false
+  xy: 565, 183
+  size: 72, 71
+  orig: 85, 85
+  offset: 6, 7
+  index: -1
+images/jl/jl_00010
+  rotate: false
+  xy: 310, 30
+  size: 72, 71
+  orig: 85, 85
+  offset: 6, 7
+  index: -1
+images/jl/jl_00011
+  rotate: false
+  xy: 639, 183
+  size: 72, 71
+  orig: 85, 85
+  offset: 6, 7
+  index: -1
+images/jl/jl_00012
+  rotate: false
+  xy: 785, 218
+  size: 35, 36
+  orig: 85, 85
+  offset: 43, 42
+  index: -1
+images/jl/jl_00013
+  rotate: false
+  xy: 310, 2
+  size: 27, 26
+  orig: 85, 85
+  offset: 51, 51
+  index: -1
+images/star03
+  rotate: false
+  xy: 2, 103
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1
+images/star04
+  rotate: false
+  xy: 169, 103
+  size: 165, 151
+  orig: 165, 151
+  offset: 0, 0
+  index: -1

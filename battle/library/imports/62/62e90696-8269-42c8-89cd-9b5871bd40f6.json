@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yueka_3nianka_01",
+    "texture": "9bd7b775-e1ec-4693-9b01-1476ce8f1006",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      247,
+      89
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      247,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

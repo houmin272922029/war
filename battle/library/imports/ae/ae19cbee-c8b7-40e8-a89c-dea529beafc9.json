@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xuanshang_light_04",
+    "texture": "d5c9e52e-1140-42bc-98b1-d437c2417061",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      693,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      693,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

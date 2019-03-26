@@ -1,0 +1,13 @@
+
+anim_dalongxia.png
+size: 301,346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/dalongxia
+  rotate: false
+  xy: 2, 2
+  size: 297, 342
+  orig: 297, 342
+  offset: 0, 0
+  index: -1

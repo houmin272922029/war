@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_qiandao_duigou_01",
+    "texture": "f7b1928d-b634-4da2-8792-6f135a97cc5d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

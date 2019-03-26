@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_bj_02",
+    "texture": "8dded41f-e448-4651-a391-90751e0f48b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      101
+    ],
+    "capInsets": [
+      0,
+      30,
+      0,
+      30
+    ]
+  }
+}

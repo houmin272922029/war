@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7da83c98-c7bc-48de-9811-174283bc1673",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "font_shengji_01_1": {
+      "ver": "1.0.3",
+      "uuid": "b6c4e861-eb19-44fb-9350-fcaaaea44ae5",
+      "rawTextureUuid": "7da83c98-c7bc-48de-9811-174283bc1673",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2.5,
+      "trimX": 2,
+      "trimY": 5,
+      "width": 14,
+      "height": 17,
+      "rawWidth": 18,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

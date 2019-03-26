@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_chakanzhanghao_01",
+    "texture": "d65302b4-0036-4e2b-907b-d09b0c1741f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

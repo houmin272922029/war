@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_notesbar2_01",
+    "texture": "62b07eef-8562-4791-82c0-42335b2088ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      181
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      181
+    ],
+    "capInsets": [
+      40,
+      50,
+      40,
+      50
+    ]
+  }
+}

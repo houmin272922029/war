@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_redheartshadow",
+    "texture": "63334030-f862-4df6-8940-d280f34dab4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

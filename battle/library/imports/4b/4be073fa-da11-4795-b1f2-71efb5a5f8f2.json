@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuka_zhanshi_01",
+    "texture": "9ddeeaee-e22a-438a-b053-a923bf7c2439",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      290,
+      232
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      291,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

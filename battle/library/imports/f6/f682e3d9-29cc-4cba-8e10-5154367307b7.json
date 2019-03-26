@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jifenzhengduo_maohao_01",
+    "texture": "8a30ddfe-020a-40a2-b531-efd99836943f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

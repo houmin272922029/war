@@ -1,0 +1,242 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_zhuanshi",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "yX6GR7uYpMDLIOV8hOwB/S0uzsU",
+      "spine": "3.6.53",
+      "width": 300,
+      "height": 200,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/bbl_00000",
+        "bone": "bone",
+        "attachment": "png/bbl_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/xiaoxingxing_00000",
+        "bone": "bone2",
+        "attachment": "png/xiaoxingxing_00000",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/bbl_00000": {
+          "png/bbl_00000": {
+            "width": 50,
+            "height": 50
+          }
+        },
+        "png/xiaoxingxing_00000": {
+          "png/xiaoxingxing_00000": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00001": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00002": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00003": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00004": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00005": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00006": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00007": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00008": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00009": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00010": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00011": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00012": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00013": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00014": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00015": {
+            "width": 150,
+            "height": 100
+          },
+          "png/xiaoxingxing_00016": {
+            "width": 150,
+            "height": 100
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/bbl_00000": {
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": null
+              }
+            ]
+          },
+          "png/xiaoxingxing_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/xiaoxingxing_00000"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/xiaoxingxing_00001"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/xiaoxingxing_00002"
+              },
+              {
+                "time": 0.1,
+                "name": "png/xiaoxingxing_00003"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/xiaoxingxing_00004"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/xiaoxingxing_00005"
+              },
+              {
+                "time": 0.2,
+                "name": "png/xiaoxingxing_00006"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/xiaoxingxing_00007"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/xiaoxingxing_00008"
+              },
+              {
+                "time": 0.3,
+                "name": "png/xiaoxingxing_00009"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/xiaoxingxing_00010"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/xiaoxingxing_00011"
+              },
+              {
+                "time": 0.4,
+                "name": "png/xiaoxingxing_00012"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/xiaoxingxing_00013"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/xiaoxingxing_00014"
+              },
+              {
+                "time": 0.5,
+                "name": "png/xiaoxingxing_00015"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/xiaoxingxing_00016"
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -4,
+                "y": -4
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 3.459,
+                "y": 3.459
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_zhuanshi.png\r\nsize: 787,164\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/bbl_00000\r\n  rotate: false\r\n  xy: 747, 55\r\n  size: 36, 40\r\n  orig: 50, 50\r\n  offset: 8, 5\r\n  index: -1\r\npng/xiaoxingxing_00000\r\n  rotate: false\r\n  xy: 702, 97\r\n  size: 85, 67\r\n  orig: 150, 100\r\n  offset: 33, 15\r\n  index: -1\r\npng/xiaoxingxing_00001\r\n  rotate: false\r\n  xy: 583, 9\r\n  size: 103, 71\r\n  orig: 150, 100\r\n  offset: 24, 13\r\n  index: -1\r\npng/xiaoxingxing_00002\r\n  rotate: false\r\n  xy: 0, 1\r\n  size: 121, 74\r\n  orig: 150, 100\r\n  offset: 15, 12\r\n  index: -1\r\npng/xiaoxingxing_00003\r\n  rotate: false\r\n  xy: 420, 82\r\n  size: 139, 82\r\n  orig: 150, 100\r\n  offset: 6, 9\r\n  index: -1\r\npng/xiaoxingxing_00004\r\n  rotate: false\r\n  xy: 210, 79\r\n  size: 142, 85\r\n  orig: 150, 100\r\n  offset: 4, 8\r\n  index: -1\r\npng/xiaoxingxing_00005\r\n  rotate: false\r\n  xy: 0, 77\r\n  size: 144, 87\r\n  orig: 150, 100\r\n  offset: 3, 7\r\n  index: -1\r\npng/xiaoxingxing_00006\r\n  rotate: false\r\n  xy: 561, 82\r\n  size: 139, 82\r\n  orig: 150, 100\r\n  offset: 6, 10\r\n  index: -1\r\npng/xiaoxingxing_00007\r\n  rotate: false\r\n  xy: 688, 12\r\n  size: 57, 68\r\n  orig: 150, 100\r\n  offset: 48, 13\r\n  index: -1\r\npng/xiaoxingxing_00008\r\n  rotate: false\r\n  xy: 390, 7\r\n  size: 60, 72\r\n  orig: 150, 100\r\n  offset: 47, 11\r\n  index: -1\r\npng/xiaoxingxing_00009\r\n  rotate: false\r\n  xy: 193, 2\r\n  size: 62, 74\r\n  orig: 150, 100\r\n  offset: 46, 10\r\n  index: -1\r\npng/xiaoxingxing_00010\r\n  rotate: false\r\n  xy: 257, 0\r\n  size: 65, 77\r\n  orig: 150, 100\r\n  offset: 45, 9\r\n  index: -1\r\npng/xiaoxingxing_00011\r\n  rotate: false\r\n  xy: 452, 0\r\n  size: 66, 80\r\n  orig: 150, 100\r\n  offset: 45, 7\r\n  index: -1\r\npng/xiaoxingxing_00012\r\n  rotate: false\r\n  xy: 123, 1\r\n  size: 68, 74\r\n  orig: 150, 100\r\n  offset: 44, 14\r\n  index: -1\r\npng/xiaoxingxing_00013\r\n  rotate: false\r\n  xy: 324, 0\r\n  size: 64, 77\r\n  orig: 150, 100\r\n  offset: 43, 13\r\n  index: -1\r\npng/xiaoxingxing_00014\r\n  rotate: false\r\n  xy: 520, 0\r\n  size: 61, 80\r\n  orig: 150, 100\r\n  offset: 47, 11\r\n  index: -1\r\npng/xiaoxingxing_00015\r\n  rotate: false\r\n  xy: 354, 81\r\n  size: 64, 83\r\n  orig: 150, 100\r\n  offset: 46, 10\r\n  index: -1\r\npng/xiaoxingxing_00016\r\n  rotate: false\r\n  xy: 146, 78\r\n  size: 62, 86\r\n  orig: 150, 100\r\n  offset: 49, 8\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3493192b-1247-4638-a39a-5c7d45bf7eea"
+    }
+  ],
+  "textureNames": [
+    "anim_zhuanshi.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_youxiang_haimeishoudao_01",
+    "texture": "8d620bca-856f-43ee-a1cf-8102436f7be2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

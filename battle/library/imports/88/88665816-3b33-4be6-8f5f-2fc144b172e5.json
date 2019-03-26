@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_kuangbao",
+    "texture": "01c59919-43c0-4c76-9947-359b414c185b",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1216,
+      1086
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1220,
+      1094
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choujiang_light_05",
+    "texture": "e8d23d07-dbe8-4a37-a8ce-cbf643d7b4d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      13,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7e0c8f77-8b99-4248-91cf-fd14c95caa61",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_yuchang_tujian": {
+      "ver": "1.0.3",
+      "uuid": "53840825-6733-46ef-ac26-f90ea735b7dc",
+      "rawTextureUuid": "7e0c8f77-8b99-4248-91cf-fd14c95caa61",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 56,
+      "rawWidth": 70,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_leizhu",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "6y1McnHKpkHxBv+4ZunHi+VVqok",
+      "spine": "3.6.53",
+      "width": 85,
+      "height": 83,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone8",
+        "parent": "root"
+      },
+      {
+        "name": "bone9",
+        "parent": "root"
+      },
+      {
+        "name": "bone10",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/saoguangda_0",
+        "bone": "bone8",
+        "attachment": "png/saoguangda_9",
+        "blend": "additive"
+      },
+      {
+        "name": "png/sgx_0",
+        "bone": "bone9",
+        "attachment": "png/sgx_0",
+        "blend": "additive"
+      },
+      {
+        "name": "png/add_0",
+        "bone": "bone10",
+        "attachment": "png/add_0",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/add_0": {
+          "png/add_0": {
+            "width": 53,
+            "height": 47
+          }
+        },
+        "png/saoguangda_0": {
+          "png/saoguangda_1": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_2": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_3": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_4": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_5": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_6": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_7": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_8": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_9": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_10": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_11": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_12": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_13": {
+            "width": 85,
+            "height": 83
+          },
+          "png/saoguangda_14": {
+            "width": 85,
+            "height": 83
+          }
+        },
+        "png/sgx_0": {
+          "png/sgx_0": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_1": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_2": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_3": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_4": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_5": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_6": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_7": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_8": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_9": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_10": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_11": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_12": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_13": {
+            "width": 85,
+            "height": 69
+          },
+          "png/sgx_14": {
+            "width": 85,
+            "height": 69
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/add_0": {
+            "color": [
+              {
+                "time": 0.7,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.7,
+                "name": "png/add_0"
+              }
+            ]
+          },
+          "png/saoguangda_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/saoguangda_1"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/saoguangda_1"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/saoguangda_2"
+              },
+              {
+                "time": 0.1,
+                "name": "png/saoguangda_3"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/saoguangda_4"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/saoguangda_5"
+              },
+              {
+                "time": 0.2,
+                "name": "png/saoguangda_6"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/saoguangda_7"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/saoguangda_8"
+              },
+              {
+                "time": 0.3,
+                "name": "png/saoguangda_9"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/saoguangda_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/saoguangda_11"
+              },
+              {
+                "time": 0.4,
+                "name": "png/saoguangda_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/saoguangda_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/saoguangda_14"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "png/sgx_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.4,
+                "name": "png/sgx_0"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/sgx_1"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/sgx_2"
+              },
+              {
+                "time": 0.5,
+                "name": "png/sgx_3"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/sgx_4"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/sgx_5"
+              },
+              {
+                "time": 0.6,
+                "name": "png/sgx_6"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/sgx_7"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/sgx_8"
+              },
+              {
+                "time": 0.7,
+                "name": "png/sgx_9"
+              },
+              {
+                "time": 0.7333,
+                "name": "png/sgx_10"
+              },
+              {
+                "time": 0.7667,
+                "name": "png/sgx_11"
+              },
+              {
+                "time": 0.8,
+                "name": "png/sgx_12"
+              },
+              {
+                "time": 0.8333,
+                "name": "png/sgx_13"
+              },
+              {
+                "time": 0.8667,
+                "name": "png/sgx_14"
+              },
+              {
+                "time": 0.9,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone9": {
+            "translate": [
+              {
+                "time": 0.4,
+                "x": 0,
+                "y": 7.1
+              }
+            ]
+          },
+          "bone10": {
+            "translate": [
+              {
+                "time": 0.7,
+                "x": 0,
+                "y": -3.2
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_leizhu.png\r\nsize: 284,269\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/add_0\r\n  rotate: false\r\n  xy: 162, 0\r\n  size: 49, 43\r\n  orig: 53, 47\r\n  offset: 2, 2\r\n  index: -1\r\npng/saoguangda_1\r\n  rotate: false\r\n  xy: 141, 0\r\n  size: 8, 37\r\n  orig: 85, 83\r\n  offset: 2, 29\r\n  index: -1\r\npng/saoguangda_10\r\n  rotate: false\r\n  xy: 43, 117\r\n  size: 39, 75\r\n  orig: 85, 83\r\n  offset: 41, 3\r\n  index: -1\r\npng/saoguangda_11\r\n  rotate: false\r\n  xy: 248, 69\r\n  size: 35, 71\r\n  orig: 85, 83\r\n  offset: 48, 4\r\n  index: -1\r\npng/saoguangda_12\r\n  rotate: false\r\n  xy: 252, 142\r\n  size: 26, 62\r\n  orig: 85, 83\r\n  offset: 57, 7\r\n  index: -1\r\npng/saoguangda_13\r\n  rotate: false\r\n  xy: 120, 13\r\n  size: 19, 54\r\n  orig: 85, 83\r\n  offset: 65, 12\r\n  index: -1\r\npng/saoguangda_14\r\n  rotate: false\r\n  xy: 151, 2\r\n  size: 9, 35\r\n  orig: 85, 83\r\n  offset: 74, 20\r\n  index: -1\r\npng/saoguangda_2\r\n  rotate: false\r\n  xy: 141, 39\r\n  size: 18, 52\r\n  orig: 85, 83\r\n  offset: 2, 18\r\n  index: -1\r\npng/saoguangda_3\r\n  rotate: false\r\n  xy: 252, 206\r\n  size: 26, 63\r\n  orig: 85, 83\r\n  offset: 2, 13\r\n  index: -1\r\npng/saoguangda_4\r\n  rotate: false\r\n  xy: 84, 3\r\n  size: 34, 70\r\n  orig: 85, 83\r\n  offset: 2, 9\r\n  index: -1\r\npng/saoguangda_5\r\n  rotate: false\r\n  xy: 43, 194\r\n  size: 39, 75\r\n  orig: 85, 83\r\n  offset: 5, 4\r\n  index: -1\r\npng/saoguangda_6\r\n  rotate: false\r\n  xy: 0, 193\r\n  size: 41, 76\r\n  orig: 85, 83\r\n  offset: 11, 3\r\n  index: -1\r\npng/saoguangda_7\r\n  rotate: false\r\n  xy: 0, 115\r\n  size: 41, 76\r\n  orig: 85, 83\r\n  offset: 18, 3\r\n  index: -1\r\npng/saoguangda_8\r\n  rotate: false\r\n  xy: 0, 37\r\n  size: 40, 76\r\n  orig: 85, 83\r\n  offset: 26, 3\r\n  index: -1\r\npng/saoguangda_9\r\n  rotate: false\r\n  xy: 42, 37\r\n  size: 40, 76\r\n  orig: 85, 83\r\n  offset: 33, 3\r\n  index: -1\r\npng/sgx_0\r\n  rotate: false\r\n  xy: 84, 93\r\n  size: 78, 13\r\n  orig: 85, 69\r\n  offset: 3, 5\r\n  index: -1\r\npng/sgx_1\r\n  rotate: false\r\n  xy: 84, 108\r\n  size: 79, 18\r\n  orig: 85, 69\r\n  offset: 2, 5\r\n  index: -1\r\npng/sgx_10\r\n  rotate: false\r\n  xy: 84, 128\r\n  size: 80, 36\r\n  orig: 85, 69\r\n  offset: 2, 29\r\n  index: -1\r\npng/sgx_11\r\n  rotate: false\r\n  xy: 166, 104\r\n  size: 79, 31\r\n  orig: 85, 69\r\n  offset: 3, 34\r\n  index: -1\r\npng/sgx_12\r\n  rotate: false\r\n  xy: 164, 75\r\n  size: 77, 27\r\n  orig: 85, 69\r\n  offset: 4, 39\r\n  index: -1\r\npng/sgx_13\r\n  rotate: false\r\n  xy: 161, 45\r\n  size: 73, 22\r\n  orig: 85, 69\r\n  offset: 6, 44\r\n  index: -1\r\npng/sgx_14\r\n  rotate: false\r\n  xy: 213, 25\r\n  size: 71, 18\r\n  orig: 85, 69\r\n  offset: 7, 48\r\n  index: -1\r\npng/sgx_2\r\n  rotate: false\r\n  xy: 166, 137\r\n  size: 80, 23\r\n  orig: 85, 69\r\n  offset: 2, 5\r\n  index: -1\r\npng/sgx_3\r\n  rotate: false\r\n  xy: 84, 166\r\n  size: 81, 27\r\n  orig: 85, 69\r\n  offset: 1, 5\r\n  index: -1\r\npng/sgx_4\r\n  rotate: false\r\n  xy: 168, 162\r\n  size: 82, 32\r\n  orig: 85, 69\r\n  offset: 1, 5\r\n  index: -1\r\npng/sgx_5\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 82, 35\r\n  orig: 85, 69\r\n  offset: 1, 7\r\n  index: -1\r\npng/sgx_6\r\n  rotate: false\r\n  xy: 84, 233\r\n  size: 82, 36\r\n  orig: 85, 69\r\n  offset: 1, 10\r\n  index: -1\r\npng/sgx_7\r\n  rotate: false\r\n  xy: 168, 233\r\n  size: 82, 36\r\n  orig: 85, 69\r\n  offset: 1, 15\r\n  index: -1\r\npng/sgx_8\r\n  rotate: false\r\n  xy: 84, 195\r\n  size: 82, 36\r\n  orig: 85, 69\r\n  offset: 1, 20\r\n  index: -1\r\npng/sgx_9\r\n  rotate: false\r\n  xy: 168, 196\r\n  size: 82, 35\r\n  orig: 85, 69\r\n  offset: 1, 25\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "1712c7dd-ae6d-4678-afcc-5e1962933c9d"
+    }
+  ],
+  "textureNames": [
+    "anim_leizhu.png"
+  ],
+  "scale": 1
+}

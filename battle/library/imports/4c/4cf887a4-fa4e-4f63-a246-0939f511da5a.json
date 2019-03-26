@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duihuan_zaiciqueren_01",
+    "texture": "bb8d59de-a342-4e4d-92c1-c2c29308f1ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

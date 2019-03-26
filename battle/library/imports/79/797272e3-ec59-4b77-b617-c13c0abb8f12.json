@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuka_beiguang_01",
+    "texture": "5a908122-b816-40ac-bd44-e5094d84e5b5",
+    "atlas": "",
+    "rect": [
+      4,
+      6,
+      359,
+      337
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      367,
+      356
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

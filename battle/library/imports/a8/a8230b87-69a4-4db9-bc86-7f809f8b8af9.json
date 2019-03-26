@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_yinlongyu",
+    "texture": "6fdcd002-5393-4f03-82c5-7b5b169fec71",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      67,
+      49
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      68,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

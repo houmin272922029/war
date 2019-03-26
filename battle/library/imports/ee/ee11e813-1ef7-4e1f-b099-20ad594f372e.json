@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_qilibao_01",
+    "texture": "a0f809bc-2c39-434c-bdab-f9bc32ac3195",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

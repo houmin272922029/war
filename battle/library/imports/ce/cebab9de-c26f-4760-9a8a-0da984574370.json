@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeisai_wujiangpin_02",
+    "texture": "5103b83c-45d7-4d86-88df-f35e61f792b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shop_3nianka_01",
+    "texture": "8d5ecdd1-d288-4701-855f-42ee15784fdf",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      167,
+      146
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      170,
+      148
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

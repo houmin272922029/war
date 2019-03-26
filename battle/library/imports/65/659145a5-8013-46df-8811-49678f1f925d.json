@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_leizhu",
+    "texture": "1712c7dd-ae6d-4678-afcc-5e1962933c9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      283,
+      269
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      284,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

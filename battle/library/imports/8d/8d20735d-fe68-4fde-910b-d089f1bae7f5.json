@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_cifu_tubiaokuang_01",
+    "texture": "eebd99c0-fc5b-47c3-a33b-a0300a44e958",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      148
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      148
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

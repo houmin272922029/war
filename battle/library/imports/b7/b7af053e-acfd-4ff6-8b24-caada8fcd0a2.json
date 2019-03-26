@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafeiyuchang_jifen_02",
+    "texture": "1c3bf95f-f324-4e91-91bb-4317657482f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingji_jiesuan_06",
+    "texture": "80f8e67d-9bc3-4571-89c0-a21b0c40adf7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      218,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      218,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

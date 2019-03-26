@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_yanshi",
+    "texture": "f7f9e32a-0ca4-40ad-a4c6-d9652a099dea",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      358,
+      283
+    ],
+    "offset": [
+      -1.5,
+      -2
+    ],
+    "originalSize": [
+      365,
+      291
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

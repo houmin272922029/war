@@ -1,0 +1,174 @@
+
+anim_yinbo.png
+size: 2017,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/fazhen_00000
+  rotate: false
+  xy: 1313, 556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+png/fazhenkou_00000
+  rotate: false
+  xy: 1417, 118
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+png/kuoquan_00000
+  rotate: false
+  xy: 2, 300
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+png/lianyi
+  rotate: false
+  xy: 1571, 556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+png/san_00000
+  rotate: false
+  xy: 1686, 386
+  size: 164, 168
+  orig: 164, 168
+  offset: 0, 0
+  index: -1
+png/shouji/shouji_00000
+  rotate: true
+  xy: 1829, 652
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+png/shouji/shouji_00002
+  rotate: false
+  xy: 1852, 482
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+png/shouji/shouji_00003
+  rotate: false
+  xy: 1675, 42
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+png/shouji/shouji_00004
+  rotate: true
+  xy: 1837, 50
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+png/shouji/shouji_00005
+  rotate: false
+  xy: 1855, 312
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+png/timnyu2_00000
+  rotate: false
+  xy: 1417, 31
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+png/xuquan_00000
+  rotate: false
+  xy: 516, 300
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+png/yinfu_00000
+  rotate: false
+  xy: 1134, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00000
+  rotate: true
+  xy: 2, 10
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00001
+  rotate: true
+  xy: 285, 10
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00002
+  rotate: true
+  xy: 568, 10
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00003
+  rotate: true
+  xy: 851, 10
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00004
+  rotate: true
+  xy: 1030, 524
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/kuosan_00005
+  rotate: true
+  xy: 1134, 54
+  size: 288, 281
+  orig: 288, 281
+  offset: 0, 0
+  index: -1
+png/新建文件夹/liannn_00000
+  rotate: true
+  xy: 1030, 344
+  size: 178, 162
+  orig: 178, 162
+  offset: 0, 0
+  index: -1
+png/新建文件夹/liannn_00002
+  rotate: true
+  xy: 1194, 344
+  size: 178, 162
+  orig: 178, 162
+  offset: 0, 0
+  index: -1
+png/新建文件夹/liannn_00004
+  rotate: true
+  xy: 1358, 376
+  size: 178, 162
+  orig: 178, 162
+  offset: 0, 0
+  index: -1
+png/新建文件夹/liannn_00006
+  rotate: true
+  xy: 1522, 376
+  size: 178, 162
+  orig: 178, 162
+  offset: 0, 0
+  index: -1
+png/新建文件夹/liannn_00008
+  rotate: false
+  xy: 1675, 212
+  size: 178, 162
+  orig: 178, 162
+  offset: 0, 0
+  index: -1

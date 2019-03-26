@@ -1,0 +1,48 @@
+
+anim_guowangyx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light01
+  rotate: false
+  xy: 130, 165
+  size: 147, 91
+  orig: 150, 100
+  offset: 3, 9
+  index: -1
+light02
+  rotate: true
+  xy: 0, 0
+  size: 126, 77
+  orig: 150, 100
+  offset: 11, 16
+  index: -1
+light03
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light04
+  rotate: true
+  xy: 409, 141
+  size: 115, 91
+  orig: 142, 98
+  offset: 14, 1
+  index: -1
+star06
+  rotate: true
+  xy: 79, 43
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+yue01
+  rotate: false
+  xy: 279, 169
+  size: 128, 87
+  orig: 128, 128
+  offset: 0, 20
+  index: -1

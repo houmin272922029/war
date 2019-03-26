@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duihuan_shengshi_01",
+    "texture": "46720924-425b-4a6e-bf1d-3272e7f3ea06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9efd152b-c72a-4666-9c0d-117334239332",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_xinshoufenxiang_beijing_01": {
+      "ver": "1.0.3",
+      "uuid": "dfa3e46c-0896-491d-979a-ce2fffb35646",
+      "rawTextureUuid": "9efd152b-c72a-4666-9c0d-117334239332",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 294,
+      "height": 472,
+      "rawWidth": 296,
+      "rawHeight": 472,
+      "borderTop": 200,
+      "borderBottom": 200,
+      "borderLeft": 105,
+      "borderRight": 105,
+      "subMetas": {}
+    }
+  }
+}

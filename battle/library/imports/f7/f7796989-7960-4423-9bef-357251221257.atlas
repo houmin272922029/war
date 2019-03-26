@@ -1,0 +1,41 @@
+
+anim_ice.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light03
+  rotate: false
+  xy: 356, 105
+  size: 125, 123
+  orig: 128, 128
+  offset: 1, 2
+  index: -1
+suibing
+  rotate: false
+  xy: 2, 71
+  size: 215, 157
+  orig: 215, 158
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 219, 108
+  size: 135, 120
+  orig: 136, 120
+  offset: 1, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 2
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+zi01
+  rotate: false
+  xy: 132, 12
+  size: 102, 57
+  orig: 102, 58
+  offset: 0, 0
+  index: -1

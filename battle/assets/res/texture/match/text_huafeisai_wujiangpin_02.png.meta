@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5103b83c-45d7-4d86-88df-f35e61f792b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_huafeisai_wujiangpin_02": {
+      "ver": "1.0.3",
+      "uuid": "cebab9de-c26f-4760-9a8a-0da984574370",
+      "rawTextureUuid": "5103b83c-45d7-4d86-88df-f35e61f792b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 25,
+      "rawWidth": 70,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

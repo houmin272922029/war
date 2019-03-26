@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yueka_02",
+    "texture": "93e1acc9-83a9-4463-9b04-6ed0e46f52dc",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      339,
+      418
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      340,
+      418
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cfaf2d6d-8cd0-40d9-aafe-0893e3da2bd4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_vip_xulieanniu_01": {
+      "ver": "1.0.3",
+      "uuid": "d3e57e3e-7895-4759-9b4e-59c7e470d0cb",
+      "rawTextureUuid": "cfaf2d6d-8cd0-40d9-aafe-0893e3da2bd4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

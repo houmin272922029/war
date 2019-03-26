@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shovel_02",
+    "texture": "88d3a63a-e15f-49dc-ab9d-69f9fe1bd0c6",
+    "atlas": "",
+    "rect": [
+      1,
+      17,
+      128,
+      151
+    ],
+    "offset": [
+      -5.5,
+      -7.5
+    ],
+    "originalSize": [
+      141,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

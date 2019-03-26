@@ -1,0 +1,244 @@
+
+anim_jingjiicon.png
+size: 338,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/huoyan_0
+  rotate: true
+  xy: 247, 428
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_1
+  rotate: false
+  xy: 2, 401
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_2
+  rotate: false
+  xy: 2, 401
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_11
+  rotate: false
+  xy: 226, 278
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_12
+  rotate: false
+  xy: 226, 278
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_3
+  rotate: false
+  xy: 114, 401
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_4
+  rotate: false
+  xy: 114, 401
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_5
+  rotate: false
+  xy: 226, 353
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_6
+  rotate: false
+  xy: 226, 353
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_7
+  rotate: false
+  xy: 2, 326
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_8
+  rotate: false
+  xy: 2, 326
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_9
+  rotate: false
+  xy: 114, 326
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/huoyan_10
+  rotate: false
+  xy: 114, 326
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+png/jijisao_0
+  rotate: false
+  xy: 2, 283
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_1
+  rotate: false
+  xy: 109, 283
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_10
+  rotate: false
+  xy: 109, 154
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_11
+  rotate: true
+  xy: 45, 90
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_12
+  rotate: false
+  xy: 216, 149
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_13
+  rotate: false
+  xy: 109, 111
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_14
+  rotate: true
+  xy: 109, 4
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_15
+  rotate: true
+  xy: 152, 4
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_16
+  rotate: true
+  xy: 195, 4
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_17
+  rotate: true
+  xy: 238, 42
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_18
+  rotate: true
+  xy: 281, 42
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_2
+  rotate: false
+  xy: 2, 240
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_3
+  rotate: false
+  xy: 109, 240
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_4
+  rotate: false
+  xy: 216, 235
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_5
+  rotate: false
+  xy: 2, 197
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_6
+  rotate: false
+  xy: 109, 197
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_7
+  rotate: false
+  xy: 216, 192
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_8
+  rotate: true
+  xy: 2, 85
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/jijisao_9
+  rotate: false
+  xy: 2, 42
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+png/ui_jingjichang_01
+  rotate: false
+  xy: 2, 476
+  size: 243, 62
+  orig: 243, 62
+  offset: 0, 0
+  index: -1
+png/ui_jingjichang_02
+  rotate: false
+  xy: 2, 2
+  size: 100, 38
+  orig: 100, 38
+  offset: 0, 0
+  index: -1

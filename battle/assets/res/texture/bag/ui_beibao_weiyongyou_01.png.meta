@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c372d5f3-0ef0-46c5-a5e1-92f997fffd7a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_beibao_weiyongyou_01": {
+      "ver": "1.0.3",
+      "uuid": "bf1ad4ed-d458-47c3-ba32-468b73cf67b1",
+      "rawTextureUuid": "c372d5f3-0ef0-46c5-a5e1-92f997fffd7a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 40,
+      "rawWidth": 139,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

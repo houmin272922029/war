@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_daojuzengsong_diban_05",
+    "texture": "db9af86c-1164-417a-8cc2-dde7ee5d9fdb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      138,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

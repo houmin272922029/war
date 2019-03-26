@@ -1,0 +1,160 @@
+
+anim_dajiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light03
+  rotate: false
+  xy: 843, 2
+  size: 125, 123
+  orig: 128, 128
+  offset: 1, 2
+  index: -1
+yanhua-Y/Y_00000
+  rotate: false
+  xy: 568, 240
+  size: 138, 123
+  orig: 164, 152
+  offset: 15, 16
+  index: -1
+yanhua-Y/Y_00001
+  rotate: false
+  xy: 708, 240
+  size: 138, 123
+  orig: 164, 152
+  offset: 15, 16
+  index: -1
+yanhua-Y/Y_00002
+  rotate: false
+  xy: 848, 240
+  size: 138, 123
+  orig: 164, 152
+  offset: 15, 16
+  index: -1
+yanhua-Y/Y_00003
+  rotate: false
+  xy: 565, 115
+  size: 138, 123
+  orig: 164, 152
+  offset: 15, 16
+  index: -1
+yanhua-Y/Y_00004
+  rotate: false
+  xy: 431, 361
+  size: 135, 139
+  orig: 164, 152
+  offset: 18, 0
+  index: -1
+yanhua-Y/Y_00005
+  rotate: true
+  xy: 709, 365
+  size: 135, 138
+  orig: 164, 152
+  offset: 18, 1
+  index: -1
+yanhua-Y/Y_00006
+  rotate: true
+  xy: 849, 365
+  size: 135, 138
+  orig: 164, 152
+  offset: 18, 1
+  index: -1
+yanhua-Y/Y_00007
+  rotate: false
+  xy: 430, 220
+  size: 133, 139
+  orig: 164, 152
+  offset: 20, 0
+  index: -1
+yanhua-Y/Y_00008
+  rotate: false
+  xy: 146, 361
+  size: 141, 139
+  orig: 164, 152
+  offset: 17, 0
+  index: -1
+yanhua-Y/Y_00009
+  rotate: false
+  xy: 289, 361
+  size: 140, 139
+  orig: 164, 152
+  offset: 17, 0
+  index: -1
+yanhua-Y/Y_00010
+  rotate: false
+  xy: 2, 79
+  size: 141, 139
+  orig: 164, 152
+  offset: 14, 0
+  index: -1
+yanhua-Y/Y_00011
+  rotate: false
+  xy: 289, 222
+  size: 139, 137
+  orig: 164, 152
+  offset: 14, 2
+  index: -1
+yanhua-Y/Y_00012
+  rotate: false
+  xy: 146, 220
+  size: 141, 139
+  orig: 164, 152
+  offset: 17, 0
+  index: -1
+yanhua-Y/Y_00013
+  rotate: false
+  xy: 2, 361
+  size: 142, 139
+  orig: 164, 152
+  offset: 16, 0
+  index: -1
+yanhua-Y/Y_00014
+  rotate: false
+  xy: 2, 220
+  size: 142, 139
+  orig: 164, 152
+  offset: 16, 0
+  index: -1
+yanhua-Y/Y_00015
+  rotate: false
+  xy: 145, 79
+  size: 140, 139
+  orig: 164, 152
+  offset: 16, 0
+  index: -1
+yanhua-Y/Y_00017
+  rotate: false
+  xy: 568, 365
+  size: 139, 135
+  orig: 164, 152
+  offset: 14, 4
+  index: -1
+yanhua-Y/Y_00019
+  rotate: false
+  xy: 705, 123
+  size: 136, 115
+  orig: 164, 152
+  offset: 17, 24
+  index: -1
+yanhua-Y/Y_00021
+  rotate: false
+  xy: 843, 127
+  size: 135, 111
+  orig: 164, 152
+  offset: 18, 28
+  index: -1
+yanhua-Y/Y_00023
+  rotate: false
+  xy: 705, 10
+  size: 135, 111
+  orig: 164, 152
+  offset: 18, 28
+  index: -1
+yu
+  rotate: false
+  xy: 2, 13
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

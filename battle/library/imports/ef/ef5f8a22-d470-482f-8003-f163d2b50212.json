@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_choujiangbaoxiang",
+    "texture": "fd5da926-d636-4525-bb80-17501fc2d4f0",
+    "atlas": "",
+    "rect": [
+      2,
+      9,
+      1972,
+      242
+    ],
+    "offset": [
+      -2,
+      -3.5
+    ],
+    "originalSize": [
+      1980,
+      253
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

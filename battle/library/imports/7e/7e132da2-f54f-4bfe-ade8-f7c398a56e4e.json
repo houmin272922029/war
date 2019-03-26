@@ -1,0 +1,494 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_zidong",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "oVZ0qITre4NR+Dy6heNrEewhUys",
+      "spine": "3.6.53",
+      "width": 256,
+      "height": 256,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      },
+      {
+        "name": "bone9",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "bone10",
+        "parent": "root"
+      },
+      {
+        "name": "bone11",
+        "parent": "root"
+      },
+      {
+        "name": "bone12",
+        "parent": "root"
+      },
+      {
+        "name": "bone13",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/icon_jineng_zidong_002",
+        "bone": "bone",
+        "attachment": "png/icon_jineng_zidong_002"
+      },
+      {
+        "name": "png/huan03",
+        "bone": "bone3",
+        "attachment": "png/huan03",
+        "blend": "additive"
+      },
+      {
+        "name": "png/huan4",
+        "bone": "bone13",
+        "attachment": "png/huan03",
+        "blend": "additive"
+      },
+      {
+        "name": "png/huan3",
+        "bone": "bone9",
+        "attachment": "png/huan03",
+        "blend": "additive"
+      },
+      {
+        "name": "png/add_00000",
+        "bone": "bone10",
+        "attachment": "png/add_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/guang_00000",
+        "bone": "bone11",
+        "attachment": "png/guang_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/lizi_00000",
+        "bone": "bone5",
+        "attachment": "png/lizi_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/lizi_0",
+        "bone": "bone12",
+        "attachment": "png/lizi_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/ggg",
+        "bone": "bone4",
+        "attachment": "png/ggg",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/add_00000": {
+          "png/add_00000": {
+            "width": 90,
+            "height": 92
+          }
+        },
+        "png/ggg": {
+          "png/ggg": {
+            "width": 135,
+            "height": 135
+          }
+        },
+        "png/guang_00000": {
+          "png/guang_00000": {
+            "width": 100,
+            "height": 100
+          }
+        },
+        "png/huan03": {
+          "png/huan03": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/huan3": {
+          "png/huan03": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/huan4": {
+          "png/huan03": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/icon_jineng_zidong_002": {
+          "png/icon_jineng_zidong_002": {
+            "width": 95,
+            "height": 96
+          }
+        },
+        "png/lizi_0": {
+          "png/lizi_00000": {
+            "width": 90,
+            "height": 92
+          }
+        },
+        "png/lizi_00000": {
+          "png/lizi_00000": {
+            "width": 90,
+            "height": 92
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/add_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ff4d4d00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ff4d4d77"
+              },
+              {
+                "time": 0.5,
+                "color": "ff4d4d00"
+              }
+            ]
+          },
+          "png/ggg": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffa4"
+              }
+            ]
+          },
+          "png/guang_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ff000000"
+              },
+              {
+                "time": 0.2667,
+                "color": "ff1919ff"
+              },
+              {
+                "time": 0.5,
+                "color": "ff000000"
+              }
+            ]
+          },
+          "png/huan03": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "png/huan3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ff3939ff"
+              }
+            ]
+          },
+          "png/huan4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "bd30ffaa"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffaa"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/lizi_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff2b"
+              },
+              {
+                "time": 0.3667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/lizi_0": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffff1c"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1333,
+                "name": "png/lizi_00000"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1667,
+                "angle": -143.2
+              },
+              {
+                "time": 0.3333,
+                "angle": 110.9
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 1.71
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.51,
+                "y": 0.494
+              }
+            ]
+          },
+          "bone9": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1667,
+                "angle": -132.4
+              },
+              {
+                "time": 0.3333,
+                "angle": 110.9
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.386,
+                "y": 0.385
+              }
+            ]
+          },
+          "bone10": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1667,
+                "angle": -139.25
+              },
+              {
+                "time": 0.3333,
+                "angle": 110
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.2,
+                "y": 1.204
+              }
+            ]
+          },
+          "bone5": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -4.26,
+                "y": -2.36
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.3667,
+                "x": 1.6,
+                "y": 1.6
+              }
+            ]
+          },
+          "bone12": {
+            "rotate": [
+              {
+                "time": 0.1333,
+                "angle": 177.24
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.305,
+                "y": 1.305
+              }
+            ]
+          },
+          "bone13": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.26,
+                "y": 0.26
+              },
+              {
+                "time": 0.2,
+                "x": 0.441,
+                "y": 0.445
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.1667,
+                "angle": -91.68
+              },
+              {
+                "time": 0.3333,
+                "angle": 153.47
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0.64
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.154,
+                "y": 1.167
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_zidong.png\r\nsize: 652,139\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/add_00000\r\n  rotate: false\r\n  xy: 468, 45\r\n  size: 90, 92\r\n  orig: 90, 92\r\n  offset: 0, 0\r\n  index: -1\r\npng/ggg\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 135, 135\r\n  orig: 135, 135\r\n  offset: 0, 0\r\n  index: -1\r\npng/guang_00000\r\n  rotate: false\r\n  xy: 269, 37\r\n  size: 100, 100\r\n  orig: 100, 100\r\n  offset: 0, 0\r\n  index: -1\r\npng/huan03\r\n  rotate: false\r\n  xy: 139, 9\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\npng/icon_jineng_zidong_002\r\n  rotate: false\r\n  xy: 371, 41\r\n  size: 95, 96\r\n  orig: 95, 96\r\n  offset: 0, 0\r\n  index: -1\r\npng/lizi_00000\r\n  rotate: false\r\n  xy: 560, 45\r\n  size: 90, 92\r\n  orig: 90, 92\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "e5dceb75-7393-4e3f-b51c-a2672b5cae53"
+    }
+  ],
+  "textureNames": [
+    "anim_zidong.png"
+  ],
+  "scale": 1
+}

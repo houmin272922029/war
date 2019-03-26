@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "811b22c8-d7d0-4568-a794-e90bb4ae1979",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_Wall_01": {
+      "ver": "1.0.3",
+      "uuid": "5c499ff3-1654-4409-8b2d-b9d6c6715952",
+      "rawTextureUuid": "811b22c8-d7d0-4568-a794-e90bb4ae1979",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 787,
+      "height": 151,
+      "rawWidth": 787,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

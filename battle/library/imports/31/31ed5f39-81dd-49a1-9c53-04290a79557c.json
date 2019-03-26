@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_zhanghaobangding_01",
+    "texture": "15157747-2a9f-466a-8f61-a73831838a6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

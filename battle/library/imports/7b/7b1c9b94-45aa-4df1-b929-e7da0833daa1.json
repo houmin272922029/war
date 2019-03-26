@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_youxiang_yilingqu_01",
+    "texture": "5220ab9f-b088-415a-ac09-981af47cc6ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

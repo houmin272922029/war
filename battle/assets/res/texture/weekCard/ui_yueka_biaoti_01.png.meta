@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f9431dda-0c4f-40a9-a86b-54fef82226c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_yueka_biaoti_01": {
+      "ver": "1.0.3",
+      "uuid": "ef4d7b9f-38d7-41f0-92d2-d73a5900db94",
+      "rawTextureUuid": "f9431dda-0c4f-40a9-a86b-54fef82226c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 566,
+      "height": 171,
+      "rawWidth": 568,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

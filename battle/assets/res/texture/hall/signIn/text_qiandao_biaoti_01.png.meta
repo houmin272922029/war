@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "df0ed239-d47f-4d01-85dc-0ed729a113d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_qiandao_biaoti_01": {
+      "ver": "1.0.3",
+      "uuid": "079ea338-6434-4d53-a92a-3135de0fa789",
+      "rawTextureUuid": "df0ed239-d47f-4d01-85dc-0ed729a113d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 44,
+      "rawWidth": 96,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

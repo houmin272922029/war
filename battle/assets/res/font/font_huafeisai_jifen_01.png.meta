@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2e741996-6687-487c-b812-efbd5345e5bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "font_huafeisai_jifen_01": {
+      "ver": "1.0.3",
+      "uuid": "f161bca2-91de-4cc9-b5a7-19e33974936b",
+      "rawTextureUuid": "2e741996-6687-487c-b812-efbd5345e5bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 30,
+      "rawWidth": 230,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

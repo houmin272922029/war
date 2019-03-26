@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zidongdi",
+    "texture": "907fbc14-b9b7-4fea-b8a2-fa5ed03ae41e",
+    "atlas": "",
+    "rect": [
+      21,
+      8,
+      910,
+      193
+    ],
+    "offset": [
+      9,
+      -2.5
+    ],
+    "originalSize": [
+      934,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

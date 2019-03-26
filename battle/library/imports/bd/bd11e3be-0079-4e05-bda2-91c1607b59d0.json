@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_huafei_money_01",
+    "texture": "99cb2b48-a5a8-4251-9ce6-27825eb1c7ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      460,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      460,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

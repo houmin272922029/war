@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_xinshoufenxiang_biaoti_01",
+    "texture": "1026f41c-7737-41a1-929b-74e63b79e77f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      678,
+      84
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      679,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

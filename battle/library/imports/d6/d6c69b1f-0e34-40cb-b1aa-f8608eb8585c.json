@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_jiruyuchang_01",
+    "texture": "92f68970-842b-4160-b258-d83427e9b2c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

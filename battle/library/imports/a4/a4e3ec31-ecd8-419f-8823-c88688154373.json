@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shouping_duihao_01",
+    "texture": "cc549daa-44c4-4471-9e59-f57a4a29a230",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

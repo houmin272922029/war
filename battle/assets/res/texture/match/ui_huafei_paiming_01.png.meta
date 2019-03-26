@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0e323e9f-ec35-48d5-991c-0651f870ef53",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_huafei_paiming_01": {
+      "ver": "1.0.3",
+      "uuid": "a770bbc6-da73-4dc2-9912-3537b9a48f05",
+      "rawTextureUuid": "0e323e9f-ec35-48d5-991c-0651f870ef53",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 62,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

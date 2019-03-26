@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "758a133f-d2c7-459d-8030-2bed07f5067b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_dengji_jindu_001": {
+      "ver": "1.0.3",
+      "uuid": "8428882b-cee9-45ce-b2eb-4cdc9359b1e4",
+      "rawTextureUuid": "758a133f-d2c7-459d-8030-2bed07f5067b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 274,
+      "height": 17,
+      "rawWidth": 274,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 50,
+      "borderRight": 50,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6c0088b1-4525-4966-92b8-8260d6f2494d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shrimp_kapai_01": {
+      "ver": "1.0.3",
+      "uuid": "e7798264-6ec7-46be-b4db-c769e2aa5c99",
+      "rawTextureUuid": "6c0088b1-4525-4966-92b8-8260d6f2494d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 262,
+      "height": 315,
+      "rawWidth": 262,
+      "rawHeight": 315,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

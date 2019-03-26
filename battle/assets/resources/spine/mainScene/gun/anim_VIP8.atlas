@@ -1,0 +1,209 @@
+
+anim_VIP8.png
+size: 734,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2, 7
+  size: 295, 360
+  orig: 295, 360
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 364, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 364, 50
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 479, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 479, 50
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 594, 177
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 574, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+di0
+  rotate: false
+  xy: 592, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+guag66
+  rotate: true
+  xy: 574, 17
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+guag66you
+  rotate: false
+  xy: 605, 19
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 476, 2
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+guang 2
+  rotate: false
+  xy: 364, 2
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 709, 235
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+guang1 you
+  rotate: true
+  xy: 709, 269
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 608, 5
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: false
+  xy: 704, 83
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+guangzi
+  rotate: false
+  xy: 661, 28
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+guangzi you
+  rotate: false
+  xy: 683, 64
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+paotong1
+  rotate: false
+  xy: 364, 12
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+paotong2
+  rotate: false
+  xy: 420, 12
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+paotong3
+  rotate: false
+  xy: 594, 51
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 476, 13
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 694, 141
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 650, 59
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 594, 95
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 525, 13
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 709, 201
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+zuobi you
+  rotate: true
+  xy: 637, 18
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 694, 105
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1

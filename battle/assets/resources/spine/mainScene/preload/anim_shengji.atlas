@@ -1,0 +1,370 @@
+
+anim_shengji.png
+size: 1985,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/caidai1
+  rotate: true
+  xy: 1945, 15
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+images/caidai2
+  rotate: true
+  xy: 1865, 8
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+images/caidai3
+  rotate: true
+  xy: 1890, 11
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+images/caidai4
+  rotate: false
+  xy: 1924, 13
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+images/gong1
+  rotate: true
+  xy: 796, 45
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+images/huan01
+  rotate: false
+  xy: 1439, 147
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/huan02
+  rotate: false
+  xy: 1527, 147
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/huizhang
+  rotate: false
+  xy: 660, 126
+  size: 247, 107
+  orig: 247, 107
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_01
+  rotate: false
+  xy: 871, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_02
+  rotate: false
+  xy: 312, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_03
+  rotate: false
+  xy: 346, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_04
+  rotate: false
+  xy: 380, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_05
+  rotate: false
+  xy: 414, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_06
+  rotate: false
+  xy: 448, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_07
+  rotate: false
+  xy: 482, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_08
+  rotate: false
+  xy: 516, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_09
+  rotate: false
+  xy: 550, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/icon_goldcoin_10
+  rotate: false
+  xy: 584, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/ji
+  rotate: false
+  xy: 836, 40
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+images/le1
+  rotate: true
+  xy: 651, 25
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+images/light01
+  rotate: false
+  xy: 312, 61
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+images/light02
+  rotate: false
+  xy: 1615, 147
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/light03
+  rotate: false
+  xy: 2, 11
+  size: 308, 222
+  orig: 308, 222
+  offset: 0, 0
+  index: -1
+images/light04
+  rotate: false
+  xy: 486, 61
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+images/light09
+  rotate: true
+  xy: 1336, 147
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00000
+  rotate: true
+  xy: 1847, 99
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00001
+  rotate: true
+  xy: 1703, 20
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00002
+  rotate: true
+  xy: 1772, 20
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00003
+  rotate: false
+  xy: 1841, 30
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00004
+  rotate: true
+  xy: 1916, 99
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00005
+  rotate: false
+  xy: 1336, 78
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00006
+  rotate: false
+  xy: 1472, 78
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00007
+  rotate: true
+  xy: 1608, 11
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00008
+  rotate: false
+  xy: 909, 72
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00009
+  rotate: false
+  xy: 660, 57
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00010
+  rotate: false
+  xy: 1045, 72
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00011
+  rotate: false
+  xy: 1181, 72
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00012
+  rotate: false
+  xy: 1317, 9
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00013
+  rotate: false
+  xy: 1453, 9
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00014
+  rotate: false
+  xy: 905, 3
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00015
+  rotate: false
+  xy: 1041, 3
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/lj2/lj2_00016
+  rotate: false
+  xy: 1177, 3
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+images/money_1
+  rotate: false
+  xy: 1703, 156
+  size: 142, 77
+  orig: 142, 77
+  offset: 0, 0
+  index: -1
+images/ni
+  rotate: true
+  xy: 840, 91
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+images/piaodai_1
+  rotate: false
+  xy: 909, 141
+  size: 425, 92
+  orig: 425, 92
+  offset: 0, 0
+  index: -1
+images/sheng
+  rotate: false
+  xy: 871, 51
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+images/star1_1
+  rotate: false
+  xy: 1945, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+images/star1_2
+  rotate: false
+  xy: 689, 25
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+images/star_1
+  rotate: false
+  xy: 1924, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+images/star_2
+  rotate: false
+  xy: 1841, 7
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+images/star_3
+  rotate: true
+  xy: 796, 80
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+images/xi1
+  rotate: false
+  xy: 618, 22
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuchang_shezhi",
+    "texture": "52ae8a69-861f-44e7-a2b7-e0ad61de4dc1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

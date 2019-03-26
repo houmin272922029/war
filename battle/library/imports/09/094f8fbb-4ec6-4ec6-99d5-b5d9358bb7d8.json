@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tujian_diaoluoshuoming_01",
+    "texture": "1ac7f0a4-bb84-40ec-afd9-ab69fd40fe14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

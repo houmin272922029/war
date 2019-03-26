@@ -1,0 +1,237 @@
+
+anim_shangcheng.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/anniu
+  rotate: false
+  xy: 0, 397
+  size: 228, 98
+  orig: 228, 98
+  offset: 0, 0
+  index: -1
+png/fanhui_00000
+  rotate: false
+  xy: 574, 180
+  size: 73, 92
+  orig: 100, 110
+  offset: 1, 14
+  index: -1
+png/fanhui_00001
+  rotate: false
+  xy: 912, 280
+  size: 86, 93
+  orig: 100, 110
+  offset: 1, 13
+  index: -1
+png/fanhui_00002
+  rotate: false
+  xy: 726, 274
+  size: 91, 94
+  orig: 100, 110
+  offset: 0, 13
+  index: -1
+png/fanhui_00003
+  rotate: false
+  xy: 538, 274
+  size: 92, 94
+  orig: 100, 110
+  offset: 1, 13
+  index: -1
+png/fanhui_00004
+  rotate: false
+  xy: 632, 274
+  size: 92, 94
+  orig: 100, 110
+  offset: 2, 13
+  index: -1
+png/fanhui_00005
+  rotate: false
+  xy: 819, 277
+  size: 91, 95
+  orig: 100, 110
+  offset: 4, 12
+  index: -1
+png/fanhui_00006
+  rotate: true
+  xy: 215, 277
+  size: 89, 96
+  orig: 100, 110
+  offset: 6, 10
+  index: -1
+png/fanhui_00007
+  rotate: false
+  xy: 489, 162
+  size: 83, 94
+  orig: 100, 110
+  offset: 12, 11
+  index: -1
+png/fanhui_00008
+  rotate: false
+  xy: 649, 181
+  size: 66, 91
+  orig: 100, 110
+  offset: 29, 13
+  index: -1
+png/fanhui_00009
+  rotate: false
+  xy: 313, 278
+  size: 46, 88
+  orig: 100, 110
+  offset: 48, 13
+  index: -1
+png/fanhui_00010
+  rotate: false
+  xy: 1000, 296
+  size: 24, 77
+  orig: 100, 110
+  offset: 68, 15
+  index: -1
+png/kusu
+  rotate: false
+  xy: 489, 117
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+png/saoguang_00000
+  rotate: true
+  xy: 717, 167
+  size: 49, 94
+  orig: 320, 145
+  offset: 3, 39
+  index: -1
+png/saoguang_00001
+  rotate: true
+  xy: 717, 167
+  size: 49, 94
+  orig: 320, 145
+  offset: 3, 39
+  index: -1
+png/saoguang_00003
+  rotate: false
+  xy: 130, 276
+  size: 83, 119
+  orig: 320, 145
+  offset: 3, 15
+  index: -1
+png/saoguang_00004
+  rotate: true
+  xy: 361, 138
+  size: 99, 126
+  orig: 320, 145
+  offset: 4, 8
+  index: -1
+png/saoguang_00005
+  rotate: false
+  xy: 130, 13
+  size: 112, 128
+  orig: 320, 145
+  offset: 8, 6
+  index: -1
+png/saoguang_00006
+  rotate: true
+  xy: 892, 375
+  size: 120, 130
+  orig: 320, 145
+  offset: 17, 5
+  index: -1
+png/saoguang_00007
+  rotate: true
+  xy: 627, 370
+  size: 125, 130
+  orig: 320, 145
+  offset: 30, 5
+  index: -1
+png/saoguang_00008
+  rotate: true
+  xy: 363, 367
+  size: 128, 129
+  orig: 320, 145
+  offset: 44, 6
+  index: -1
+png/saoguang_00009
+  rotate: false
+  xy: 0, 132
+  size: 128, 130
+  orig: 320, 145
+  offset: 61, 6
+  index: -1
+png/saoguang_00010
+  rotate: false
+  xy: 0, 0
+  size: 128, 130
+  orig: 320, 145
+  offset: 78, 6
+  index: -1
+png/saoguang_00011
+  rotate: true
+  xy: 230, 368
+  size: 127, 131
+  orig: 320, 145
+  offset: 96, 6
+  index: -1
+png/saoguang_00012
+  rotate: false
+  xy: 0, 264
+  size: 128, 131
+  orig: 320, 145
+  offset: 113, 6
+  index: -1
+png/saoguang_00014
+  rotate: true
+  xy: 494, 370
+  size: 125, 131
+  orig: 320, 145
+  offset: 147, 7
+  index: -1
+png/saoguang_00015
+  rotate: true
+  xy: 759, 374
+  size: 121, 131
+  orig: 320, 145
+  offset: 164, 7
+  index: -1
+png/saoguang_00016
+  rotate: false
+  xy: 130, 143
+  size: 117, 131
+  orig: 320, 145
+  offset: 181, 7
+  index: -1
+png/saoguang_00017
+  rotate: false
+  xy: 249, 145
+  size: 110, 130
+  orig: 320, 145
+  offset: 198, 7
+  index: -1
+png/saoguang_00018
+  rotate: false
+  xy: 361, 239
+  size: 102, 126
+  orig: 320, 145
+  offset: 215, 7
+  index: -1
+png/saoguang_00020
+  rotate: false
+  xy: 465, 258
+  size: 71, 107
+  orig: 320, 145
+  offset: 249, 8
+  index: -1
+png/saoguang_00021
+  rotate: true
+  xy: 717, 218
+  size: 54, 93
+  orig: 320, 145
+  offset: 266, 9
+  index: -1
+png/shan_00000
+  rotate: false
+  xy: 579, 122
+  size: 76, 56
+  orig: 82, 59
+  offset: 6, 1
+  index: -1

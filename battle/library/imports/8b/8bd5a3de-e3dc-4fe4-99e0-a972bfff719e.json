@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_maizuanshi_01",
+    "texture": "727302b5-92aa-419f-ae91-773c9b46a3a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

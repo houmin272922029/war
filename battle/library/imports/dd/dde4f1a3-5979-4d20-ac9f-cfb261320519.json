@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yuchang_jinengtishi_05",
+    "texture": "b085dcef-ee8f-4f46-8ae0-141161d385cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

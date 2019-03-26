@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_VIP6",
+    "texture": "7129b2bf-e7db-4277-aabc-710e57445fc0",
+    "atlas": "",
+    "rect": [
+      86,
+      2,
+      1004,
+      207
+    ],
+    "offset": [
+      42,
+      0
+    ],
+    "originalSize": [
+      1092,
+      211
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

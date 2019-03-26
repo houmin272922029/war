@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_tongyong_diban2_02",
+    "texture": "32e530dc-5720-4227-8938-d959eb555cc2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      103
+    ],
+    "capInsets": [
+      35,
+      38,
+      37,
+      39
+    ]
+  }
+}

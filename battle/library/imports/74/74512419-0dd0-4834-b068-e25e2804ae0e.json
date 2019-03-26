@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_shop_shangcheng_01",
+    "texture": "65a3e312-5781-4cb7-87d6-2e25e8b080c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

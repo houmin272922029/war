@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_mubu_01",
+    "texture": "11cfdd47-c7f1-4859-a650-1ab12f3104ba",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      111,
+      448
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      113,
+      451
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

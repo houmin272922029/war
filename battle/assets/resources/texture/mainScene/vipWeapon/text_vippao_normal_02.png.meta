@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d6bf8d59-496a-4e1d-818b-0c56e479f5a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_vippao_normal_02": {
+      "ver": "1.0.3",
+      "uuid": "52cc7a38-80fc-4455-a363-d06bc68b8c07",
+      "rawTextureUuid": "d6bf8d59-496a-4e1d-818b-0c56e479f5a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 27,
+      "rawWidth": 67,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

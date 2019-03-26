@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_huafeisai_huangguan_03",
+    "texture": "c29c94b3-0c49-4a10-9a61-bde3fb8f275f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+
+anim_anniu.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/kusu
+  rotate: false
+  xy: 0, 196
+  size: 219, 60
+  orig: 219, 60
+  offset: 0, 0
+  index: -1
+png/saoguang_00000
+  rotate: true
+  xy: 259, 75
+  size: 49, 94
+  orig: 320, 145
+  offset: 3, 39
+  index: -1
+png/saoguang_00001
+  rotate: true
+  xy: 259, 75
+  size: 49, 94
+  orig: 320, 145
+  offset: 3, 39
+  index: -1
+png/saoguang_00003
+  rotate: true
+  xy: 1697, 173
+  size: 83, 119
+  orig: 320, 145
+  offset: 3, 15
+  index: -1
+png/saoguang_00004
+  rotate: true
+  xy: 1569, 157
+  size: 99, 126
+  orig: 320, 145
+  offset: 4, 8
+  index: -1
+png/saoguang_00005
+  rotate: true
+  xy: 1179, 144
+  size: 112, 128
+  orig: 320, 145
+  offset: 8, 6
+  index: -1
+png/saoguang_00006
+  rotate: true
+  xy: 914, 136
+  size: 120, 130
+  orig: 320, 145
+  offset: 17, 5
+  index: -1
+png/saoguang_00007
+  rotate: true
+  xy: 649, 131
+  size: 125, 130
+  orig: 320, 145
+  offset: 30, 5
+  index: -1
+png/saoguang_00008
+  rotate: false
+  xy: 519, 127
+  size: 128, 129
+  orig: 320, 145
+  offset: 44, 6
+  index: -1
+png/saoguang_00009
+  rotate: false
+  xy: 259, 126
+  size: 128, 130
+  orig: 320, 145
+  offset: 61, 6
+  index: -1
+png/saoguang_00010
+  rotate: false
+  xy: 389, 126
+  size: 128, 130
+  orig: 320, 145
+  offset: 78, 6
+  index: -1
+png/saoguang_00011
+  rotate: false
+  xy: 130, 63
+  size: 127, 131
+  orig: 320, 145
+  offset: 96, 6
+  index: -1
+png/saoguang_00012
+  rotate: false
+  xy: 0, 63
+  size: 128, 131
+  orig: 320, 145
+  offset: 113, 6
+  index: -1
+png/saoguang_00014
+  rotate: true
+  xy: 519, 0
+  size: 125, 131
+  orig: 320, 145
+  offset: 147, 7
+  index: -1
+png/saoguang_00015
+  rotate: true
+  xy: 781, 135
+  size: 121, 131
+  orig: 320, 145
+  offset: 164, 7
+  index: -1
+png/saoguang_00016
+  rotate: true
+  xy: 1046, 139
+  size: 117, 131
+  orig: 320, 145
+  offset: 181, 7
+  index: -1
+png/saoguang_00017
+  rotate: true
+  xy: 1309, 146
+  size: 110, 130
+  orig: 320, 145
+  offset: 198, 7
+  index: -1
+png/saoguang_00018
+  rotate: true
+  xy: 1441, 154
+  size: 102, 126
+  orig: 320, 145
+  offset: 215, 7
+  index: -1
+png/saoguang_00020
+  rotate: true
+  xy: 1818, 185
+  size: 71, 107
+  orig: 320, 145
+  offset: 249, 8
+  index: -1
+png/saoguang_00021
+  rotate: true
+  xy: 0, 7
+  size: 54, 93
+  orig: 320, 145
+  offset: 266, 9
+  index: -1
+png/shan_00000
+  rotate: false
+  xy: 1927, 200
+  size: 76, 56
+  orig: 82, 59
+  offset: 6, 1
+  index: -1

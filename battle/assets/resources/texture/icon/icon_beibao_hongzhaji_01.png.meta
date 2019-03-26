@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dd93772b-1b7b-46c4-aedc-46bd09630984",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_beibao_hongzhaji_01": {
+      "ver": "1.0.3",
+      "uuid": "9990b70e-bab6-4efe-be60-db7867effcfd",
+      "rawTextureUuid": "dd93772b-1b7b-46c4-aedc-46bd09630984",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

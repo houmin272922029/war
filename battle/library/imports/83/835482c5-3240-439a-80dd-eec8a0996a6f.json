@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_huliyu",
+    "texture": "ef3ea521-eac6-426b-b763-cd1f496580cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

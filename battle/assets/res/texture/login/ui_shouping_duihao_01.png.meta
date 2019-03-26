@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cc549daa-44c4-4471-9e59-f57a4a29a230",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shouping_duihao_01": {
+      "ver": "1.0.3",
+      "uuid": "a4e3ec31-ecd8-419f-8823-c88688154373",
+      "rawTextureUuid": "cc549daa-44c4-4471-9e59-f57a4a29a230",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 38,
+      "height": 33,
+      "rawWidth": 38,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

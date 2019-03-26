@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_zhujeimina_dengji_01",
+    "texture": "a76ef4ff-5283-45c4-a048-479067d2eff1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

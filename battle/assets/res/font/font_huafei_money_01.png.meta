@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "99cb2b48-a5a8-4251-9ce6-27825eb1c7ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "font_huafei_money_01": {
+      "ver": "1.0.3",
+      "uuid": "bd11e3be-0079-4e05-bda2-91c1607b59d0",
+      "rawTextureUuid": "99cb2b48-a5a8-4251-9ce6-27825eb1c7ee",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 460,
+      "height": 56,
+      "rawWidth": 460,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

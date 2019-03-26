@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_hall_shuzi",
+    "texture": "9b611f01-471a-4fbd-9c13-39f36b3a0ff0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

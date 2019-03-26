@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f5dc048a-7ef2-47f5-8996-74310d4d3f9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_vip_chakantequan_01": {
+      "ver": "1.0.3",
+      "uuid": "12cd1955-23c3-44ad-a73c-6bc8512cf1ca",
+      "rawTextureUuid": "f5dc048a-7ef2-47f5-8996-74310d4d3f9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 97,
+      "height": 26,
+      "rawWidth": 97,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

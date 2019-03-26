@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "42724dd8-e2ff-40da-9fa7-6f2955170239",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_leizhupaiming_piaodai_01": {
+      "ver": "1.0.3",
+      "uuid": "45f36f35-e0e7-4ca3-9be5-418eb84ee18f",
+      "rawTextureUuid": "42724dd8-e2ff-40da-9fa7-6f2955170239",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 206,
+      "height": 61,
+      "rawWidth": 206,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

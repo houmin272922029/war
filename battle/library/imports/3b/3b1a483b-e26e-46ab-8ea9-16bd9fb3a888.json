@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeizhengduo_buhuomubiao_01",
+    "texture": "a6de304a-7875-471d-bce2-7b26bc262c30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      266,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      266,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

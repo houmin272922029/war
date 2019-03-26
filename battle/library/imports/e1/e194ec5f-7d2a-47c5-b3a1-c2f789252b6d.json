@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_BlackBox2",
+    "texture": "a1bf0eee-d291-47ae-81c9-2a8ee6ca654d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1045,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1045,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

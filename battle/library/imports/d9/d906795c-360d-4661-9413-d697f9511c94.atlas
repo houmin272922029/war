@@ -1,0 +1,132 @@
+
+anim_huodezs.png
+size: 1181,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/b_0
+  rotate: false
+  xy: 0, 25
+  size: 164, 180
+  orig: 194, 184
+  offset: 20, 4
+  index: -1
+png/gg_0
+  rotate: false
+  xy: 1092, 28
+  size: 89, 84
+  orig: 116, 110
+  offset: 12, 11
+  index: -1
+png/gg_1
+  rotate: false
+  xy: 1001, 25
+  size: 89, 86
+  orig: 116, 110
+  offset: 11, 9
+  index: -1
+png/gg_10
+  rotate: false
+  xy: 725, 4
+  size: 90, 102
+  orig: 116, 110
+  offset: 15, 1
+  index: -1
+png/gg_11
+  rotate: false
+  xy: 632, 4
+  size: 91, 102
+  orig: 116, 110
+  offset: 15, 1
+  index: -1
+png/gg_12
+  rotate: false
+  xy: 538, 101
+  size: 91, 104
+  orig: 116, 110
+  offset: 15, 0
+  index: -1
+png/gg_13
+  rotate: false
+  xy: 442, 101
+  size: 94, 104
+  orig: 116, 110
+  offset: 13, 0
+  index: -1
+png/gg_14
+  rotate: false
+  xy: 542, 5
+  size: 88, 94
+  orig: 116, 110
+  offset: 12, 11
+  index: -1
+png/gg_2
+  rotate: false
+  xy: 817, 18
+  size: 92, 89
+  orig: 116, 110
+  offset: 10, 8
+  index: -1
+png/gg_3
+  rotate: false
+  xy: 911, 20
+  size: 88, 89
+  orig: 116, 110
+  offset: 10, 8
+  index: -1
+png/gg_4
+  rotate: false
+  xy: 1024, 114
+  size: 94, 91
+  orig: 116, 110
+  offset: 9, 7
+  index: -1
+png/gg_5
+  rotate: false
+  xy: 927, 113
+  size: 95, 92
+  orig: 116, 110
+  offset: 8, 6
+  index: -1
+png/gg_6
+  rotate: false
+  xy: 830, 111
+  size: 95, 94
+  orig: 116, 110
+  offset: 8, 6
+  index: -1
+png/gg_7
+  rotate: false
+  xy: 731, 109
+  size: 97, 96
+  orig: 116, 110
+  offset: 7, 4
+  index: -1
+png/gg_8
+  rotate: false
+  xy: 631, 108
+  size: 98, 97
+  orig: 116, 110
+  offset: 6, 3
+  index: -1
+png/gg_9
+  rotate: false
+  xy: 442, 0
+  size: 98, 99
+  orig: 116, 110
+  offset: 5, 3
+  index: -1
+png/light01
+  rotate: false
+  xy: 320, 85
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+png/xxuan_8
+  rotate: false
+  xy: 166, 44
+  size: 152, 161
+  orig: 157, 178
+  offset: 4, 0
+  index: -1

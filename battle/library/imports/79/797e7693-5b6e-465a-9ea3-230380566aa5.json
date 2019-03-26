@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhujiemian_duihuan_01",
+    "texture": "b4145bf6-3ef2-4b3e-adec-74225d32e468",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

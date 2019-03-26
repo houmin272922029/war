@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_king_mubu_02",
+    "texture": "1cb3f084-95d7-428d-8c13-4835dba8f61a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      363,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      363,
+      720
+    ],
+    "capInsets": [
+      0,
+      10,
+      0,
+      600
+    ]
+  }
+}

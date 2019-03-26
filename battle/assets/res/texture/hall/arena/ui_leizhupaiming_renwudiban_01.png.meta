@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "13cfef04-b173-4d56-8d42-bc3e5ceba9d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_leizhupaiming_renwudiban_01": {
+      "ver": "1.0.3",
+      "uuid": "b7ae1e7e-ecee-48b2-93cf-4bad373cd73b",
+      "rawTextureUuid": "13cfef04-b173-4d56-8d42-bc3e5ceba9d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 74,
+      "rawWidth": 84,
+      "rawHeight": 74,
+      "borderTop": 25,
+      "borderBottom": 29,
+      "borderLeft": 29,
+      "borderRight": 29,
+      "subMetas": {}
+    }
+  }
+}

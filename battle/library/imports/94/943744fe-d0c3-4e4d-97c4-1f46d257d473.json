@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhadan",
+    "texture": "b68588a9-1ec0-428f-b259-2239374715fd",
+    "atlas": "",
+    "rect": [
+      29,
+      6,
+      1563,
+      787
+    ],
+    "offset": [
+      12.5,
+      -2
+    ],
+    "originalSize": [
+      1596,
+      795
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e285bb3a-c9c8-4507-9dc6-ffdc897c6dcf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shop_lianzi_01": {
+      "ver": "1.0.3",
+      "uuid": "7027571c-eefd-4ea5-a066-d269567d5956",
+      "rawTextureUuid": "e285bb3a-c9c8-4507-9dc6-ffdc897c6dcf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 521,
+      "height": 111,
+      "rawWidth": 521,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

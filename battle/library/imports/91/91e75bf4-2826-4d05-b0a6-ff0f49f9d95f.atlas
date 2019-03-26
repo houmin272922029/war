@@ -1,0 +1,27 @@
+
+anim_xiaoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_yu_01
+  rotate: true
+  xy: 153, 117
+  size: 112, 79
+  orig: 112, 79
+  offset: 0, 0
+  index: -1
+ui_yu_02
+  rotate: true
+  xy: 2, 2
+  size: 96, 145
+  orig: 96, 145
+  offset: 0, 0
+  index: -1
+ui_yu_03
+  rotate: false
+  xy: 2, 100
+  size: 149, 129
+  orig: 149, 129
+  offset: 0, 0
+  index: -1

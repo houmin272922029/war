@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b82fa50f-15bf-4c01-a006-63aa588d0b58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_choujiang_choujiangzhong_01": {
+      "ver": "1.0.3",
+      "uuid": "bfb92d48-fc80-48e2-9b95-53dd4f397a5b",
+      "rawTextureUuid": "b82fa50f-15bf-4c01-a006-63aa588d0b58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 30,
+      "rawWidth": 120,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

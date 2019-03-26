@@ -1,0 +1,370 @@
+
+anim_fangyuzhao.png
+size: 994,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/act_add - 副本/act_00004
+  rotate: true
+  xy: 626, 288
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+png/act_add - 副本/act_00005
+  rotate: true
+  xy: 478, 132
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+png/act_add - 副本/act_00006
+  rotate: true
+  xy: 617, 128
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+png/dianhua/dianhua_00000
+  rotate: true
+  xy: 891, 567
+  size: 145, 96
+  orig: 145, 96
+  offset: 0, 0
+  index: -1
+png/dianhua/dianhua_00002
+  rotate: true
+  xy: 891, 567
+  size: 145, 96
+  orig: 145, 96
+  offset: 0, 0
+  index: -1
+png/dianhua/dianhua_00004
+  rotate: true
+  xy: 891, 567
+  size: 145, 96
+  orig: 145, 96
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00000
+  rotate: false
+  xy: 176, 447
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00003
+  rotate: false
+  xy: 165, 90
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00006
+  rotate: false
+  xy: 314, 90
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00009
+  rotate: false
+  xy: 216, 714
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00012
+  rotate: false
+  xy: 325, 448
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00015
+  rotate: false
+  xy: 365, 714
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00018
+  rotate: false
+  xy: 328, 292
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00021
+  rotate: false
+  xy: 474, 448
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00024
+  rotate: false
+  xy: 514, 714
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00027
+  rotate: false
+  xy: 663, 714
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00030
+  rotate: false
+  xy: 477, 292
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00033
+  rotate: false
+  xy: 623, 448
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwo/fangyuy_00036
+  rotate: false
+  xy: 812, 714
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00000
+  rotate: false
+  xy: 216, 604
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00002
+  rotate: false
+  xy: 351, 604
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00004
+  rotate: false
+  xy: 486, 604
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00006
+  rotate: false
+  xy: 621, 604
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00008
+  rotate: false
+  xy: 756, 604
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00010
+  rotate: true
+  xy: 772, 469
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/fengwochai/fengwochai_00012
+  rotate: true
+  xy: 882, 432
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+png/huan02
+  rotate: false
+  xy: 2, 429
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+png/lidian_0
+  rotate: false
+  xy: 2, 5
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/lidian_10
+  rotate: true
+  xy: 729, 3
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/lidian_2
+  rotate: false
+  xy: 116, 5
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/lidian_4
+  rotate: true
+  xy: 613, 14
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/lidian_6
+  rotate: true
+  xy: 671, 14
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/lidian_7
+  rotate: false
+  xy: 848, 104
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+png/light01
+  rotate: false
+  xy: 230, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/suipian/suipian_00005
+  rotate: true
+  xy: 772, 334
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+png/suipian/suipian_00006
+  rotate: true
+  xy: 881, 297
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+png/suipian/suipian_00007
+  rotate: true
+  xy: 765, 199
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+png/suipian/suipian_00009
+  rotate: true
+  xy: 874, 162
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+png/suipian/suipian_00010
+  rotate: true
+  xy: 2, 603
+  size: 265, 212
+  orig: 265, 212
+  offset: 0, 0
+  index: -1
+png/suipian2_00000
+  rotate: false
+  xy: 328, 250
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+png/suuipian1_00000
+  rotate: false
+  xy: 378, 250
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+png/xdian_00000
+  rotate: true
+  xy: 787, 15
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+png/xdian_00001
+  rotate: true
+  xy: 856, 15
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+png/xdian_00002
+  rotate: true
+  xy: 925, 15
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+png/xuli/dansui_0
+  rotate: true
+  xy: 428, 256
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+png/xuli/daquan_0
+  rotate: false
+  xy: 502, 23
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_0
+  rotate: true
+  xy: 2, 246
+  size: 181, 161
+  orig: 181, 161
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_15
+  rotate: false
+  xy: 756, 117
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_2
+  rotate: true
+  xy: 2, 63
+  size: 181, 161
+  orig: 181, 161
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_3
+  rotate: true
+  xy: 165, 246
+  size: 181, 161
+  orig: 181, 161
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_5
+  rotate: false
+  xy: 318, 8
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+png/xuli/ssssss_9
+  rotate: false
+  xy: 410, 8
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_tujian_icon_01",
+    "texture": "e8bee699-e45a-4ef9-89a7-ff44154f3982",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

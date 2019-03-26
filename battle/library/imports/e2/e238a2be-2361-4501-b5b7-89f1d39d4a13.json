@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_shoujibangding_01",
+    "texture": "612833fa-0285-47c9-95cc-ff827ad8524b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

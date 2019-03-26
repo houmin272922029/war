@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_zhujiemian_vip_01",
+    "texture": "465f5e8e-332d-4b4b-95f5-1a3803b935cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

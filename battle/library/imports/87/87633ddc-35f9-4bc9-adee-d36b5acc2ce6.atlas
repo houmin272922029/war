@@ -1,0 +1,244 @@
+
+anim_VIP2.png
+size: 1361,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 1282, 113
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+L21
+  rotate: false
+  xy: 1282, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+R21
+  rotate: false
+  xy: 1282, 27
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+L22
+  rotate: false
+  xy: 1305, 60
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+L23
+  rotate: true
+  xy: 1303, 21
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 1282, 80
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+L4
+  rotate: false
+  xy: 1282, 45
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+L5
+  rotate: false
+  xy: 1326, 75
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+LCHIBANG
+  rotate: true
+  xy: 1326, 60
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+LCHIBANG1
+  rotate: true
+  xy: 1322, 45
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+LL
+  rotate: false
+  xy: 1303, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+LL1
+  rotate: true
+  xy: 1317, 145
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+R1
+  rotate: false
+  xy: 1282, 97
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+R22
+  rotate: false
+  xy: 1305, 75
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+R23
+  rotate: true
+  xy: 1346, 72
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+R24
+  rotate: true
+  xy: 1346, 51
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+R3
+  rotate: false
+  xy: 1282, 63
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+R4
+  rotate: false
+  xy: 1282, 9
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+R5
+  rotate: false
+  xy: 1303, 42
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+RCHIBANG
+  rotate: false
+  xy: 1318, 22
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+RCHIBANG1
+  rotate: false
+  xy: 1320, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+RR
+  rotate: false
+  xy: 1333, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+RR1
+  rotate: true
+  xy: 1317, 93
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+fire/fire_0
+  rotate: false
+  xy: 2, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_1
+  rotate: false
+  xy: 130, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_2
+  rotate: false
+  xy: 258, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_3
+  rotate: false
+  xy: 386, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_4
+  rotate: false
+  xy: 514, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_5
+  rotate: false
+  xy: 642, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_6
+  rotate: false
+  xy: 770, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_7
+  rotate: false
+  xy: 898, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_8
+  rotate: false
+  xy: 1026, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+fire/fire_9
+  rotate: false
+  xy: 1154, 4
+  size: 126, 191
+  orig: 126, 191
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 1282, 129
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1

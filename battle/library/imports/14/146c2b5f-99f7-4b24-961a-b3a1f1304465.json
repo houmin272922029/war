@@ -1,0 +1,167 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_welcome_bao",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "1Vvrg0/UpyE2XhnTqgVHywmYb6Q",
+      "spine": "3.6.53",
+      "width": 640,
+      "height": 360,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone27",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "bo2/bo02_00187",
+        "bone": "bone27",
+        "attachment": "bo2/bo02_00197"
+      }
+    ],
+    "skins": {
+      "default": {
+        "bo2/bo02_00187": {
+          "bo2/bo02_00187": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00188": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00189": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00190": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00191": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00192": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00193": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00194": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00195": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00196": {
+            "width": 640,
+            "height": 360
+          },
+          "bo2/bo02_00197": {
+            "width": 640,
+            "height": 360
+          }
+        }
+      }
+    },
+    "animations": {
+      "welcome": {
+        "slots": {
+          "bo2/bo02_00187": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "bo2/bo02_00187"
+              },
+              {
+                "time": 0.0333,
+                "name": "bo2/bo02_00188"
+              },
+              {
+                "time": 0.0667,
+                "name": "bo2/bo02_00189"
+              },
+              {
+                "time": 0.1,
+                "name": "bo2/bo02_00190"
+              },
+              {
+                "time": 0.1333,
+                "name": "bo2/bo02_00191"
+              },
+              {
+                "time": 0.1667,
+                "name": "bo2/bo02_00192"
+              },
+              {
+                "time": 0.2,
+                "name": "bo2/bo02_00193"
+              },
+              {
+                "time": 0.2333,
+                "name": "bo2/bo02_00194"
+              },
+              {
+                "time": 0.2667,
+                "name": "bo2/bo02_00195"
+              },
+              {
+                "time": 0.3,
+                "name": "bo2/bo02_00196"
+              },
+              {
+                "time": 0.3333,
+                "name": "bo2/bo02_00197"
+              },
+              {
+                "time": 0.3667,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone27": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -347.88,
+                "y": 394.09
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 2.5,
+                "y": 2.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_welcome_bao.png\r\nsize: 1625,360\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nbo2/bo02_00187\r\n  rotate: false\r\n  xy: 470, 20\r\n  size: 203, 123\r\n  orig: 640, 360\r\n  offset: 358, 0\r\n  index: -1\r\nbo2/bo02_00188\r\n  rotate: false\r\n  xy: 245, 10\r\n  size: 223, 133\r\n  orig: 640, 360\r\n  offset: 348, 0\r\n  index: -1\r\nbo2/bo02_00189\r\n  rotate: false\r\n  xy: 0, 0\r\n  size: 243, 143\r\n  orig: 640, 360\r\n  offset: 338, 0\r\n  index: -1\r\nbo2/bo02_00190\r\n  rotate: false\r\n  xy: 758, 187\r\n  size: 306, 173\r\n  orig: 640, 360\r\n  offset: 306, 0\r\n  index: -1\r\nbo2/bo02_00191\r\n  rotate: false\r\n  xy: 0, 145\r\n  size: 377, 215\r\n  orig: 640, 360\r\n  offset: 263, 0\r\n  index: -1\r\nbo2/bo02_00192\r\n  rotate: false\r\n  xy: 758, 12\r\n  size: 306, 173\r\n  orig: 640, 360\r\n  offset: 306, 0\r\n  index: -1\r\nbo2/bo02_00193\r\n  rotate: false\r\n  xy: 379, 145\r\n  size: 377, 215\r\n  orig: 640, 360\r\n  offset: 263, 0\r\n  index: -1\r\nbo2/bo02_00194\r\n  rotate: false\r\n  xy: 1066, 38\r\n  size: 272, 160\r\n  orig: 640, 360\r\n  offset: 324, 0\r\n  index: -1\r\nbo2/bo02_00195\r\n  rotate: false\r\n  xy: 1066, 200\r\n  size: 279, 160\r\n  orig: 640, 360\r\n  offset: 318, 0\r\n  index: -1\r\nbo2/bo02_00196\r\n  rotate: false\r\n  xy: 1347, 200\r\n  size: 278, 160\r\n  orig: 640, 360\r\n  offset: 318, 0\r\n  index: -1\r\nbo2/bo02_00197\r\n  rotate: false\r\n  xy: 1340, 41\r\n  size: 277, 157\r\n  orig: 640, 360\r\n  offset: 318, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "d7d07cc7-fc42-4e4c-b170-2a8619e291a3"
+    }
+  ],
+  "textureNames": [
+    "anim_welcome_bao.png"
+  ],
+  "scale": 1
+}

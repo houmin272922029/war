@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_beibao_weiyongyou_01",
+    "texture": "c372d5f3-0ef0-46c5-a5e1-92f997fffd7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

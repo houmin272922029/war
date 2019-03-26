@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_yuchang_paobei_002",
+    "texture": "9595db86-94be-4574-8fd9-68baf34f10e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

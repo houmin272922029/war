@@ -1,0 +1,76 @@
+
+anim_guzulingjiang1.png
+size: 402,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/xingxing/xxsuo_0
+  rotate: false
+  xy: 324, 86
+  size: 78, 80
+  orig: 85, 84
+  offset: 3, 3
+  index: -1
+png/xingxing/xxsuo_1
+  rotate: false
+  xy: 324, 4
+  size: 78, 80
+  orig: 85, 84
+  offset: 3, 3
+  index: -1
+png/xingxing/xxsuo_11
+  rotate: false
+  xy: 0, 84
+  size: 79, 82
+  orig: 85, 84
+  offset: 3, 1
+  index: -1
+png/xingxing/xxsuo_13
+  rotate: false
+  xy: 0, 0
+  size: 79, 82
+  orig: 85, 84
+  offset: 3, 1
+  index: -1
+png/xingxing/xxsuo_15
+  rotate: false
+  xy: 81, 84
+  size: 79, 82
+  orig: 85, 84
+  offset: 3, 1
+  index: -1
+png/xingxing/xxsuo_17
+  rotate: false
+  xy: 81, 0
+  size: 79, 82
+  orig: 85, 84
+  offset: 3, 1
+  index: -1
+png/xingxing/xxsuo_3
+  rotate: false
+  xy: 162, 2
+  size: 79, 81
+  orig: 85, 84
+  offset: 3, 2
+  index: -1
+png/xingxing/xxsuo_5
+  rotate: false
+  xy: 243, 85
+  size: 79, 81
+  orig: 85, 84
+  offset: 3, 2
+  index: -1
+png/xingxing/xxsuo_7
+  rotate: false
+  xy: 243, 2
+  size: 79, 81
+  orig: 85, 84
+  offset: 3, 2
+  index: -1
+png/xingxing/xxsuo_9
+  rotate: false
+  xy: 162, 85
+  size: 79, 81
+  orig: 85, 84
+  offset: 3, 2
+  index: -1

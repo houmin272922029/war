@@ -1,0 +1,153 @@
+
+anim_yueshencifu2.png
+size: 441,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/diandian
+  rotate: false
+  xy: 179, 54
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+png/hhh_00000
+  rotate: false
+  xy: 2, 3
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00001
+  rotate: true
+  xy: 66, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00002
+  rotate: true
+  xy: 102, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00003
+  rotate: true
+  xy: 138, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00004
+  rotate: true
+  xy: 174, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00005
+  rotate: false
+  xy: 125, 7
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00006
+  rotate: false
+  xy: 179, 110
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00007
+  rotate: true
+  xy: 210, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00008
+  rotate: true
+  xy: 246, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00009
+  rotate: true
+  xy: 282, 146
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00010
+  rotate: false
+  xy: 318, 233
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00011
+  rotate: false
+  xy: 318, 197
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00012
+  rotate: false
+  xy: 318, 161
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00013
+  rotate: false
+  xy: 318, 125
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00014
+  rotate: true
+  xy: 302, 2
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00015
+  rotate: false
+  xy: 179, 74
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00016
+  rotate: true
+  xy: 338, 2
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/hhh_00017
+  rotate: true
+  xy: 374, 2
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+png/star04
+  rotate: false
+  xy: 66, 43
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+png/zi
+  rotate: true
+  xy: 2, 39
+  size: 228, 62
+  orig: 228, 62
+  offset: 0, 0
+  index: -1

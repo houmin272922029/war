@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_tishi_01",
+    "texture": "fb4061d6-4843-4496-9aed-4d428bdf5009",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

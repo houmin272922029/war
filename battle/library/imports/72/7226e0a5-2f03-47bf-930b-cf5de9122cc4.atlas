@@ -1,0 +1,20 @@
+
+anim_hua.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan01
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+star06
+  rotate: false
+  xy: 128, 50
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1

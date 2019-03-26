@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_junsha_miaoshu_01",
+    "texture": "ade36f02-ffb6-4eae-a862-74da80a71fa2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      385,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      385,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_light_01",
+    "texture": "5916f6c3-58cd-4496-8080-c03289589631",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

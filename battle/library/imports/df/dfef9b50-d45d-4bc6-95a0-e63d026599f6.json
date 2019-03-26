@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_die_front_3",
+    "texture": "8e516a05-be03-42c7-8c8e-fe6d850d7124",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      246,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

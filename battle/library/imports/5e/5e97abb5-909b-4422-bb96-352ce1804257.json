@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_denglu_zhaohuimima_01",
+    "texture": "f8d2d60c-20c8-489f-a53f-84076ce12037",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

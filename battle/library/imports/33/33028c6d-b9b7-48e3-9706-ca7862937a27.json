@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_kuangbaozidan_03",
+    "texture": "2854fc58-e8b3-43d7-82b0-ef08a9a5c083",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      64,
+      167
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

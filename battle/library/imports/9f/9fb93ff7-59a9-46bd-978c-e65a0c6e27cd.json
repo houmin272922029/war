@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_cw_jineng_01",
+    "texture": "7155a772-87cd-4215-9b42-31238c0e9cd6",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      90,
+      95
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      90,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

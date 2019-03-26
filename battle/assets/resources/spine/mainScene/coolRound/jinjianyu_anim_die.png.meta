@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "516d32ac-fc34-4a30-a0a3-fd25249efef4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinjianyu_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "3e56dc6c-b81b-4273-9882-7f5d72cc0a81",
+      "rawTextureUuid": "516d32ac-fc34-4a30-a0a3-fd25249efef4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 304,
+      "height": 197,
+      "rawWidth": 308,
+      "rawHeight": 201,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

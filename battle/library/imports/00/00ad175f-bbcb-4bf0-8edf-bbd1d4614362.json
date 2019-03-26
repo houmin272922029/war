@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_weiyongyou_01",
+    "texture": "6a326b5d-93e1-4901-8132-a2df474ae81c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

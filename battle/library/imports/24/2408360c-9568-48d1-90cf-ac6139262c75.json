@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhuguizuka",
+    "texture": "795343f4-2a6d-43fe-a251-21d24835024e",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      674,
+      134
+    ],
+    "offset": [
+      -3,
+      1
+    ],
+    "originalSize": [
+      692,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

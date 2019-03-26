@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_vip_kexiangshou_01",
+    "texture": "85d755d6-c04c-4c74-92fe-e04681f321be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

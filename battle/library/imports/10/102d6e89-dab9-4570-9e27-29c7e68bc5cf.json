@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yueka_di_02",
+    "texture": "20ef1b85-d6a0-46ba-aa4b-afb241e5c3c4",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      854,
+      124
+    ],
+    "offset": [
+      13.5,
+      0
+    ],
+    "originalSize": [
+      881,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

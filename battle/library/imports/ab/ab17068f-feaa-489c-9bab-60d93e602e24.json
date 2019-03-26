@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_meirenyudaiji",
+    "texture": "1e67fc6b-c98e-4074-acd1-fc03025ec35a",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      350,
+      268
+    ],
+    "offset": [
+      4.5,
+      -5
+    ],
+    "originalSize": [
+      365,
+      282
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

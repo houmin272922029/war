@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_zhuanshi",
+    "texture": "3493192b-1247-4638-a39a-5c7d45bf7eea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      787,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      787,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafeisai_touxiang_01",
+    "texture": "1d99e91b-952c-41fe-880b-d2dc054b0ae5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

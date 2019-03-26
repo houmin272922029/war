@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_xuanshangcheng_shibai",
+    "texture": "84765e11-da00-42da-b984-62c746ab9c50",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1726,
+      527
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1730,
+      531
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

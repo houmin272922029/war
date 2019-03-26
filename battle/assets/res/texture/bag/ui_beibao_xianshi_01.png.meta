@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "714717df-39f7-4d85-9f80-e737321cd150",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_beibao_xianshi_01": {
+      "ver": "1.0.3",
+      "uuid": "f19ae243-c314-48db-9072-e72749332120",
+      "rawTextureUuid": "714717df-39f7-4d85-9f80-e737321cd150",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 39,
+      "rawWidth": 72,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

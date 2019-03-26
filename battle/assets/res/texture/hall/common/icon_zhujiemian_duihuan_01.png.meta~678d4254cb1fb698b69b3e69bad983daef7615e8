@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "45493e03-56c4-4ddf-8bba-11a8a78a9b0c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_zhujiemian_duihuan_01": {
+      "ver": "1.0.3",
+      "uuid": "ff469ddc-9f29-4d92-b95d-f25fa7577c95",
+      "rawTextureUuid": "45493e03-56c4-4ddf-8bba-11a8a78a9b0c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 80,
+      "rawWidth": 78,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "21a9af66-a98c-4594-9948-0f989b6bf022",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "txt_leizhupaiming_kaishi_01": {
+      "ver": "1.0.3",
+      "uuid": "da02392c-c97f-4401-9453-2feaa97dd714",
+      "rawTextureUuid": "21a9af66-a98c-4594-9948-0f989b6bf022",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 25,
+      "rawWidth": 89,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

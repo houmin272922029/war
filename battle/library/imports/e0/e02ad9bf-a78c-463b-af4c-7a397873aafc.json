@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_boshi_miaoshu_03",
+    "texture": "6b787d5e-71ff-4e46-8810-a93607d7e900",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      223,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

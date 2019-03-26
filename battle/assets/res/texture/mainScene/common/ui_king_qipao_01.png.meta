@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7635f2ff-aeb1-46f6-9e26-91bf95409502",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_qipao_01": {
+      "ver": "1.0.3",
+      "uuid": "dbd88cd3-9386-4b12-bbe4-8afbe5fa3f6a",
+      "rawTextureUuid": "7635f2ff-aeb1-46f6-9e26-91bf95409502",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 120,
+      "rawWidth": 124,
+      "rawHeight": 120,
+      "borderTop": 30,
+      "borderBottom": 55,
+      "borderLeft": 30,
+      "borderRight": 90,
+      "subMetas": {}
+    }
+  }
+}

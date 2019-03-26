@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yueka_fanli_01",
+    "texture": "9a59528c-7212-4a4a-96cf-b9ff9a42dddd",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      153,
+      205
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      153,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

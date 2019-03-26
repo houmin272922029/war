@@ -1,0 +1,90 @@
+
+anim_jiesuojinbi.png
+size: 484,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_goldcoin_01
+  rotate: false
+  xy: 284, 104
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_02
+  rotate: false
+  xy: 284, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_03
+  rotate: false
+  xy: 334, 104
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_04
+  rotate: false
+  xy: 334, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_05
+  rotate: false
+  xy: 384, 104
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_06
+  rotate: false
+  xy: 434, 104
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_07
+  rotate: false
+  xy: 384, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_08
+  rotate: false
+  xy: 434, 54
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_09
+  rotate: false
+  xy: 284, 4
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+icon_goldcoin_10
+  rotate: false
+  xy: 334, 4
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 154, 24
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+急急急_0
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

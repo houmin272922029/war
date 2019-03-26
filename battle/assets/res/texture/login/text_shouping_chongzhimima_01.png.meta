@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bddde3b5-1dca-4f70-bb96-79e72b0f193e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_shouping_chongzhimima_01": {
+      "ver": "1.0.3",
+      "uuid": "d3a58438-858e-416f-854f-824dc90c2e18",
+      "rawTextureUuid": "bddde3b5-1dca-4f70-bb96-79e72b0f193e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 131,
+      "height": 36,
+      "rawWidth": 131,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

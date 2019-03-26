@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_zhangyu",
+    "texture": "2aa346a1-ae4b-4008-b2b6-9dfc858c94ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      57
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      57,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

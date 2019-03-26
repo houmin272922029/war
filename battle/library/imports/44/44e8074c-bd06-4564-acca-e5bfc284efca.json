@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_10yuan_01",
+    "texture": "12af925c-7366-476b-ade8-6880c6564f7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

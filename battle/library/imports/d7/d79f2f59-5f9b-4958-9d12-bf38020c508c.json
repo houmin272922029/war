@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_zhujeimina_vip_01",
+    "texture": "5ef6891b-837c-42ba-8778-5886eaeb5838",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_duihuan_dizhi_01",
+    "texture": "6dbb677d-1c85-4706-b623-c7df33dae278",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

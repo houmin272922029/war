@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vip5zidan",
+    "texture": "db7d1388-d60e-4c35-8743-e8518a149bfb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

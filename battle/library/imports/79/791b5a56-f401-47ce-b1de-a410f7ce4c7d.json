@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_liuguang",
+    "texture": "0ae0a1ab-f3ed-4e0e-a886-687762818820",
+    "atlas": "",
+    "rect": [
+      25,
+      2,
+      1880,
+      270
+    ],
+    "offset": [
+      10,
+      0
+    ],
+    "originalSize": [
+      1910,
+      274
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

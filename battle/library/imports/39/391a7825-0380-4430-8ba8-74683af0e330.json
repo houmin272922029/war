@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_xinshoufenxiang_juese_01",
+    "texture": "eb13857d-a4ac-469d-ad54-7c8ffe8202bd",
+    "atlas": "",
+    "rect": [
+      6,
+      0,
+      148,
+      155
+    ],
+    "offset": [
+      2.5,
+      0.5
+    ],
+    "originalSize": [
+      155,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

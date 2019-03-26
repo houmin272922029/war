@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "543e77b3-8179-4409-b0ce-b591c276f8f2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jinhetun_anim_die": {
+      "ver": "1.0.3",
+      "uuid": "8ccaf282-0ce7-4909-85af-f924c9d639f7",
+      "rawTextureUuid": "543e77b3-8179-4409-b0ce-b591c276f8f2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 275,
+      "height": 116,
+      "rawWidth": 281,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

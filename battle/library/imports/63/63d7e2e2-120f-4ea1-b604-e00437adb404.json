@@ -1,0 +1,942 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_jiesuopaotai",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "sPpg3FmZpo2ggWUlS8yuXTmtKRI",
+      "spine": "3.6.53",
+      "width": 353,
+      "height": 300,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "jieusochneggong",
+        "parent": "root"
+      },
+      {
+        "name": "jieusochneggong2",
+        "parent": "jieusochneggong"
+      },
+      {
+        "name": "jieusochneggong3",
+        "parent": "jieusochneggong"
+      },
+      {
+        "name": "jieusochneggong4",
+        "parent": "jieusochneggong"
+      },
+      {
+        "name": "jieusochneggong6",
+        "parent": "jieusochneggong"
+      },
+      {
+        "name": "paokoudengji",
+        "parent": "root"
+      },
+      {
+        "name": "paokoudengji2",
+        "parent": "paokoudengji"
+      },
+      {
+        "name": "paokoudengji3",
+        "parent": "paokoudengji"
+      },
+      {
+        "name": "paokoudengji4",
+        "parent": "paokoudengji"
+      },
+      {
+        "name": "paokoudengji5",
+        "parent": "paokoudengji"
+      },
+      {
+        "name": "paokoudengji6",
+        "parent": "paokoudengji"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/data.dat_000491",
+        "bone": "paokoudengji2",
+        "attachment": "png/data.dat_000491",
+        "blend": "additive"
+      },
+      {
+        "name": "png/light01",
+        "bone": "paokoudengji3",
+        "attachment": "png/light01",
+        "blend": "additive"
+      },
+      {
+        "name": "png/light02",
+        "bone": "paokoudengji4",
+        "attachment": "png/light02",
+        "blend": "additive"
+      },
+      {
+        "name": "png/jiesuo",
+        "bone": "jieusochneggong3",
+        "attachment": "png/jiesuo"
+      },
+      {
+        "name": "png/quanquan_00000",
+        "bone": "paokoudengji5",
+        "attachment": "png/quanquan_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/gaosi_00000",
+        "bone": "jieusochneggong2",
+        "attachment": "png/gaosi_00012"
+      },
+      {
+        "name": "png/gaosi_0",
+        "bone": "jieusochneggong6",
+        "attachment": "png/gaosi_00012",
+        "blend": "additive"
+      },
+      {
+        "name": "png/jiesuobao_00000",
+        "bone": "jieusochneggong4",
+        "attachment": "png/jiesuobao_00000",
+        "blend": "additive"
+      },
+      {
+        "name": "png/yizhizhong_00000",
+        "bone": "paokoudengji6",
+        "attachment": "png/yizhizhong_00000",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/data.dat_000491": {
+          "png/data.dat_000491": {
+            "width": 200,
+            "height": 200
+          }
+        },
+        "png/gaosi_0": {
+          "png/gaosi_00000": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00001": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00002": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00003": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00004": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00005": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00006": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00007": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00008": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00009": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00010": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00011": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00012": {
+            "width": 353,
+            "height": 100
+          }
+        },
+        "png/gaosi_00000": {
+          "png/gaosi_00000": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00001": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00002": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00003": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00004": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00005": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00006": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00007": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00008": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00009": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00010": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00011": {
+            "width": 353,
+            "height": 100
+          },
+          "png/gaosi_00012": {
+            "width": 353,
+            "height": 100
+          }
+        },
+        "png/jiesuo": {
+          "png/jiesuo": {
+            "width": 192,
+            "height": 64
+          }
+        },
+        "png/jiesuobao_00000": {
+          "png/jiesuobao_00000": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00001": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00002": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00003": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00004": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00005": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00006": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00007": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00008": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00009": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00010": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00011": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00012": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00013": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00014": {
+            "width": 300,
+            "height": 300
+          },
+          "png/jiesuobao_00015": {
+            "width": 300,
+            "height": 300
+          }
+        },
+        "png/light01": {
+          "png/light01": {
+            "width": 90,
+            "height": 90
+          }
+        },
+        "png/light02": {
+          "png/light02": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/quanquan_00000": {
+          "png/quanquan_00000": {
+            "width": 160,
+            "height": 160
+          }
+        },
+        "png/yizhizhong_00000": {
+          "png/yizhizhong_00000": {
+            "width": 233,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "jieusochneggong": {
+        "slots": {
+          "png/data.dat_000491": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "png/data.dat_000491"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              }
+            ]
+          },
+          "png/gaosi_00000": {
+            "color": [
+              {
+                "time": 0.6333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/gaosi_00000"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/gaosi_00001"
+              },
+              {
+                "time": 0.3,
+                "name": "png/gaosi_00002"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/gaosi_00003"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/gaosi_00004"
+              },
+              {
+                "time": 0.4,
+                "name": "png/gaosi_00005"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/gaosi_00006"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/gaosi_00007"
+              },
+              {
+                "time": 0.5,
+                "name": "png/gaosi_00008"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/gaosi_00009"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/gaosi_00010"
+              },
+              {
+                "time": 0.6,
+                "name": "png/gaosi_00011"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/gaosi_00012"
+              }
+            ]
+          },
+          "png/gaosi_0": {
+            "color": [
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/gaosi_00000"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/gaosi_00001"
+              },
+              {
+                "time": 0.3,
+                "name": "png/gaosi_00002"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/gaosi_00003"
+              }
+            ]
+          },
+          "png/jiesuo": {
+            "color": [
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.5,
+                "name": "png/jiesuo"
+              }
+            ]
+          },
+          "png/jiesuobao_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/jiesuobao_00000"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/jiesuobao_00001"
+              },
+              {
+                "time": 0.3,
+                "name": "png/jiesuobao_00002"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/jiesuobao_00003"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/jiesuobao_00004"
+              },
+              {
+                "time": 0.4,
+                "name": "png/jiesuobao_00005"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/jiesuobao_00006"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/jiesuobao_00007"
+              },
+              {
+                "time": 0.5,
+                "name": "png/jiesuobao_00008"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/jiesuobao_00009"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/jiesuobao_00010"
+              },
+              {
+                "time": 0.6,
+                "name": "png/jiesuobao_00011"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/jiesuobao_00012"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/jiesuobao_00013"
+              },
+              {
+                "time": 0.7,
+                "name": "png/jiesuobao_00014"
+              },
+              {
+                "time": 0.7333,
+                "name": "png/jiesuobao_00015"
+              },
+              {
+                "time": 0.7667,
+                "name": null
+              }
+            ]
+          },
+          "png/light01": {
+            "color": [
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/light01"
+              }
+            ]
+          },
+          "png/light02": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffff61"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "png/light02"
+              }
+            ]
+          },
+          "png/quanquan_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/yizhizhong_00000": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "png/yizhizhong_00000"
+              },
+              {
+                "time": 0.4333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "paokoudengji2": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 1.77,
+                "y": 1.77
+              },
+              {
+                "time": 0.2667,
+                "x": 0.26,
+                "y": 0.26
+              }
+            ]
+          },
+          "paokoudengji3": {
+            "rotate": [
+              {
+                "time": 0.2333,
+                "angle": 0
+              },
+              {
+                "time": 0.5667,
+                "angle": -81
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.2333,
+                "x": -3.98,
+                "y": -3.98
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.2333,
+                "x": 4.212,
+                "y": 3.66
+              }
+            ]
+          },
+          "paokoudengji4": {
+            "scale": [
+              {
+                "time": 0.1667,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "time": 0.3,
+                "x": 2.08,
+                "y": 2.08
+              },
+              {
+                "time": 0.5,
+                "x": 2.85,
+                "y": 2.85
+              }
+            ]
+          },
+          "paokoudengji5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.66,
+                "y": 0.66
+              }
+            ]
+          },
+          "jieusochneggong6": {
+            "scale": [
+              {
+                "time": 0.2667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.4667,
+                "x": 1.43,
+                "y": 1.43
+              }
+            ]
+          },
+          "jieusochneggong4": {
+            "scale": [
+              {
+                "time": 0.2333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "paokoudengji6": {
+            "scale": [
+              {
+                "time": 0.2333,
+                "x": 2.2,
+                "y": 2.2
+              },
+              {
+                "time": 0.3,
+                "x": 3,
+                "y": 4.67
+              },
+              {
+                "time": 0.4,
+                "x": 1.2,
+                "y": 1.815
+              }
+            ]
+          },
+          "jieusochneggong3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -0.96,
+                "y": -0.48
+              }
+            ]
+          }
+        }
+      },
+      "paotai_jia": {
+        "slots": {
+          "png/data.dat_000491": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/data.dat_000491"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              }
+            ]
+          },
+          "png/gaosi_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/gaosi_0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/jiesuo": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/jiesuobao_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/light01": {
+            "color": [
+              {
+                "time": 0.2,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/light02": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff61",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "color": "ffffff61"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/quanquan_00000": {
+            "color": [
+              {
+                "time": 0.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "png/yizhizhong_00000": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "paokoudengji2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.77,
+                "y": 1.77
+              },
+              {
+                "time": 0.1,
+                "x": 0.26,
+                "y": 0.26
+              }
+            ]
+          },
+          "paokoudengji3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.4333,
+                "angle": -81
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 3.16,
+                "y": 3.16
+              }
+            ]
+          },
+          "paokoudengji4": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              },
+              {
+                "time": 0.1333,
+                "x": 2.08,
+                "y": 2.08
+              },
+              {
+                "time": 0.3333,
+                "x": 2.85,
+                "y": 2.85
+              }
+            ]
+          },
+          "paokoudengji5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.66,
+                "y": 0.66
+              },
+              {
+                "time": 0.0667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2667,
+                "x": 1.36,
+                "y": 1.36
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_jiesuopaotai.png\r\nsize: 1876,621\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/data.dat_000491\r\n  rotate: false\r\n  xy: 613, 152\r\n  size: 200, 199\r\n  orig: 200, 200\r\n  offset: 0, 1\r\n  index: -1\r\npng/gaosi_00000\r\n  rotate: false\r\n  xy: 277, 256\r\n  size: 313, 95\r\n  orig: 353, 100\r\n  offset: 21, 3\r\n  index: -1\r\npng/gaosi_00001\r\n  rotate: true\r\n  xy: 533, 0\r\n  size: 254, 78\r\n  orig: 353, 100\r\n  offset: 49, 11\r\n  index: -1\r\npng/gaosi_00002\r\n  rotate: false\r\n  xy: 1603, 323\r\n  size: 215, 68\r\n  orig: 353, 100\r\n  offset: 68, 16\r\n  index: -1\r\npng/gaosi_00003\r\n  rotate: false\r\n  xy: 0, 1\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00004\r\n  rotate: false\r\n  xy: 815, 108\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00005\r\n  rotate: true\r\n  xy: 1310, 166\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00006\r\n  rotate: false\r\n  xy: 1530, 257\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00007\r\n  rotate: false\r\n  xy: 1533, 191\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00008\r\n  rotate: false\r\n  xy: 1533, 125\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00009\r\n  rotate: true\r\n  xy: 1728, 128\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00010\r\n  rotate: true\r\n  xy: 1794, 128\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00011\r\n  rotate: false\r\n  xy: 949, 12\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/gaosi_00012\r\n  rotate: false\r\n  xy: 1144, 1\r\n  size: 193, 64\r\n  orig: 353, 100\r\n  offset: 79, 17\r\n  index: -1\r\npng/jiesuo\r\n  rotate: false\r\n  xy: 1502, 59\r\n  size: 192, 64\r\n  orig: 192, 64\r\n  offset: 0, 0\r\n  index: -1\r\npng/jiesuobao_00000\r\n  rotate: true\r\n  xy: 1376, 142\r\n  size: 98, 155\r\n  orig: 300, 300\r\n  offset: 100, 79\r\n  index: -1\r\npng/jiesuobao_00001\r\n  rotate: false\r\n  xy: 1186, 197\r\n  size: 122, 162\r\n  orig: 300, 300\r\n  offset: 87, 71\r\n  index: -1\r\npng/jiesuobao_00002\r\n  rotate: false\r\n  xy: 821, 174\r\n  size: 201, 185\r\n  orig: 300, 300\r\n  offset: 36, 61\r\n  index: -1\r\npng/jiesuobao_00003\r\n  rotate: false\r\n  xy: 1603, 393\r\n  size: 273, 228\r\n  orig: 300, 300\r\n  offset: 5, 63\r\n  index: -1\r\npng/jiesuobao_00004\r\n  rotate: false\r\n  xy: 275, 12\r\n  size: 256, 242\r\n  orig: 300, 300\r\n  offset: 4, 44\r\n  index: -1\r\npng/jiesuobao_00005\r\n  rotate: false\r\n  xy: 821, 361\r\n  size: 263, 260\r\n  orig: 300, 300\r\n  offset: 7, 27\r\n  index: -1\r\npng/jiesuobao_00006\r\n  rotate: false\r\n  xy: 1086, 361\r\n  size: 257, 260\r\n  orig: 300, 300\r\n  offset: 17, 26\r\n  index: -1\r\npng/jiesuobao_00007\r\n  rotate: false\r\n  xy: 1345, 362\r\n  size: 256, 259\r\n  orig: 300, 300\r\n  offset: 18, 24\r\n  index: -1\r\npng/jiesuobao_00008\r\n  rotate: false\r\n  xy: 277, 353\r\n  size: 274, 268\r\n  orig: 300, 300\r\n  offset: 5, 19\r\n  index: -1\r\npng/jiesuobao_00009\r\n  rotate: false\r\n  xy: 0, 67\r\n  size: 273, 273\r\n  orig: 300, 300\r\n  offset: 9, 16\r\n  index: -1\r\npng/jiesuobao_00010\r\n  rotate: false\r\n  xy: 0, 342\r\n  size: 275, 279\r\n  orig: 300, 300\r\n  offset: 9, 13\r\n  index: -1\r\npng/jiesuobao_00011\r\n  rotate: false\r\n  xy: 553, 353\r\n  size: 266, 268\r\n  orig: 300, 300\r\n  offset: 14, 18\r\n  index: -1\r\npng/jiesuobao_00012\r\n  rotate: false\r\n  xy: 613, 0\r\n  size: 158, 150\r\n  orig: 300, 300\r\n  offset: 43, 94\r\n  index: -1\r\npng/jiesuobao_00013\r\n  rotate: false\r\n  xy: 1376, 242\r\n  size: 152, 118\r\n  orig: 300, 300\r\n  offset: 50, 92\r\n  index: -1\r\npng/jiesuobao_00014\r\n  rotate: false\r\n  xy: 1376, 18\r\n  size: 124, 122\r\n  orig: 300, 300\r\n  offset: 82, 90\r\n  index: -1\r\npng/jiesuobao_00015\r\n  rotate: true\r\n  xy: 1024, 78\r\n  size: 119, 128\r\n  orig: 300, 300\r\n  offset: 89, 87\r\n  index: -1\r\npng/light01\r\n  rotate: false\r\n  xy: 1284, 74\r\n  size: 90, 90\r\n  orig: 90, 90\r\n  offset: 0, 0\r\n  index: -1\r\npng/light02\r\n  rotate: false\r\n  xy: 1154, 67\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\npng/quanquan_00000\r\n  rotate: false\r\n  xy: 1024, 199\r\n  size: 160, 160\r\n  orig: 160, 160\r\n  offset: 0, 0\r\n  index: -1\r\npng/yizhizhong_00000\r\n  rotate: false\r\n  xy: 773, 7\r\n  size: 174, 99\r\n  orig: 233, 128\r\n  offset: 29, 14\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "2301ed60-e5a4-42a0-85da-bf3aa743e45b"
+    }
+  ],
+  "textureNames": [
+    "anim_jiesuopaotai.png"
+  ],
+  "scale": 1
+}

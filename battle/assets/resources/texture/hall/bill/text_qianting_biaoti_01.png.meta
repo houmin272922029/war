@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f31c71b8-74c5-407f-930e-8016ffe182e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "text_qianting_biaoti_01": {
+      "ver": "1.0.3",
+      "uuid": "7e675d0b-92dc-4d00-af9c-9ce575431da8",
+      "rawTextureUuid": "f31c71b8-74c5-407f-930e-8016ffe182e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 535,
+      "height": 104,
+      "rawWidth": 539,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

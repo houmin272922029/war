@@ -1,0 +1,95 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_daojishi",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "8wa3MIxtjq4LoyRI9JnUEnxsXD8",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720.5,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone2",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "light01",
+        "bone": "bone2",
+        "attachment": "light01",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "light01": {
+          "light01": {
+            "width": 317,
+            "height": 157
+          }
+        }
+      }
+    },
+    "animations": {
+      "daojishi": {
+        "slots": {
+          "light01": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone2": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2333,
+                "x": 2,
+                "y": 1
+              },
+              {
+                "time": 1,
+                "x": 1.5,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_daojishi.png\r\nsize: 321,161\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nlight01\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 317, 157\r\n  orig: 317, 157\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3905431b-e83d-4930-8239-b10f23ec7839"
+    }
+  ],
+  "textureNames": [
+    "anim_daojishi.png"
+  ],
+  "scale": 1
+}

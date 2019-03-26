@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_viptequan_jindutiao_01",
+    "texture": "bd218f57-04b4-4505-8da7-699100ce6787",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      377,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      377,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

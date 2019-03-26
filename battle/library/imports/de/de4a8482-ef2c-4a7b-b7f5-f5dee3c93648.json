@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_jingjichang_zuoripaiming_01",
+    "texture": "27cd2eb6-c001-426f-a5d2-9a3797526a8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

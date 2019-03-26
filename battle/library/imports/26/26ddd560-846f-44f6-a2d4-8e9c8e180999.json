@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_vip_huadonganniu_02",
+    "texture": "e68442f0-faa1-41ff-adfe-2be2b9c18e1f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

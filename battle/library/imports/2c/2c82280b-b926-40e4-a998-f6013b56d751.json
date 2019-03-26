@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "led.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "rank5_normal": {
+      "__uuid__": "7dc17618-78ec-42d1-9e7e-a818aaba403e"
+    },
+    "ui_led_fengefu_01": {
+      "__uuid__": "e34a8008-053f-4a11-a0c6-3b1090dab911"
+    },
+    "ui_led_game_01": {
+      "__uuid__": "f2c9e303-7ac6-4360-bf9a-5968f02b3743"
+    },
+    "ui_led_guanjun_01": {
+      "__uuid__": "59bfa345-4566-4257-ba1e-a4d0e5492c57"
+    },
+    "ui_led_guli_01": {
+      "__uuid__": "2509bbd7-d04b-427d-bacb-b6519ba2d3bd"
+    },
+    "ui_led_jiang_01": {
+      "__uuid__": "a7790640-f86e-4a5c-9c99-7b2502bff64a"
+    },
+    "ui_led_jingji_01": {
+      "__uuid__": "85e43f71-ea10-453d-ae50-3555ea28399e"
+    },
+    "ui_led_lipin_01": {
+      "__uuid__": "1f44ef08-f728-4afb-962e-82245dfe10c3"
+    },
+    "ui_led_paotai_01": {
+      "__uuid__": "23e30d3a-9b25-4f31-917f-453e51313636"
+    },
+    "ui_led_qiandai_01": {
+      "__uuid__": "90a44f2e-fe42-4470-bab6-6807d7826c81"
+    },
+    "ui_led_wangguan_01": {
+      "__uuid__": "c604a9ee-16b1-4b54-9434-8b73f12fbb2e"
+    },
+    "ui_led_xitong_01": {
+      "__uuid__": "63909a7e-9384-41a1-8bbb-90ab286b9360"
+    }
+  }
+}

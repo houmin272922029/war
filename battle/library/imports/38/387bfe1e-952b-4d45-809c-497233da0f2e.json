@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zidan_vip0_2",
+    "texture": "7744f1b5-cd22-4c5d-a272-72a78172fe60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      55
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      72,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

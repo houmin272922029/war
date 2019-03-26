@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_yibangding_01",
+    "texture": "d731cb29-01fc-4a8c-936f-132cfa6807bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

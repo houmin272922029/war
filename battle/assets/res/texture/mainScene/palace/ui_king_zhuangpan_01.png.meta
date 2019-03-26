@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4f1a4445-c0b9-41b9-b165-8a48eec48841",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_king_zhuangpan_01": {
+      "ver": "1.0.3",
+      "uuid": "fa29cc05-c297-423f-995d-05ff0b562b7d",
+      "rawTextureUuid": "4f1a4445-c0b9-41b9-b165-8a48eec48841",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 158,
+      "height": 163,
+      "rawWidth": 158,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

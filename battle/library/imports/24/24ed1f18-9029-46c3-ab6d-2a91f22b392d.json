@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_gerenxinix_renqi_01",
+    "texture": "a2d30507-43ba-42c8-b3b6-92c4bf6ea11f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      144,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_miaozhun",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "KQQpTEFJlZLrHvmsTnIucpikhC8",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "quan",
+        "bone": "bone",
+        "attachment": "quan"
+      },
+      {
+        "name": "quan2",
+        "bone": "bone3",
+        "attachment": "quan"
+      }
+    ],
+    "skins": {
+      "default": {
+        "quan": {
+          "quan": {
+            "width": 196,
+            "height": 196
+          }
+        },
+        "quan2": {
+          "quan": {
+            "width": 196,
+            "height": 196
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "quan": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "quan2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff9d"
+              },
+              {
+                "time": 0.4333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff9d"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.8,
+                "y": 0.8
+              },
+              {
+                "time": 0.9333,
+                "x": 3,
+                "y": 3
+              }
+            ]
+          },
+          "bone3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.979,
+                "y": 1.979
+              },
+              {
+                "time": 0.4333,
+                "x": 3,
+                "y": 3
+              },
+              {
+                "time": 0.5,
+                "x": 0.8,
+                "y": 0.8
+              },
+              {
+                "time": 1,
+                "x": 1.979,
+                "y": 1.979
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_miaozhun.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nquan\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 196, 196\r\n  orig: 196, 196\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "f2d85120-3598-4827-a034-21ad9a26c887"
+    }
+  ],
+  "textureNames": [
+    "anim_miaozhun.png"
+  ],
+  "scale": 1
+}

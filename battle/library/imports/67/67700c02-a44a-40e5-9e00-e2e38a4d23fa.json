@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_gerenxinxi_qiming_01",
+    "texture": "60289f92-a25f-4e0b-965b-37e3ff7f99c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      312,
+      25
+    ],
+    "offset": [
+      -3.5,
+      0
+    ],
+    "originalSize": [
+      319,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

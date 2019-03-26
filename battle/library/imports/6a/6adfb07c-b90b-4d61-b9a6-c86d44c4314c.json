@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_qiantingruqin_jishiqi_01",
+    "texture": "531a7f4c-fac2-41c9-a961-3452c8934fdd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

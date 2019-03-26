@@ -1,0 +1,528 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_huodezs",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "SEbe5PKCSRvSqrNuYLezJ6nZbzg",
+      "spine": "3.6.53",
+      "width": 1280,
+      "height": 720,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone3",
+        "parent": "root"
+      },
+      {
+        "name": "bone4",
+        "parent": "root"
+      },
+      {
+        "name": "bone5",
+        "parent": "root"
+      },
+      {
+        "name": "bone6",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "png/xxuan_8",
+        "bone": "bone4",
+        "attachment": "png/xxuan_8"
+      },
+      {
+        "name": "png/light01",
+        "bone": "bone5",
+        "attachment": "png/light01",
+        "blend": "additive"
+      },
+      {
+        "name": "png/b_0",
+        "bone": "bone6",
+        "attachment": "png/b_0",
+        "blend": "additive"
+      },
+      {
+        "name": "png/gg_0",
+        "bone": "bone3",
+        "attachment": "png/gg_9",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "png/b_0": {
+          "png/b_0": {
+            "width": 194,
+            "height": 184
+          }
+        },
+        "png/gg_0": {
+          "png/gg_0": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_1": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_2": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_3": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_4": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_5": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_6": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_7": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_8": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_9": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_10": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_11": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_12": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_13": {
+            "width": 116,
+            "height": 110
+          },
+          "png/gg_14": {
+            "width": 116,
+            "height": 110
+          }
+        },
+        "png/light01": {
+          "png/light01": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "png/xxuan_8": {
+          "png/xxuan_8": {
+            "width": 157,
+            "height": 178
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "png/b_0": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9667,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/b_0"
+              }
+            ]
+          },
+          "png/gg_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "png/gg_0"
+              },
+              {
+                "time": 0.0333,
+                "name": "png/gg_1"
+              },
+              {
+                "time": 0.0667,
+                "name": "png/gg_2"
+              },
+              {
+                "time": 0.1,
+                "name": "png/gg_3"
+              },
+              {
+                "time": 0.1333,
+                "name": "png/gg_4"
+              },
+              {
+                "time": 0.1667,
+                "name": "png/gg_5"
+              },
+              {
+                "time": 0.2,
+                "name": "png/gg_6"
+              },
+              {
+                "time": 0.2333,
+                "name": "png/gg_7"
+              },
+              {
+                "time": 0.2667,
+                "name": "png/gg_8"
+              },
+              {
+                "time": 0.3,
+                "name": "png/gg_9"
+              },
+              {
+                "time": 0.3333,
+                "name": "png/gg_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "png/gg_11"
+              },
+              {
+                "time": 0.4,
+                "name": "png/gg_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "png/gg_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "png/gg_14"
+              },
+              {
+                "time": 0.5,
+                "name": "png/gg_0"
+              },
+              {
+                "time": 0.5333,
+                "name": "png/gg_1"
+              },
+              {
+                "time": 0.5667,
+                "name": "png/gg_2"
+              },
+              {
+                "time": 0.6,
+                "name": "png/gg_3"
+              },
+              {
+                "time": 0.6333,
+                "name": "png/gg_4"
+              },
+              {
+                "time": 0.6667,
+                "name": "png/gg_5"
+              },
+              {
+                "time": 0.7,
+                "name": "png/gg_6"
+              },
+              {
+                "time": 0.7333,
+                "name": "png/gg_7"
+              },
+              {
+                "time": 0.7667,
+                "name": "png/gg_8"
+              },
+              {
+                "time": 0.8,
+                "name": "png/gg_9"
+              },
+              {
+                "time": 0.8333,
+                "name": "png/gg_10"
+              },
+              {
+                "time": 0.8667,
+                "name": "png/gg_11"
+              },
+              {
+                "time": 0.9,
+                "name": "png/gg_12"
+              },
+              {
+                "time": 0.9333,
+                "name": "png/gg_13"
+              },
+              {
+                "time": 0.9667,
+                "name": "png/gg_14"
+              },
+              {
+                "time": 1,
+                "name": "png/gg_0"
+              },
+              {
+                "time": 1.0333,
+                "name": "png/gg_1"
+              },
+              {
+                "time": 1.0667,
+                "name": "png/gg_2"
+              },
+              {
+                "time": 1.1,
+                "name": "png/gg_3"
+              },
+              {
+                "time": 1.1333,
+                "name": "png/gg_4"
+              },
+              {
+                "time": 1.1667,
+                "name": "png/gg_5"
+              },
+              {
+                "time": 1.2,
+                "name": "png/gg_6"
+              },
+              {
+                "time": 1.2333,
+                "name": "png/gg_7"
+              },
+              {
+                "time": 1.2667,
+                "name": "png/gg_8"
+              },
+              {
+                "time": 1.3,
+                "name": "png/gg_9"
+              },
+              {
+                "time": 1.3333,
+                "name": "png/gg_10"
+              },
+              {
+                "time": 1.3667,
+                "name": "png/gg_11"
+              },
+              {
+                "time": 1.4,
+                "name": "png/gg_12"
+              },
+              {
+                "time": 1.4333,
+                "name": "png/gg_13"
+              },
+              {
+                "time": 1.4667,
+                "name": "png/gg_14"
+              },
+              {
+                "time": 1.5,
+                "name": "png/gg_0"
+              },
+              {
+                "time": 1.5333,
+                "name": "png/gg_1"
+              },
+              {
+                "time": 1.5667,
+                "name": "png/gg_2"
+              },
+              {
+                "time": 1.6,
+                "name": "png/gg_3"
+              },
+              {
+                "time": 1.6333,
+                "name": "png/gg_4"
+              },
+              {
+                "time": 1.6667,
+                "name": "png/gg_5"
+              },
+              {
+                "time": 1.7,
+                "name": "png/gg_6"
+              },
+              {
+                "time": 1.7333,
+                "name": "png/gg_7"
+              },
+              {
+                "time": 1.7667,
+                "name": "png/gg_8"
+              },
+              {
+                "time": 1.8,
+                "name": "png/gg_9"
+              },
+              {
+                "time": 1.8333,
+                "name": "png/gg_10"
+              },
+              {
+                "time": 1.8667,
+                "name": "png/gg_11"
+              },
+              {
+                "time": 1.9,
+                "name": "png/gg_12"
+              },
+              {
+                "time": 1.9333,
+                "name": "png/gg_13"
+              },
+              {
+                "time": 1.9667,
+                "name": "png/gg_14"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone3": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.5667,
+                "angle": -100.36
+              },
+              {
+                "time": 1.1,
+                "angle": 165.92
+              },
+              {
+                "time": 1.9667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.709,
+                "y": 0.704
+              }
+            ]
+          },
+          "bone5": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -2.66,
+                "y": 3.99
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.644,
+                "y": 0.644
+              }
+            ]
+          },
+          "bone6": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -4.55,
+                "y": 0.51
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.568,
+                "y": 0.521
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_huodezs.png\r\nsize: 1181,205\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\npng/b_0\r\n  rotate: false\r\n  xy: 0, 25\r\n  size: 164, 180\r\n  orig: 194, 184\r\n  offset: 20, 4\r\n  index: -1\r\npng/gg_0\r\n  rotate: false\r\n  xy: 1092, 28\r\n  size: 89, 84\r\n  orig: 116, 110\r\n  offset: 12, 11\r\n  index: -1\r\npng/gg_1\r\n  rotate: false\r\n  xy: 1001, 25\r\n  size: 89, 86\r\n  orig: 116, 110\r\n  offset: 11, 9\r\n  index: -1\r\npng/gg_10\r\n  rotate: false\r\n  xy: 725, 4\r\n  size: 90, 102\r\n  orig: 116, 110\r\n  offset: 15, 1\r\n  index: -1\r\npng/gg_11\r\n  rotate: false\r\n  xy: 632, 4\r\n  size: 91, 102\r\n  orig: 116, 110\r\n  offset: 15, 1\r\n  index: -1\r\npng/gg_12\r\n  rotate: false\r\n  xy: 538, 101\r\n  size: 91, 104\r\n  orig: 116, 110\r\n  offset: 15, 0\r\n  index: -1\r\npng/gg_13\r\n  rotate: false\r\n  xy: 442, 101\r\n  size: 94, 104\r\n  orig: 116, 110\r\n  offset: 13, 0\r\n  index: -1\r\npng/gg_14\r\n  rotate: false\r\n  xy: 542, 5\r\n  size: 88, 94\r\n  orig: 116, 110\r\n  offset: 12, 11\r\n  index: -1\r\npng/gg_2\r\n  rotate: false\r\n  xy: 817, 18\r\n  size: 92, 89\r\n  orig: 116, 110\r\n  offset: 10, 8\r\n  index: -1\r\npng/gg_3\r\n  rotate: false\r\n  xy: 911, 20\r\n  size: 88, 89\r\n  orig: 116, 110\r\n  offset: 10, 8\r\n  index: -1\r\npng/gg_4\r\n  rotate: false\r\n  xy: 1024, 114\r\n  size: 94, 91\r\n  orig: 116, 110\r\n  offset: 9, 7\r\n  index: -1\r\npng/gg_5\r\n  rotate: false\r\n  xy: 927, 113\r\n  size: 95, 92\r\n  orig: 116, 110\r\n  offset: 8, 6\r\n  index: -1\r\npng/gg_6\r\n  rotate: false\r\n  xy: 830, 111\r\n  size: 95, 94\r\n  orig: 116, 110\r\n  offset: 8, 6\r\n  index: -1\r\npng/gg_7\r\n  rotate: false\r\n  xy: 731, 109\r\n  size: 97, 96\r\n  orig: 116, 110\r\n  offset: 7, 4\r\n  index: -1\r\npng/gg_8\r\n  rotate: false\r\n  xy: 631, 108\r\n  size: 98, 97\r\n  orig: 116, 110\r\n  offset: 6, 3\r\n  index: -1\r\npng/gg_9\r\n  rotate: false\r\n  xy: 442, 0\r\n  size: 98, 99\r\n  orig: 116, 110\r\n  offset: 5, 3\r\n  index: -1\r\npng/light01\r\n  rotate: false\r\n  xy: 320, 85\r\n  size: 120, 120\r\n  orig: 128, 128\r\n  offset: 4, 4\r\n  index: -1\r\npng/xxuan_8\r\n  rotate: false\r\n  xy: 166, 44\r\n  size: 152, 161\r\n  orig: 157, 178\r\n  offset: 4, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "9c890163-8288-4ca3-835d-13ca31e4a97b"
+    }
+  ],
+  "textureNames": [
+    "anim_huodezs.png"
+  ],
+  "scale": 1
+}

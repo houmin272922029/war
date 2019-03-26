@@ -1,0 +1,55 @@
+
+jinjianyu_anim_die.png
+size: 308,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 156, 58
+  size: 150, 141
+  orig: 150, 141
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 267, 22
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 2, 8
+  size: 191, 152
+  orig: 191, 152
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 236, 2
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 156, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 156, 25
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 200, 5
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

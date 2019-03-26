@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_nindeweizhi_01",
+    "texture": "a3378ce4-fb09-4714-8b57-ea6c3c77a090",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

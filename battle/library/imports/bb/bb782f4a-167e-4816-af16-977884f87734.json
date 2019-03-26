@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_cw_zhunbei_01",
+    "texture": "3fd37b63-1fdb-45b9-ab43-54136689d3a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

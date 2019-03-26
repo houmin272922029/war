@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_choujiang_01",
+    "texture": "b4f54dc6-65f8-48b6-8231-4ddc6d3f3338",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      199,
+      29
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      200,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

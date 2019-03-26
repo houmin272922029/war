@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huafei_tanhao_01",
+    "texture": "40daa116-a084-4eb3-830c-7ebc8c18be77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

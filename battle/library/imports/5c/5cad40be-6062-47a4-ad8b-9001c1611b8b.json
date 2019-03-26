@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafeisai_05",
+    "texture": "5c08db21-a0b9-45b1-9cb7-d92efb7600e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

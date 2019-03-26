@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_daojugoumai_daojushuliang_02",
+    "texture": "00fd9b2f-a689-4a3f-aa6c-9084a40b7fe7",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      199,
+      25
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

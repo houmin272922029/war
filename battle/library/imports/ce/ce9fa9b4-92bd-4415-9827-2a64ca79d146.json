@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_yinbo",
+    "texture": "fe599263-22b5-4460-ae39-25f48d99a1e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1289,
+      814
+    ],
+    "offset": [
+      -364,
+      0
+    ],
+    "originalSize": [
+      2017,
+      814
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

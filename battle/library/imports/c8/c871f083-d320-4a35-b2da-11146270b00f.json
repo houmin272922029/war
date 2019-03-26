@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_jiangli_01",
+    "texture": "4eab3b12-b82b-4826-92bf-2ed43ffeb71c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

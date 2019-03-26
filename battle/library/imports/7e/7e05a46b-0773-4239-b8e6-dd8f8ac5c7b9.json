@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_huafei_fangjian_01",
+    "texture": "d31226fd-1c5f-4827-8385-c9ac4758a2c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

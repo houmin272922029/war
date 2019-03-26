@@ -1,0 +1,141 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "anim_gongxihuode1",
+  "_objFlags": 0,
+  "_native": "raw-skeleton.json",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "k0VP/W8WlftAwQf6YhJmqOGloS4",
+      "spine": "3.6.53",
+      "width": 1218.78,
+      "height": 986.79,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone22",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "wngliguang3",
+        "bone": "bone22",
+        "attachment": "wngliguang"
+      },
+      {
+        "name": "wngliguang4",
+        "bone": "bone22",
+        "attachment": "wngliguang",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "wngliguang3": {
+          "wngliguang": {
+            "width": 262,
+            "height": 272
+          }
+        },
+        "wngliguang4": {
+          "wngliguang": {
+            "width": 262,
+            "height": 272
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "wngliguang3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "wngliguang"
+              }
+            ]
+          },
+          "wngliguang4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff9c"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "wngliguang"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone22": {
+            "rotate": [
+              {
+                "time": 0.2,
+                "angle": 0
+              },
+              {
+                "time": 0.8,
+                "angle": -90.14
+              },
+              {
+                "time": 1.4667,
+                "angle": 175.07
+              },
+              {
+                "time": 2.1333,
+                "angle": 84.19
+              },
+              {
+                "time": 2.8333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "time": 0.1,
+                "x": 1.653,
+                "y": 1.653
+              },
+              {
+                "time": 0.2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nanim_gongxihuode1.png\r\nsize: 214,222\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nwngliguang\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 210, 218\r\n  orig: 210, 218\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "799862e8-03ee-44d4-8e0c-99a78c85a687"
+    }
+  ],
+  "textureNames": [
+    "anim_gongxihuode1.png"
+  ],
+  "scale": 1
+}

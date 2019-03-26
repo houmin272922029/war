@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinjianyu_anim_die",
+    "texture": "516d32ac-fc34-4a30-a0a3-fd25249efef4",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      304,
+      197
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

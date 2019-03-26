@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_kuangbao_02",
+    "texture": "f37ffd1f-85a9-4cae-851b-1a3b1826ab9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

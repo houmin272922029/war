@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eebd99c0-fc5b-47c3-a33b-a0300a44e958",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_cifu_tubiaokuang_01": {
+      "ver": "1.0.3",
+      "uuid": "8d20735d-fe68-4fde-910b-d089f1bae7f5",
+      "rawTextureUuid": "eebd99c0-fc5b-47c3-a33b-a0300a44e958",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 148,
+      "rawWidth": 145,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

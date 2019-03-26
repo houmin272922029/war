@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4d6bb8ef-7bb9-4f0f-bd8d-cb545a12a174",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_huafei_qianting_01": {
+      "ver": "1.0.3",
+      "uuid": "811e1149-6771-4287-bd8f-0be911957360",
+      "rawTextureUuid": "4d6bb8ef-7bb9-4f0f-bd8d-cb545a12a174",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 240,
+      "height": 104,
+      "rawWidth": 240,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinli",
+    "texture": "8a47080f-2ac9-498c-8d57-d9006eed47cf",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      69,
+      35
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+
+anim_die_bg_8.png
+size: 1924,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/hbaozha/hbaozha_00001
+  rotate: true
+  xy: 843, 333
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00003
+  rotate: true
+  xy: 843, 112
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00005
+  rotate: true
+  xy: 1052, 333
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00007
+  rotate: true
+  xy: 1166, 657
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00009
+  rotate: true
+  xy: 1052, 112
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00011
+  rotate: true
+  xy: 1261, 436
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00013
+  rotate: true
+  xy: 1375, 657
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00015
+  rotate: true
+  xy: 1261, 215
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00017
+  rotate: false
+  xy: 1261, 6
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00019
+  rotate: true
+  xy: 1470, 436
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00021
+  rotate: true
+  xy: 1584, 657
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00023
+  rotate: true
+  xy: 1470, 215
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00025
+  rotate: false
+  xy: 1482, 6
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00027
+  rotate: false
+  xy: 1679, 448
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00029
+  rotate: true
+  xy: 1679, 227
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/hbaozha/hbaozha_00031
+  rotate: false
+  xy: 1703, 18
+  size: 219, 207
+  orig: 219, 207
+  offset: 0, 0
+  index: -1
+png/huangyi8ng_00000
+  rotate: true
+  xy: 486, 484
+  size: 392, 355
+  orig: 392, 355
+  offset: 0, 0
+  index: -1
+png/huangyi8ng_00001
+  rotate: true
+  xy: 486, 90
+  size: 392, 355
+  orig: 392, 355
+  offset: 0, 0
+  index: -1
+png/shanguang_0
+  rotate: false
+  xy: 486, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+png/xuying_00000
+  rotate: false
+  xy: 843, 554
+  size: 321, 322
+  orig: 321, 322
+  offset: 0, 0
+  index: -1
+png/ziguang_00003
+  rotate: true
+  xy: 2, 18
+  size: 858, 482
+  orig: 858, 482
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0bd0fb6b-6149-4aa8-963e-97544263ed4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_daojuzengsong_diban_04": {
+      "ver": "1.0.3",
+      "uuid": "5403c5b4-6dfc-4e9b-8186-079a6e7fa695",
+      "rawTextureUuid": "0bd0fb6b-6149-4aa8-963e-97544263ed4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 125,
+      "height": 61,
+      "rawWidth": 125,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

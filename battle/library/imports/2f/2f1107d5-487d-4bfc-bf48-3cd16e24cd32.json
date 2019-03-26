@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_yueka_yeqian_01",
+    "texture": "71e61bfd-66ef-42f3-a3ae-c69285b2bc5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      208,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

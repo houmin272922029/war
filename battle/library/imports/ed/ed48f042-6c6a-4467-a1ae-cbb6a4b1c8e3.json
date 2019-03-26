@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_Pangxie",
+    "texture": "037da8f0-5c63-4696-892b-4c556fd00899",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      986,
+      502
+    ],
+    "offset": [
+      -17,
+      3
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

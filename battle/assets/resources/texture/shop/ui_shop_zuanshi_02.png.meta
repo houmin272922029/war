@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a86b6d54-ce02-4961-aa2e-d71c58b58ddf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_zuanshi_02": {
+      "ver": "1.0.3",
+      "uuid": "99d332d0-fabb-4841-a39c-6a17fb1f96d6",
+      "rawTextureUuid": "a86b6d54-ce02-4961-aa2e-d71c58b58ddf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 71,
+      "rawWidth": 103,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

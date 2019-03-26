@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_yuchang_gerenxinxi_01",
+    "texture": "73c78de4-0805-4e44-92e4-c56e7d2f5134",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2aa346a1-ae4b-4008-b2b6-9dfc858c94ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "fish_icon_zhangyu": {
+      "ver": "1.0.3",
+      "uuid": "131d661d-7df9-44d7-8773-c2bf206c9c70",
+      "rawTextureUuid": "2aa346a1-ae4b-4008-b2b6-9dfc858c94ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 56,
+      "height": 57,
+      "rawWidth": 57,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

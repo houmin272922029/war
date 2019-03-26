@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d182f92f-23c8-4924-9e9f-5f782c7e3b4c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_shop_zhouka_01": {
+      "ver": "1.0.3",
+      "uuid": "2516fe93-4ace-4bff-8aa7-07fe6f4ab8b1",
+      "rawTextureUuid": "d182f92f-23c8-4924-9e9f-5f782c7e3b4c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 154,
+      "height": 119,
+      "rawWidth": 155,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

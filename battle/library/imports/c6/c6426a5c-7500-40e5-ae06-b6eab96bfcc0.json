@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anim_kapaihb",
+    "texture": "9aa757c2-c825-40e7-8d3d-df60663aabf8",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      126,
+      121
+    ],
+    "offset": [
+      -63,
+      1.5
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

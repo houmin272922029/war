@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_shrimp_kapai_01",
+    "texture": "6c0088b1-4525-4966-92b8-8260d6f2494d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      262,
+      315
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      315
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

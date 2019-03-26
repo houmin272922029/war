@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_bosswanfa_haha_01",
+    "texture": "f4cedebc-59bc-4cfa-92aa-25a12b5c3d66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      299,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      299,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

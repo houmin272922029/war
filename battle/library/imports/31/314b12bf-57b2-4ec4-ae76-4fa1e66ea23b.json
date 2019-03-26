@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo_lebinfen",
+    "texture": "9711e6ed-5be8-4c29-9985-b6bbe3746f0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      283,
+      221
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      283,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

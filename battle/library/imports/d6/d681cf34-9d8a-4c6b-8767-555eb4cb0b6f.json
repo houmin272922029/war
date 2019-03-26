@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_xiaoyouxi_man_02",
+    "texture": "5739c5e7-bc60-4656-a0b4-97f4d3f64100",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

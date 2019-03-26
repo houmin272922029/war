@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_daojugoumai_chongzhi_01",
+    "texture": "493c1b47-0c58-4f41-8f5b-20e91ac66293",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

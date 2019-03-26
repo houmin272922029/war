@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_beibao_shiyong_01",
+    "texture": "ac93654d-984e-4038-979e-fb98b7d85fac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
